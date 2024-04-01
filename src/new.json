@@ -82,7 +82,7 @@
             "image": ["./img/sg_24_tabletop_table cards-grey.png","./img/sg_24_tabletop_table cards-grey.png","./img/sg_24_tabletop_table cards-grey.png"],
             "name": "Sales Integration Announcement Card",
             "price": 0,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
             "options": [
               {"variation": "Select an option", "value": ""},
               {"variation": "Terracotta/Ivory/Apricot", "value": "Contact Media"},
