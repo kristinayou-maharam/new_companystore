@@ -898,6 +898,10 @@ h2{
   margin-top: 25vh !important;
 }
 
+#searchQueryInput{
+  width: 15vw;
+}
+
 #searchResults{
   width: 45vw;
   overflow-y: scroll;
