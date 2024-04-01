@@ -816,22 +816,22 @@ ul{
 @media only screen and (max-width: 650px){
 
   .slick-carousel{
-    width: 50vw;
+    width: 60vw;
     margin-left: 12vw;
   }
 
   .slick-slide{
-    width: 50vw!important;
+    width: 60vw!important;
  
   }
 
 #productimage{
-  width: 50vw;
-  height: 50vw;
+  width: 60vw;
+  height: 60vw;
 }
 
 .slick-list{
-  height: 50vw;
+  height: 60vw;
 }
 
 #menu{
@@ -856,8 +856,8 @@ ul{
 }
 
 .productdetails{
-  width: 76vw;
-  left: 12vw;
+  width: 84vw;
+  left: 8vw;
   z-index: 500;
 }
 
@@ -879,7 +879,7 @@ h2{
 }
 
 #exit{
-  margin-left: 65%;
+  margin-left: 75%;
 }
 
 .first{
@@ -895,7 +895,7 @@ h2{
 }
 
 #gallery{
-  margin-top: 32vh !important;
+  margin-top: 26vh !important;
 }
 
 #searchQueryInput{
@@ -919,4 +919,10 @@ ul{
   font-size: 20px;
   margin-top: 3vh;
 }
+}
+
+@media only screen and (max-width: 380px){
+  #gallery{
+    margin-top: 32vh !important;
+  }
 }
