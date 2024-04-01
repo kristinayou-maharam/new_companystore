@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayStationery = function (index) {
         const stationery = data.stationery[index];
         const dropdownOptions = stationery.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = stationery.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${stationery.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = stationery.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${stationery.name}"></div>`).join('');
 
         const stationeryInfoHTML = `
         <div class="slick-carousel">
@@ -31,8 +31,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -72,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayNew = function (index) {
         const neww = data.new[index];
         const dropdownOptions = neww.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = neww.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${neww.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = neww.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${neww.name}"></div>`).join('');
 
         const newInfoHTML = `
         <div class="slick-carousel">
@@ -97,8 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
+          slidesToShow: 1,
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -138,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayBooks = function (index) {
         const books = data.books[index];
         const dropdownOptions = books.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = books.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${books.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = books.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${books.name}"></div>`).join('');
 
         const booksInfoHTML = `
         <div class="slick-carousel">
@@ -162,8 +159,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -202,7 +197,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayPrint = function (index) {
         const print = data.print[index];
         const dropdownOptions = print.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = print.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${print.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = print.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${print.name}"></div>`).join('');
 
         const printInfoHTML = `
         <div class="slick-carousel">
@@ -226,8 +221,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -268,7 +261,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayPresentation = function (index) {
         const presentation = data.presentation[index];
         const dropdownOptions = presentation.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = presentation.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${presentation.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = presentation.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${presentation.name}"></div>`).join('');
 
         const presentationInfoHTML = `
         <div class="slick-carousel">
@@ -292,8 +285,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -333,7 +324,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displaySampling = function (index) {
         const sampling = data.sampling[index];
         const dropdownOptions = sampling.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = sampling.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${sampling.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = sampling.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${sampling.name}"></div>`).join('');
 
         const samplingInfoHTML = `
         <div class="slick-carousel">
@@ -357,8 +348,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -398,7 +387,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayMore= function (index) {
         const more = data.more[index];
         const dropdownOptions = more.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = more.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${more.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = more.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${more.name}"></div>`).join('');
 
         const moreInfoHTML = `
         <div class="slick-carousel">
@@ -422,8 +411,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
@@ -462,7 +449,7 @@ document.addEventListener("DOMContentLoaded", function () {
       window.displayAll = function (index) {
         const all = data.all[index];
         const dropdownOptions = all.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = all.image.map(imageUrl => `<div><img src="${imageUrl}" alt="${all.name}" style="width:25vw; margin-bottom:10px";></div>`).join('');
+        const slideHTML = all.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${all.name}"></div>`).join('');
 
         const allInfoHTML = `
         <div class="slick-carousel">
@@ -486,8 +473,6 @@ document.addEventListener("DOMContentLoaded", function () {
         
         $('.slick-carousel').slick({
           infinite: true,
-          slidesToShow: 1, // Shows a three slides at a time
-          slidesToScroll: 1, // When you click an arrow, it scrolls 1 slide at a time
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
