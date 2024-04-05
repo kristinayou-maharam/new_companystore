@@ -22,9 +22,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${stationery.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
-        </form>
         `;
         document.getElementById("product-info").innerHTML = stationeryInfoHTML;
 
@@ -86,9 +83,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${neww.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
-        </form>
         `;
         document.getElementById("product-info").innerHTML = newInfoHTML;
 
@@ -150,8 +144,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${books.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
@@ -212,8 +204,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${print.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
@@ -276,8 +266,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${presentation.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
@@ -339,8 +327,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${sampling.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
@@ -402,8 +388,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${more.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
@@ -464,8 +448,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <select id="variationDropdown">${dropdownOptions}</select><br><br>
         <p id="don">Item Code: </p><p id="selectedValue"></p>
         <p id=note>Note: ${all.Note}</p>
-        <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-        <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
 
             </div>
         `;
