@@ -7,7 +7,7 @@
           ],
         "name": "Maharam Agenda",
         "price": 1,
-        "description": "",
+        "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
         "options": [
           {"variation": "Select an option", "value": ""}
             ],
@@ -21,7 +21,7 @@
           ],
         "name": "Maharam Stories",
         "price": 1,
-        "description": "",
+        "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
         "options": [
           {"variation": "Select an option", "value": ""}
             ],
@@ -37,7 +37,6 @@
         "price": 1,
         "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Grey", "value": "801024/001"}
             ],
             "quantity": 1,
@@ -50,9 +49,8 @@
           ],
         "name": "Hella Jongerius: I Don't Have a Favourite Colour",
         "price": 1,
-        "description": "",
+        "description": "Hella Jongerius describes her method of research and application to Vitra products.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "801293/001"}
             ],
             "quantity": 1,
@@ -68,7 +66,6 @@
         "price": 1,
         "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "801105/001"}
             ],
             "quantity": 1,
@@ -81,9 +78,8 @@
           ],
         "name": "Alexander Girard",
         "price": 1,
-        "description": "",
+        "description": "A monograph on seminal designer Alexander Girard and his distinctive career. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "801294/001"}
             ],
             "quantity": 1,
@@ -97,9 +93,8 @@
           ],
         "name": "Claudy Jongstra",
         "price": 1,
-        "description": "",
+        "description": "This volume explore's Claudy Jonstra's distinctive, sustainable approach and provides an overview on her career. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "001003/001"}
             ],
             "quantity": 1,
@@ -113,9 +108,8 @@
           ],
         "name": "The Colors of Sies Marjan",
         "price": 1,
-        "description": "",
+        "description": "A colorful, comprehensive volume documenting the short-lived but highly influencial work of Sander Lak's beloved and now cult fashion brand, Sies Marjan. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "801628/001"}
             ],
             "quantity": 1,
@@ -129,9 +123,8 @@
           ],
         "name": "Karel Martens: Full Colour",
         "price": 1,
-        "description": "",
+        "description": "An intimate and  in-depth photographic documentation of the prolific Dutch graphic design of Karel Martens. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "801073/001"}
             ],
             "quantity": 1,
@@ -147,7 +140,6 @@
         "price": 1,
         "description": "The book traces a recent survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Blue", "value": "801058/001"}
             ],
             "quantity": 1,
@@ -178,7 +170,6 @@
         "price": 1,
         "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Red", "value": "801645/001"}
             ],
             "quantity": 1,

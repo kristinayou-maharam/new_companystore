@@ -9,7 +9,6 @@
         "price": 1,
         "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -24,7 +23,6 @@
         "price": 1,
         "description": "Letterhead with showroom address (North America).",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -39,7 +37,6 @@
         "price": 0,
         "description": "Envelope with showroom address (North America).",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -54,11 +51,9 @@
         "price": 0,
         "description": "",
         "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
-            "Note": ""
+            "Note": "This item will be available soon."
       },
 
       {
@@ -70,11 +65,10 @@
         "price": 0,
         "description": "",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
-            "Note": ""
+            "Note": "This item will be available soon."
       },
       {
         "image": [
@@ -85,7 +79,6 @@
         "price": 0,
         "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -97,15 +90,14 @@
           "./img/sg_24_tabletop_bizcards_grey.png",
           "./img/sg_24_tabletop_name tag_grey.png"
           ],
-        "name": "Large Kraft Envelope with Gusset",
+        "name": "Brown Envelopes",
         "price": 0,
         "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Brown", "value": "J/000003"}
             ],
             "quantity": 100,
-            "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
       {
@@ -117,7 +109,6 @@
         "price": 0,
         "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -133,7 +124,6 @@
         "price": 0,
         "description": "7 1/2 in x 3 3/4 in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Brown", "value": "Contact Facilities"}
             ],
             "quantity": 1,
@@ -149,7 +139,6 @@
         "price": 0,
         "description": "Maharam's rubber band should be used with two or more  gusseted kraft envelopes for delivery to a client. ",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Multicolor", "value": "J/RBRBND"}
             ],
             "quantity": 25,
@@ -164,11 +153,10 @@
         "price": 0,
         "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or inlcuded loosely with a sample delivery or gift.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "J/SRNOTE"}
             ],
             "quantity": 1,
-            "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
       {
@@ -180,7 +168,6 @@
         "price": 0,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": ""}
             ],
             "quantity": 1,
@@ -196,7 +183,6 @@
         "price": 1,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": ""}
             ],
             "quantity": 1,
@@ -211,7 +197,6 @@
         "price": 1,
         "description": "Sample request form pad for showroom sample requests.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "J/100005"}
             ],
             "quantity": 1,
@@ -228,7 +213,6 @@
         "price": 1,
         "description": "Corporate folders are designed for delivering flat printed matter that either cannot be provided digitally or calls for special attention. Examples include new hire documents and Maharam Digital Projects specification sheets.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Black", "value": "J/100006"}
             ],
             "quantity": 5,
@@ -244,7 +228,6 @@
         "price": 1,
         "description": "",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": ""}
             ],
             "quantity": 1,
@@ -258,11 +241,10 @@
         "price": 1,
         "description": "White ballpoint pens with the Maharam logo from Swiss pen company Caran d'Ache.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": " 800990/001"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Product order through DON"
       },
       {
         "image": [
@@ -272,7 +254,6 @@
         "price": 1,
         "description": "White ballpoint pens with the Knoll Textiles logo from Swiss pen company Caran d'Ache.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": ""}
             ],
             "quantity": 1,
@@ -284,9 +265,8 @@
           ],
         "name": "Caran d'Ache Pen Replacement Cartridge",
         "price": 1,
-        "description": "",
+        "description": "Replacement cartridge for Caran d'Ache pens.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Black", "value": "Contact Media"}
             ],
             "quantity": 1,
@@ -299,13 +279,12 @@
           ],
         "name": "Staedtler Pencils Maharam",
         "price": 1,
-        "description": "",
+        "description": "Pencils with Maharam logo.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "J/105000"}
             ],
             "quantity": 50,
-            "Note": "Order through DON"
+            "Note": "Sample order through DON"
       },
 
       {
@@ -314,9 +293,8 @@
           ],
         "name": "Staedtler Pencils Knoll Textiles",
         "price": 1,
-        "description": "",
+        "description": "Pencils with Knoll Textiles logo.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": ""}
             ],
             "quantity": 50,
@@ -328,43 +306,40 @@
           ],
         "name": "Eraser",
         "price": 1,
-        "description": "",
+        "description": "Maharam branded eraser quantity of 1 contains 14.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "J/100068"}
             ],
             "quantity": 14,
-            "Note": "Order through DON"
+            "Note": "Sample order through DON"
       },
 
       {
         "image": [
           "./img/new/mhrm_announce card_a.jpg"
           ],
-        "name": "Mousepad",
+        "name": "Mouse Pad",
         "price": 1,
-        "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or inlcuded loosely with a sample delivery or gift. ",
+        "description": "Maharam branded mousepad.",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "Black", "value": "J/200006"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Sample order through DON"
       },
 
       {
         "image": [
           "./img/new/mhrm_nametag_a.jpg"
           ],
-        "name": "Nametag",
-        "price": 1,
+        "name": "Name Tag",
+        "price": 0,
         "description": "",
         "options": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "White", "value": "Contact Media"}
             ],
             "quantity": 2,
-            "Note": ""
+            "Note": "Nametag"
       },
 
       {
@@ -372,13 +347,13 @@
           "./img/new/mhrm_nametag_a.jpg"
           ],
         "name": "E-vites",
-        "price": 1,
+        "price": 0,
         "description": "",
         "options": [
           {"variation": "Select an option", "value": ""}
             ],
-            "quantity": 2,
-            "Note": ""
+            "quantity": 0,
+            "Note": "Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
@@ -386,28 +361,13 @@
           "./img/new/mhrm_nametag_a.jpg"
           ],
         "name": "Printed Invites",
-        "price": 1,
-        "description": "",
+        "price": 0,
+        "description": "0",
         "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
+          {"variation": "Select an option", "value": ""}
             ],
-            "quantity": 2,
-            "Note": ""
-      },
-      {
-        "image": [
-          "./img/new/mhrm_nametag_a.jpg"
-          ],
-        "name": "Printed Invites",
-        "price": 1,
-        "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
-            ],
-            "quantity": 2,
-            "Note": ""
+            "quantity": 0,
+            "Note": "Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
@@ -415,28 +375,26 @@
           "./img/new/mhrm_nametag_a.jpg"
           ],
         "name": "New Sales Team Announcements",
-        "price": 1,
-        "description": "",
+        "price": 0,
+        "description": "0",
         "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
+          {"variation": "Select an option", "value": ""}
             ],
-            "quantity": 2,
-            "Note": ""
+            "quantity": 0,
+            "Note": "Send completed form to hross@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [
           "./img/new/mhrm_nametag_a.jpg"
           ],
         "name": "Logo Requests",
-        "price": 1,
-        "description": "",
+        "price": 0,
+        "description": "0",
         "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
+          {"variation": "Select an option", "value": ""}
             ],
             "quantity": 2,
-            "Note": ""
+            "Note": "Send completed form to logos@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       }
     ]
   }

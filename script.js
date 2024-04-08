@@ -60,67 +60,64 @@ document.addEventListener("DOMContentLoaded", function () {
       };
     })
 
-
     .then(() => fetch("./src/new.json"))
     .then(response => response.json())
     .then(data => {
       window.displayNew = function (index) {
-        const neww = data.new[index];
-        const dropdownOptions = neww.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
-        const slideHTML = neww.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${neww.name}"></div>`).join('');
+      const neww = data.new[index];
+      const slideHTML = neww.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${neww.name}"></div>`).join('');
 
-        const newInfoHTML = `
-        <div class="slick-carousel">
-        ${slideHTML}
-        </div>
-        <div id ="detaildescription">
-        <h2>${neww.name}</h2>
-        <p> ${neww.description}</p>
-        <form class="add" method="post" action="javascript:void(0);">
-        <p>Price: $${neww.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${neww.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
-        <p id=note>Note: ${neww.Note}</p>
-        `;
-        document.getElementById("product-info").innerHTML = newInfoHTML;
+      const newInfoHTML = `
+      <div class="slick-carousel">
+      ${slideHTML}
+      </div>
+      <div id ="detaildescription">
+      <h2>${neww.name}</h2>
+      <p> ${neww.description}</p>
+      <p>Quantity per Order: ${neww.quantity}</p>
+      <p id="don">Item Code: </p><p id="selectedValue"><strong>${neww.DON_reference_number}</strong></p>
+      <p id=note>Note: ${neww.Note}</p>
+      <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
+      <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
+      </form>
+      `;
+      document.getElementById("product-info").innerHTML = newInfoHTML;
 
 
-        $('.slick-carousel').slick({
-          infinite: true,
-          slidesToShow: 1,
-          arrows: true, // Adds arrows to sides of slider
-          dots: true // Adds the dots on the bottom
-        });
-        
+      $('.slick-carousel').slick({
+        infinite: true,
+        slidesToShow: 1,
+        arrows: true, // Adds arrows to sides of slider
+        dots: true // Adds the dots on the bottom
+      });
+      
 
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
+      // const variationDropdown = document.getElementById('variationDropdown');
+      // const selectedValueElement = document.getElementById('selectedValue');
     
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = neww.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
+      // variationDropdown.addEventListener('change', function () {
+      //   const selectedOptionLabel = variationDropdown.value.trim();
+      
+      //   console.log('Selected Option Label:', selectedOptionLabel);
+      
+      //   if (selectedOptionLabel !== "SelectNone") {
+      //   const selectedOption = neww.options.find(option => option.variation.trim() === selectedOptionLabel);
+      
+      //   console.log('Selected Option:', selectedOption);
+      
+      //   if (selectedOptionLabel) {
+      //     selectedValueElement.textContent = `${selectedOptionLabel}`;
+      //   } else {
+      //     selectedValueElement.textContent = '';
+      //   }
+      //   } else {
+      //   selectedValueElement.textContent = 'Please select an option';
+      //   }
+      // });
 
       };
     })
+
 
 
     .then(() => fetch("./src/books.json"))
