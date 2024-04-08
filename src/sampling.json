@@ -8,11 +8,8 @@
         "name": "Binder Maharam: Generic",
         "price": 0,
         "description": "Maharam Generic Binder",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Generic", "value": "B/002027"}
-            ],
             "quantity": 1,
+            "DON_reference_number": "B/002027",
             "Note": "Order through DON"
       },
       {
@@ -23,12 +20,12 @@
         "name": "Binder Maharam: Panel",
         "price": 0,
         "description": "Maharam Panel Binder",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Panel 1", "value": "B/002013"},
-          {"variation": "Panel 2", "value": "B/002014"}
-            ],
             "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""},
+              {"variation": "Panel 1", "value": "B/002013"},
+              {"variation": "Panel 2", "value": "B/002014"}
+                ],
             "Note": "Order through DON"
       },
       {
@@ -39,7 +36,7 @@
         "name": "Binder Maharam: Privacy Curtain",
         "price": 0,
         "description": "Maharam Privacy Curtain Binder",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Privacy Curtain 1", "value": "B/002017"},
           {"variation": "Privacy Curtain 2", "value": "B/002018"},
@@ -56,7 +53,7 @@
         "name": "Binder Maharam: Upholstery",
         "price": 0,
         "description": "Maharam Upholstery Binder",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Upholstery 1", "value": "B/002001"},
           {"variation": "Upholstery 2", "value": "B/002002"},
@@ -83,7 +80,7 @@
         "name": "Binder Maharam: Wallcovering",
         "price": 0,
         "description": "Maharam Wallcovering Binder",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Wallcovering 1", "value": "B/002021"},
           {"variation": "Wallcovering 2", "value": "B/002022"},
@@ -104,7 +101,7 @@
         "name": "Binder Maharam: Window Covering",
         "price": 0,
         "description": "Maharam Window Covering Binder",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Window Covering 1", "value": "B/002015"},
           {"variation": "Window Covering 2", "value": "B/002016"}
@@ -120,11 +117,8 @@
         "name": "Binder Maharam Label Holder",
         "price": 0,
         "description": "Binder label holder for Maharam binders, one order includes 4 holders.",
-        "options": [
-          {"variation": "Yellow", "value": "J/LBLHLD"}
-            ],
             "quantity": 4,
-            "DON_reference_number": "",
+            "DON_reference_number": "J/LBLHLD",
             "Note": "Order through DON"
       },
       {
@@ -135,11 +129,8 @@
         "name": "Binder Maharam Label \"Solid/Texture\"",
         "price": 0,
         "description": "Solid/Texture Binder label for Maharam binders",
-        "options": [
-          {"variation": "White", "value": "J/LBLSTX"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "J/LBLSTX",
             "Note": "Sample order through DON"
       },
       {
@@ -150,11 +141,8 @@
         "name": "Binder Maharam Label \"Performance Woven\"",
         "price": 0,
         "description": "Performance Woven Binder label for Maharam binders",
-        "options": [
-          {"variation": "White", "value": "J/LBLPWV"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "J/LBLPWV",
             "Note": "Sample order through DON"
       },
       {
@@ -165,11 +153,8 @@
         "name": "Binder Maharam Label \"Nonwoven\"",
         "price": 0,
         "description": "Nonwoven Binder label for Maharam binders",
-        "options": [
-          {"variation": "White", "value": "J/LBLNWV"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "J/LBLNWV",
             "Note": "Sample order through DON"
       },
       {
@@ -180,11 +165,8 @@
         "name": "Binder Maharam Label \"Natural\"",
         "price": 0,
         "description": "Natural Binder label for Maharam binders",
-        "options": [
-          {"variation": "White", "value": "J/LBLNAT"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "J/LBLNAT",
             "Note": "Sample order through DON"
       },
       {
@@ -195,11 +177,8 @@
         "name": "Memo Bin Maharam",
         "price": 0,
         "description": "Maharam memo bin, one order includes 4 bins.",
-        "options": [
-          {"variation": "Grey", "value": "B/MEMBIN"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "B/MEMBIN",
             "Note": "Sample order through DON"
       },
 
@@ -211,11 +190,8 @@
         "name": "Memo Bin Maharam Label All Categories",
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit includes all categories.",
-        "options": [
-          {"variation": "All Categories", "value": "B/LABELS"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "B/LABELS",
             "Note": "Sample order through DON"
       },
       {
@@ -226,11 +202,8 @@
         "name": "Memo Bin Maharam Label \"Rugs\"",
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit including rugs.",
-        "options": [
-          {"variation": "All Categories", "value": "B/LABELS2"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "B/LABELS2",
             "Note": "Sample order through DON"
       },
       {
@@ -241,11 +214,8 @@
         "name": "Memo Bin Maharam Label \"Leather\"",
         "price": 0,
         "description": "Label sheet for Maharam Leather bin, one order includes 15 labels. ",
-        "options": [
-          {"variation": "All Categories", "value": "B/LABELL"}
-            ],
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": "B/LABELL",
             "Note": "Sample order through DON"
       },
       
@@ -257,9 +227,6 @@
         "name": "Sampling Cart Maharam and Parts",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -272,9 +239,6 @@
         "name": "Sampling Cart Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -287,9 +251,6 @@
         "name": "Hang Set Maharam Maharam and Parts",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -302,9 +263,6 @@
         "name": "Hang Set Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -318,9 +276,6 @@
         "name": "Binder Knoll Textiles",
         "price": 0,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -334,9 +289,6 @@
         "name": "Memo Bin Knoll Textiles",
         "price": 1,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -350,9 +302,6 @@
         "name": "Memo Bin Edelman",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."
@@ -366,9 +315,6 @@
         "name": "Sampling Box Edelman",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
             "quantity": 1,
             "DON_reference_number": "",
             "Note": "This item will be available soon."

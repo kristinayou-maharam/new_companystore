@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displayStationery = function (index) {
         const stationery = data.stationery[index];
-        const dropdownOptions = stationery.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = stationery.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${stationery.name}"></div>`).join('');
 
         const stationeryInfoHTML = `
@@ -15,12 +14,9 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id ="detaildescription">
         <h2>${stationery.name}</h2>
         <p> ${stationery.description}</p>
-        <form class="add" method="post" action="javascript:void(0);">
         <p>Price: $${stationery.price.toFixed(2)}</p>
         <p>Quantity per Order: ${stationery.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${stationery.DON_reference_number}</strong></p>
         <p id=note>Note: ${stationery.Note}</p>
         `;
         document.getElementById("product-info").innerHTML = stationeryInfoHTML;
@@ -31,31 +27,6 @@ document.addEventListener("DOMContentLoaded", function () {
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = neww.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
-        
 
       };
     })
@@ -78,8 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <p id="don">Item Code: </p><p id="selectedValue"><strong>${neww.DON_reference_number}</strong></p>
       <p id=note>Note: ${neww.Note}</p>
       <p style="display: inline-block">Quantity:</p><input type="number" id="quantity" name="quantity" min="1" max="5" value="1">
-      <h5><input type="submit" id= "addtocart" value="Add to Wishlist"></h5>
-      </form>
+    
       `;
       document.getElementById("product-info").innerHTML = newInfoHTML;
 
@@ -125,7 +95,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displayBooks = function (index) {
         const books = data.books[index];
-        const dropdownOptions = books.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = books.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${books.name}"></div>`).join('');
 
         const booksInfoHTML = `
@@ -137,9 +106,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <p> ${books.description}</p>
         <p>Price: $${books.price.toFixed(2)}</p>
         <p>Quantity per Order: ${books.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${books.DON_reference_number}</strong></p>
         <p id=note>Note: ${books.Note}</p>
 
             </div>
@@ -151,31 +118,6 @@ document.addEventListener("DOMContentLoaded", function () {
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
-
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = books.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
       };
     })
 
@@ -185,7 +127,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displayPrint = function (index) {
         const print = data.print[index];
-        const dropdownOptions = print.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = print.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${print.name}"></div>`).join('');
 
         const printInfoHTML = `
@@ -197,9 +138,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <p> ${print.description}</p>
         <p>Price: $${print.price.toFixed(2)}</p>
         <p>Quantity per Order: ${print.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${print.DON_reference_number}</strong></p>
         <p id=note>Note: ${print.Note}</p>
 
             </div>
@@ -212,31 +151,6 @@ document.addEventListener("DOMContentLoaded", function () {
           dots: true // Adds the dots on the bottom
         });
 
-
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = print.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
       };
     })
 
@@ -247,7 +161,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displayPresentation = function (index) {
         const presentation = data.presentation[index];
-        const dropdownOptions = presentation.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = presentation.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${presentation.name}"></div>`).join('');
 
         const presentationInfoHTML = `
@@ -259,9 +172,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <p> ${presentation.description}</p>
         <p>Price: $${presentation.price.toFixed(2)}</p>
         <p>Quantity per Order: ${presentation.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${presentation.DON_reference_number}</strong></p>
         <p id=note>Note: ${presentation.Note}</p>
 
             </div>
@@ -273,32 +184,6 @@ document.addEventListener("DOMContentLoaded", function () {
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
         });
-
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = presentation.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
-        
       };
     })
 
@@ -308,7 +193,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displaySampling = function (index) {
         const sampling = data.sampling[index];
-        const dropdownOptions = sampling.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = sampling.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${sampling.name}"></div>`).join('');
 
         const samplingInfoHTML = `
@@ -320,12 +204,10 @@ document.addEventListener("DOMContentLoaded", function () {
         <p> ${sampling.description}</p>
         <p>Price: $${sampling.price.toFixed(2)}</p>
         <p>Quantity per Order: ${sampling.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${sampling.DON_reference_number}</strong></p>
         <p id=note>Note: ${sampling.Note}</p>
 
-            </div>
+          </div>
         `;
         document.getElementById("product-info").innerHTML = samplingInfoHTML;
         
@@ -335,31 +217,6 @@ document.addEventListener("DOMContentLoaded", function () {
           dots: true // Adds the dots on the bottom
         });
 
-
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = sampling.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
-        });
       };
     })
 
@@ -369,7 +226,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(data => {
       window.displayMore= function (index) {
         const more = data.more[index];
-        const dropdownOptions = more.options.map(option => `<option value="${option.value}">${option.variation}</option>`).join('');
         const slideHTML = more.image.map(imageUrl => `<div><img id="productimage" src="${imageUrl}" alt="${more.name}"></div>`).join('');
 
         const moreInfoHTML = `
@@ -381,9 +237,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <p> ${more.description}</p>
         <p>Price: $${more.price.toFixed(2)}</p>
         <p>Quantity per Order: ${more.quantity}</p>
-        <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-        <select id="variationDropdown">${dropdownOptions}</select><br><br>
-        <p id="don">Item Code: </p><p id="selectedValue"></p>
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${more.DON_reference_number}</strong></p>
         <p id=note>Note: ${more.Note}</p>
 
             </div>
@@ -394,30 +248,6 @@ document.addEventListener("DOMContentLoaded", function () {
           infinite: true,
           arrows: true, // Adds arrows to sides of slider
           dots: true // Adds the dots on the bottom
-        });
-
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        variationDropdown.addEventListener('change', function () {
-          const selectedOptionLabel = variationDropdown.value.trim();
-        
-          console.log('Selected Option Label:', selectedOptionLabel);
-        
-          if (selectedOptionLabel !== "SelectNone") {
-            const selectedOption = more.options.find(option => option.variation.trim() === selectedOptionLabel);
-        
-            console.log('Selected Option:', selectedOption);
-        
-            if (selectedOptionLabel) {
-              const correspondingValue = selectedOptionLabel.value;
-              selectedValueElement.textContent = `${selectedOptionLabel}`;
-            } else {
-              selectedValueElement.textContent = '';
-            }
-          } else {
-            selectedValueElement.textContent = 'Please select an option';
-          }
         });
       };
     })
