@@ -9,7 +9,8 @@
         "price": 1,
         "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
             "quantity": 1,
-            "DON_reference_number": "J/301003",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}],
             "Note": "This item is currently unavailable"
       },
       {
@@ -21,7 +22,8 @@
         "price": 1,
         "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
             "quantity": 1,
-            "DON_reference_number": "J/301003",
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": ""}],
             "Note": "This item is currently unavailable"
       },
       {
@@ -33,7 +35,8 @@
         "price": 1,
         "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
             "quantity": 1,
-            "DON_reference_number": "801024/001",
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801024/001"}],
             "Note": "Order through DON"
       },
       {
@@ -45,7 +48,8 @@
         "price": 1,
         "description": "Hella Jongerius describes her method of research and application to Vitra products.",
             "quantity": 1,
-            "DON_reference_number": "801293/001",
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801293/001"}],
             "Note": "Order through DON"
       },
 
@@ -58,7 +62,8 @@
         "price": 1,
         "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
             "quantity": 1,
-            "DON_reference_number": "801105/001",
+            "DON_reference_number":  [
+              {"variation": "Select an option", "value": "801105/001"}], 
             "Note": "Order through DON"
       },
       {
@@ -70,7 +75,8 @@
         "price": 1,
         "description": "A monograph on seminal designer Alexander Girard and his distinctive career. ",
             "quantity": 1,
-            "DON_reference_number": "801294/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801294/001"}], 
             "Note": "Order through DON"
       },
 
@@ -83,7 +89,8 @@
         "price": 1,
         "description": "This volume explore's Claudy Jonstra's distinctive, sustainable approach and provides an overview on her career. ",
             "quantity": 1,
-            "DON_reference_number": "001003/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "001003/001"}],
             "Note": "Order through DON"
       },
 
@@ -96,7 +103,8 @@
         "price": 1,
         "description": "A colorful, comprehensive volume documenting the short-lived but highly influencial work of Sander Lak's beloved and now cult fashion brand, Sies Marjan. ",
             "quantity": 1,
-            "DON_reference_number": "801628/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801628/001"}],
             "Note": "Order through DON"
       },
 
@@ -109,7 +117,8 @@
         "price": 1,
         "description": "An intimate and  in-depth photographic documentation of the prolific Dutch graphic design of Karel Martens. ",
             "quantity": 1,
-            "DON_reference_number": "801073/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801073/001"}], 
             "Note": "Order through DON"
       },
 
@@ -122,7 +131,8 @@
         "price": 1,
         "description": "The book traces a recent survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
             "quantity": 1,
-            "DON_reference_number": "801058/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801058/001"}], 
             "Note": "Order through DON"
       },
 
@@ -135,7 +145,8 @@
         "price": 1,
         "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
             "quantity": 1,
-            "DON_reference_number": "801055/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801055/001"}], 
             "Note": "Order through DON"
       },
       {
@@ -147,7 +158,8 @@
         "price": 1,
         "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
             "quantity": 1,
-            "DON_reference_number": "801645/001",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "801645/001"}], 
             "Note": "Order through DON"
       },
 
@@ -160,7 +172,8 @@
         "price": 1,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}], 
             "Note": "This item will be available soon."
       },
       {
@@ -172,7 +185,8 @@
         "price": 1,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}], 
             "Note": "This item will be available soon."
       }, 
       {
@@ -184,7 +198,8 @@
         "price": 1,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}], 
             "Note": "This item will be available soon."
       },
       {
@@ -196,8 +211,9 @@
         "price": 1,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "quantity": 1,
-            "DON_reference_number": "",
-            "Note": ""
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}], 
+            "Note": "Contact Thoroughbred"
       }
     ]
   }

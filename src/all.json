@@ -7,11 +7,9 @@
               ],
             "name": "Maharam Agenda",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "description": "Founded in 1902, Maharam evolved from a pushcart business on the Lower East Side into a leading global textile resource for architects and interior designers. Hardcover. 232 pages. Four randomized cover variations.",
                 "quantity": 1,
+                "DON_reference_number": "",
                 "Note": "This item is currently unavailable"
           },
           {
@@ -21,11 +19,9 @@
               ],
             "name": "Maharam Stories",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "description": "Maharam Stories brings together a broad range of revealing and engaging design observations from luminaries such as Murray Moss, Hans Ulrich Obrist, John Pawson, Alice Rawsthorn, Michael Rock, Stefan Sagmeister, and more - packaged in a compelling design. Paperback. 284 pages.",
                 "quantity": 1,
+                "DON_reference_number": "",
                 "Note": "This item is currently unavailable"
           },
           {
@@ -36,12 +32,10 @@
             "name": "Irving Harper Works in Paper",
             "price": 1,
             "description": "Known for his mid-century creation of the Marshmallow Sofa, Ball Clock, and Herman Miller logo as George Nelson Associates' director of design, Irving Harper made hundreds of rarely seen paper sculptures in his spare time from 1963-2000. Hardcover. 176 pages.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Grey", "value": "801024/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801024/001"}],
+                "Note": "Product order through DON"
           },
           {
             "image": [
@@ -50,13 +44,11 @@
               ],
             "name": "Hella Jongerius: I Don't Have a Favourite Colour",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "801293/001"}
-                ],
+            "description": "Hella Jongerius describes her method of research and application to Vitra products.",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801293/001"}],
+                "Note": "Product order through DON"
           },
     
           {
@@ -67,12 +59,10 @@
             "name": "Reproducing Scholten & Baijings",
             "price": 1,
             "description": "The first monograph on Dutch design duo Stefan Scholten and Carole Baijings takes an in-depth look at their research-intensive, hands-on, and iterative approach to making as demonstrated across seven case studies including those with 1616/Arita Japan, MINI, Georg Jensen, and Maharam. Hardcover. 348 pages.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "801105/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801105/001"}],
+                "Note": "Product order through DON"
           },
           {
             "image": [
@@ -81,13 +71,11 @@
               ],
             "name": "Alexander Girard",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "801294/001"}
-                ],
+            "description": "A monograph on seminal designer Alexander Girard and his distinctive career. ",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number":[
+                  {"variation": "Select an option", "value": "801294/001"}],
+                "Note": "Product order through DON"
           },
     
           {
@@ -97,13 +85,11 @@
               ],
             "name": "Claudy Jongstra",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "001003/001"}
-                ],
+            "description": "This volume explore's Claudy Jonstra's distinctive, sustainable approach and provides an overview on her career.",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "001003/001"}], 
+                "Note": "Product order through DON"
           },
     
           {
@@ -113,13 +99,11 @@
               ],
             "name": "The Colors of Sies Marjan",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "801628/001"}
-                ],
+            "description": "A colorful, comprehensive volume documenting the short-lived but highly influencial work of Sander Lak's beloved and now cult fashion brand, Sies Marjan. ",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801628/001"}], 
+                "Note": "Product order through DON"
           },
     
           {
@@ -129,13 +113,11 @@
               ],
             "name": "Karel Martens: Full Colour",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "801073/001"}
-                ],
+            "description": "An intimate and  in-depth photographic documentation of the prolific Dutch graphic design of Karel Martens. ",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801073/001"}], 
+                "Note": "Product order through DON"
           },
     
           {
@@ -146,12 +128,10 @@
             "name": "Studio Job & The Graninger Museum",
             "price": 1,
             "description": "The book traces a recent survey at the Groninger Museum in the Netherlands featuring 10 years of work by Job Smeets and Nynke Tynagel, including the Bavaria Marquette series and Ruins on the end pages. Hardcover.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "801058/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number":[
+                  {"variation": "Select an option", "value": "801058/001"}], 
+                "Note": "Product order through DON"
           },
     
           {
@@ -162,12 +142,10 @@
             "name": "Irma Boom: Colour Based on Nature",
             "price": 1,
             "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Red", "value": "801055/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number":[
+                  {"variation": "Select an option", "value": "801055/001"}],
+                "Note": "Product order through DON"
           },
           {
             "image": [
@@ -176,13 +154,11 @@
               ],
             "name": "Jacob Hashimoto: Selected Kite Works & Installations",
             "price": 1,
-            "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Red", "value": "801645/001"}
-                ],
+            "description": "",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801645/001"}],
+                "Note": "Product order through DON"
           },
     
           {
@@ -193,10 +169,8 @@
             "name": "Ilse Crawford: A Frame for Life",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
+                "DON_reference_number": "",
                 "Note": "This item will be available soon."
           },
           {
@@ -207,10 +181,8 @@
             "name": "Knoll Textiles: 1945-2010",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
+                "DON_reference_number": "",
                 "Note": "This item will be available soon."
           }, 
           {
@@ -220,11 +192,9 @@
               ],
             "name": "Textilepedia",
             "price": 1,
-            "description": "L",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "description": "",
                 "quantity": 1,
+                "DON_reference_number": "",
                 "Note": "This item will be available soon."
           },
           {
@@ -235,11 +205,8 @@
             "name": "The Nick Cave Collection",
             "price": 1,
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Grey", "value": "Contact Thoroughbred"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": "Contact Thoroughbred",
                 "Note": ""
           },
           {
@@ -250,13 +217,10 @@
             "name": "Maharam Shopping Bag",
             "price": 0,
             "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-            {"variation": "Brown", "value": "J/MAHBAG"}
-                  ],
                   "quantity": 1,
-                  "DON_reference_number": "",
-                  "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                  "DON_reference_number": [
+                    {"variation": "Select an option", "value": "J/MAHBAG"}],
+                  "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
           {
             "image": [
@@ -265,12 +229,10 @@
             "name": "Maharam Shopping Bag Label",
             "price": 0,
             "description": "Label to affix to Kraft bags.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "White", "value": "J/BAGLBL"}
-                  ],
-                  "quantity": 25,
-                  "DON_reference_number": "",
-                  "Note": "Order through DON"
+            "quantity": 25,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/BAGLBL"}],
+            "Note": "Sample order through DON"
           },
           {
             "image": [
@@ -280,11 +242,9 @@
             "name": "Display Board Large",
             "price": 0,
             "description": "The large 14in x 20in display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Grey", "value": "J/DISPLG"}
-          ],
           "quantity": 10,
-          "DON_reference_number": "",
+          "DON_reference_number": [
+            {"variation": "Select an option", "value": "J/DISPLG"}],
           "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
@@ -296,12 +256,10 @@
             "name": "Display Board Small",
             "price": 0,
             "description": "The small 8.5in x 8.5in display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Grey", "value": "J/DISPSM"}
-                  ],
-                  "quantity": 10,
-                  "DON_reference_number": "",
-                  "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "quantity": 10,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/DISPSM"}],
+            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
           {
             "image": [
@@ -310,13 +268,11 @@
               ],
             "name": "Display Board Reclosable Poly Bag",
             "price": 0,
-            "description": "Bags are used for storing rug samples with loose fibers within the sample bag.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Clear", "value": "J/DISPBG"}
-                  ],
-                  "quantity": 1,
-                  "DON_reference_number": "",
-                  "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "description": "Bags are used for storing and stransporting display boards.",
+            "quantity": 1,
+            "DON_reference_number":[
+              {"variation": "Select an option", "value": "J/DISPBG"}],
+            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -324,15 +280,13 @@
               "img/angle/stool.jpg",
               "img/angle/stool-2.jpg"
               ],
-            "name": "T-Pins",
+            "name": "Display Board T-Pins",
             "price": 0,
-            "description": "Display board t-pins",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Silver", "value": "J/DISPTP"}
-                  ],
-                  "quantity": 100,
-                  "DON_reference_number": "",
-                  "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "description": "Display board T-pins",
+            "quantity": 100,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/DISPTP"}],
+            "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -340,15 +294,13 @@
               "img/angle/stool.jpg",
               "img/angle/stool-2.jpg"
               ],
-            "name": "Leather Cord Spool",
+            "name": "Leather Cord for Custom Corded Sets",
             "price": 0,
             "description": "Leather cords to assemble customized sets of leather samples for clients.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Brown", "value": "J/LTHCOR"}
-                  ],
-                  "quantity": 1,
-                  "DON_reference_number": "",
-                  "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LTHCOR"}],
+            "Note": "<br>Sampling order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -358,13 +310,11 @@
               ],
             "name": "Rug Storage Bag",
             "price": 1,
-            "description": "",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Clear", "value": "J/301007"}
-                  ],
-                  "quantity": 1,
-                  "DON_reference_number": "Bags are used for storing rug samples with loose fibers within the sample bag.",
-                  "Note": "Order through DON"
+            "description": "Bags are used for storing rug samples with loose fibers within the sample bag.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/301007"}],
+            "Note": "Sampling order through DON"
           },
       
           {
@@ -372,15 +322,13 @@
               "img/angle/stool.jpg",
               "img/angle/stool-2.jpg"
               ],
-            "name": "Giftwrap Set",
+            "name": "Gift Wrap Set",
             "price": 0,
-            "description": "Giftwrap set.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Multicolor", "value": "J/170072"}
-                  ],
-                  "quantity": 1,
-                  "DON_reference_number": "",
-                  "Note": "Order through DON"
+            "description": "Maharam Gift Wrap is printed with a large-scale grid pattern. The irregularity of the pattern ensures that, when wrapped, no two gifts look the same. Each package contains 4 sheets of two-sided paper, with a total of four color options.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/170072"}],
+            "Note": "Order through DON"
           },
           {
             "image": [
@@ -390,12 +338,10 @@
             "name": "Sales Integration Announcement Card",
             "price": 0,
             "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Multicolor", "value": "Contact Media"}
-                  ],
-                  "quantity": 50,
-                  "DON_reference_number": "",
-                  "Note": ""
+            "quantity": 50,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "Contact Media"}],
+            "Note": ""
           }, 
           
           
@@ -407,12 +353,10 @@
             "name": "Sales Integration Tent Card",
             "price": 0,
             "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Multicolor", "value": "Contact Media"}
-                  ],
-                  "quantity": 50,
-                  "DON_reference_number": "",
-                  "Note": ""
+            "quantity": 50,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "Contact Media"}],
+            "Note": ""
           },
       
           {
@@ -423,12 +367,10 @@
             "name": "Wallcovering Brush",
             "price": 0,
             "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. ",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Brown", "value": "J/100076"}
-                  ],
                   "quantity": 1,
-                  "DON_reference_number": "",
-                  "Note": "Order through DON"
+                  "DON_reference_number": [
+                    {"variation": "Select an option", "value": "J/100076"}],
+                  "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -438,11 +380,9 @@
             "name": "Frame Bag Sales Edition",
             "price": 1,
             "description": "Ripstop nylon with webbing lattice. Durable vinyl base with mesh detail. Self-lined. One interior pocket.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Navy", "value": "Contact Media"}
-                  ],
                   "quantity": 1,
-                  "DON_reference_number": "",
+                  "DON_reference_number":[
+                    {"variation": "Select an option", "value": "Contact Media"}],
                   "Note": "This item requires manager approval."
           },
           {
@@ -453,11 +393,9 @@
             "name": "Briggs & Riley Carry-on",
             "price": 0,
             "description": "Carry-on suitcase for sales representatives. ",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Black", "value": "J/301003"}
-                  ],
                   "quantity": 1,
-                  "DON_reference_number": "",
+                  "DON_reference_number": [
+                    {"variation": "Select an option", "value": "J/301001"}],
                   "Note": "This item requires manager approval."
           },
           {
@@ -465,42 +403,36 @@
               "img/angle/stool.jpg",
               "img/angle/stool-2.jpg"
               ],
-            "name": "Tote Bag with Knoll Textiles Logo",
+            "name": "Knoll Textiles Tote",
             "price": 0,
             "description": "Tote bag with Knoll Textiles logo.",
-            "options": [{"variation": "Select an option", "value": ""},
-            {"variation": "Canvas", "value": "Contact Throroughbred"}
-                  ],
                   "quantity": 1,
-                  "DON_reference_number": "",
+                  "DON_reference_number": [
+                    {"variation": "Select an option", "value": "Contact Thoroughbred"}],
                   "Note": "This item requires manager approval."
           },
           {
             "image": [
               "./img/new/mhrm_look book_ translated_a.jpg"
               ],
-            "name": "2021 Look Book: English, German, French",
+            "name": "Look Book, 2021 (English, German, French)",
             "price": 0,
             "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Green", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
                },
           {
             "image": [
               "./img/new/mhrm_look book_ translated_a.jpg"
               ],
-            "name": "2021 Look Book: English, Japanese, Simplified Chinese",
+            "name": "Look Book, 2023 (English, Japanese, Simplified Chinese)",
             "price": 0,
             "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Purple", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
                
           },
@@ -513,11 +445,9 @@
             "name": "Mailing Pouch for Look Book, Notebooks, Calendar, etc.",
             "price": 0,
             "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
                
           },
@@ -528,13 +458,9 @@
               "name": "20 Years of Paul Smith and Maharam",
               "price": 0,
               "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.",
-              "options": [
-                {"variation": "Select an option", "value": ""},
-                {"variation": "Teal", "value": "Contact Media"},
-                {"variation": "Blue", "value": "Contact Media"},
-                {"variation": "Pink", "value": "Contact Media"}
-              ],
               "quantity": 1,
+              "DON_reference_number": [
+                {"variation": "Select an option", "value": "Contact Media"}],
               "Note": ""
           },
     
@@ -545,10 +471,9 @@
               "name": "Bertjan Pot",
               "price": 0,
               "description": "",
-              "options": [
-                {"variation": "Select an option", "value": ""}
-              ],
               "quantity": 1,
+              "DON_reference_number": [
+                {"variation": "Select an option", "value": ""}],
               "Note": "This item will be available soon."
           },
     
@@ -559,10 +484,9 @@
             "name": "Repeat by Hella Jongerius",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
                
           },
@@ -573,11 +497,9 @@
             "name": "60 60",
             "price": 1,
             "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
                
           },
@@ -588,12 +510,10 @@
               ],
             "name": "60 60 Shipping Box",
             "price": 0,
-            "description": "Shipping box for 60/60 book.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Cardboard", "value": "J/000001"}
-                ],
+            "description": "Shipping box for <em>60 60</em> book.",
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "J/000001"}],
                 "Note": "Order through DON"
                
           },
@@ -605,11 +525,9 @@
             "name": "The Archetypes",
             "price": 0,
             "description": "Set of twelve 15 x 22.75 in posters. Each feature a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporate Maharam textiles. Printed on newsprint.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
                
           },
@@ -621,11 +539,9 @@
             "name": "Sonnhild Kestler Poster Set",
             "price": 1,
             "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Blue", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
                
           },
@@ -637,19 +553,18 @@
               ],
             "name": "Notebook",
             "price": 2,
-            "description": "Cloth-bound perforated micro-grid paper. Forty-eight sheets. Available individually and in sets of three.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Rust", "value": "801013/002"},
-              {"variation": "Black", "value": "801013/008"},
-              {"variation": "Smoke", "value": "801013/009"},
-              {"variation": "Cornflower", "value": "801013/010"},
-              {"variation": "Terracotta", "value": "801013/011"},
-              {"variation": "Ivory", "value": "801013/013"},
-              {"variation": "Chalk", "value": "801013/014"}
-                ],
+            "description": "Single, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets.",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "002 Rust", "value": "801013/002"},
+                  {"variation": "008 Black", "value": "801013/008"},
+                  {"variation": "009 Smoke", "value": "801013/009"},
+                  {"variation": "010 Cornflower", "value": "801013/010"},
+                  {"variation": "011 Terracotta", "value": "801013/011"},
+                  {"variation": "013 Ivory", "value": "801013/013"},
+                  {"variation": "014 Chalk", "value": "801013/014"}],
+                "Note": "Sampling order through DON"
                
           },
     
@@ -660,14 +575,14 @@
               ],
             "name": "Notebook Set",
             "price": 0,
-            "description": "Cloth-bound perforated micro-grid paper. Forty-eight sheets. Available individually and in sets of three.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Terracotta/Ivory/Apricot", "value": "800991/003"},
-              {"variation": "Terracotta/Ivory/Apricot", "value": "800991/004"}
-                ],
+            "description": "Set of three, cloth-bound notebooks with perforated micro-grid paper. Forty-eight sheets each.",
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "003 Terracotta,Ivory,Apricot", "value": "800991/003"},
+                  {"variation": "004 Currant,Chalk,Sky", "value": "800991/004"}
+                    ],
+                "Note": "Sampling order through DON"
                
           },
     
@@ -679,12 +594,11 @@
             "name": "Memory Two",
             "price": 1,
             "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "801080/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+              {"variation": "Select an option", "value": "801080/001"}
+                ],
+                "Note": "Sampling order through DON"
                
           },
           {
@@ -695,12 +609,10 @@
             "name": "Memory Three",
             "price": 1,
             "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "801081/001"}
-                ],
-                "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "801081/001"}
+                    ],
+                "Note": "Sampling order through DON"
                
           }, 
           
@@ -712,11 +624,10 @@
             "name": "Calendar 2024",
             "price": 1,
             "description": "Maharam calendar which offers weekly, monhtly and yearly agendas along with birthdays of distinguished architects and designers and moon phases. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "Contact Media"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Media"}
+                    ],
                 "Note": ""
                
           }, 
@@ -729,11 +640,11 @@
               ],
             "name": "Maharam Digital Projects Notecard Set",
             "price": 1,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "description": "6 cards with different Maharam Digital Projects visuals and 18 envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}
+                    ],
                 "Note": "This item will be available soon."
                
           },
@@ -746,12 +657,11 @@
             "name": "Binder Maharam: Generic",
             "price": 0,
             "description": "Maharam Generic Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Generic", "value": "B/002027"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "B/002027"}
+                    ],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -761,13 +671,12 @@
             "name": "Binder Maharam: Panel",
             "price": 0,
             "description": "Maharam Panel Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Panel 1", "value": "B/002013"},
-              {"variation": "Panel 2", "value": "B/002014"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                {"variation": "Panel 1", "value": "B/002013"},
+                {"variation": "Panel 2", "value": "B/002014"}],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -777,14 +686,13 @@
             "name": "Binder Maharam: Privacy Curtain",
             "price": 0,
             "description": "Maharam Privacy Curtain Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Privacy Curtain 1", "value": "B/002017"},
-              {"variation": "Privacy Curtain 2", "value": "B/002018"},
-              {"variation": "Privacy Curtain 2", "value": "B/002019"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                {"variation": "Select an option", "value": ""},
+                {"variation": "Privacy Curtain 1", "value": "B/002017"},
+                {"variation": "Privacy Curtain 2", "value": "B/002018"},
+                {"variation": "Privacy Curtain 2", "value": "B/002019"}],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -794,24 +702,24 @@
             "name": "Binder Maharam: Upholstery",
             "price": 0,
             "description": "Maharam Upholstery Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Upholstery 1", "value": "B/002001"},
-              {"variation": "Upholstery 2", "value": "B/002002"},
-              {"variation": "Upholstery 3", "value": "B/002003"},
-              {"variation": "Upholstery 4", "value": "B/002004"},
-              {"variation": "Upholstery 5", "value": "B/002005"},
-              {"variation": "Upholstery 6", "value": "B/002006"},
-              {"variation": "Upholstery 7", "value": "B/002007"},
-              {"variation": "Upholstery 8", "value": "B/002008"},
-              {"variation": "Upholstery 9", "value": "B/002009"},
-              {"variation": "Upholstery 10", "value": "B/002011"},
-              {"variation": "Upholstery 11", "value": "B/002012"},
-              {"variation": "Upholstery 12", "value": "B/002029"},
-              {"variation": "Upholstery 13", "value": "B/002031"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [[
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "Upholstery 1", "value": "B/002001"},
+                  {"variation": "Upholstery 2", "value": "B/002002"},
+                  {"variation": "Upholstery 3", "value": "B/002003"},
+                  {"variation": "Upholstery 4", "value": "B/002004"},
+                  {"variation": "Upholstery 5", "value": "B/002005"},
+                  {"variation": "Upholstery 6", "value": "B/002006"},
+                  {"variation": "Upholstery 7", "value": "B/002007"},
+                  {"variation": "Upholstery 8", "value": "B/002008"},
+                  {"variation": "Upholstery 9", "value": "B/002009"},
+                  {"variation": "Upholstery 10", "value": "B/002011"},
+                  {"variation": "Upholstery 11", "value": "B/002012"},
+                  {"variation": "Upholstery 12", "value": "B/002029"},
+                  {"variation": "Upholstery 13", "value": "B/002031"}
+                    ]],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -821,18 +729,19 @@
             "name": "Binder Maharam: Wallcovering",
             "price": 0,
             "description": "Maharam Wallcovering Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Wallcovering 1", "value": "B/002021"},
-              {"variation": "Wallcovering 2", "value": "B/002022"},
-              {"variation": "Wallcovering 3", "value": "B/002023"},
-              {"variation": "Wallcovering 4", "value": "B/002024"},
-              {"variation": "Wallcovering 5", "value": "B/002025"},
-              {"variation": "Wallcovering 6", "value": "B/002026"},
-              {"variation": "Wallcovering 7", "value": "B/002028"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": 
+                [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "Wallcovering 1", "value": "B/002021"},
+                  {"variation": "Wallcovering 2", "value": "B/002022"},
+                  {"variation": "Wallcovering 3", "value": "B/002023"},
+                  {"variation": "Wallcovering 4", "value": "B/002024"},
+                  {"variation": "Wallcovering 5", "value": "B/002025"},
+                  {"variation": "Wallcovering 6", "value": "B/002026"},
+                  {"variation": "Wallcovering 7", "value": "B/002028"}
+                    ],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -842,13 +751,13 @@
             "name": "Binder Maharam: Window Covering",
             "price": 0,
             "description": "Maharam Window Covering Binder",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Window Covering 1", "value": "B/002015"},
-              {"variation": "Window Covering 2", "value": "B/002016"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "Window Covering 1", "value": "B/002015"},
+                  {"variation": "Window Covering 2", "value": "B/002016"}
+                    ],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -858,13 +767,10 @@
             "name": "Binder Maharam Label Holder",
             "price": 0,
             "description": "Binder label holder for Maharam binders, one order includes 4 holders.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Yellow", "value": "J/LBLHLD"}
-                ],
                 "quantity": 4,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "J/LBLHLD"}],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -874,13 +780,10 @@
             "name": "Binder Maharam Label: Solid/Texture",
             "price": 0,
             "description": "Solid/Texture Binder label for Maharam binders",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/LBLSTX"}
-                ],
-                "quantity": 1,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLSTX"}],
+            "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -890,13 +793,10 @@
             "name": "Binder Maharam Label: Performance Woven",
             "price": 0,
             "description": "Performance Woven Binder label for Maharam binders",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/LBLPWV"}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "J/LBLPWV"}],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -906,13 +806,10 @@
             "name": "Binder Maharam Label: Nonwoven",
             "price": 0,
             "description": "Nonwoven Binder label for Maharam binders",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/LBLNWV"}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "J/LBLNWV"}],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -922,13 +819,10 @@
             "name": "Binder Maharam Label: Natural",
             "price": 0,
             "description": "Natural Binder label for Maharam binders",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/LBLNAT"}
-                ],
-                "quantity": 1,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLNAT"}],
+            "Note": "Sampling order through DON"
           },
           {
             "image": [
@@ -938,13 +832,10 @@
             "name": "Memo Bin Maharam",
             "price": 0,
             "description": "Maharam memo bin, one order includes 4 bins.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Grey", "value": "B/MEMBIN"}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "B/MEMBIN"}],
+                "Note": "Sampling order through DON"
           },
     
           {
@@ -955,29 +846,26 @@
             "name": "Memo Bin Maharam Label",
             "price": 0,
             "description": "Label sheet for maharam memo bin kit.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "All Categories", "value": "B/LABELS"},
-              {"variation": "Rugs", "value": "B/LABEL2"},
-              {"variation": "Leather", "value": "B/LABELL"}
-                ],
                 "quantity": 15,
-                "DON_reference_number": "",
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "All Categories", "value": "B/LABELS"},
+                  {"variation": "Rugs", "value": "B/LABEL2"},
+                  {"variation": "Leather", "value": "B/LABELL"}
+                    ],
+                "Note": "Sampling order through DON"
           },
           {
             "image": [
               "./img/sg_24_tabletop_samplerequest_grey.png",
               "./img/sg_24_tabletop_table cards-grey.png"
               ],
-            "name": "Sampling Cart Maharam",
+            "name": "Sampling Cart Maharam and Parts",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -985,14 +873,12 @@
               "./img/sg_24_tabletop_samplerequest_grey.png",
               "./img/sg_24_tabletop_table cards-grey.png"
               ],
-            "name": "Sampling Cart Knoll Textiles",
+            "name": "Sampling Cart Knoll Textiles and Parts",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -1000,14 +886,12 @@
               "./img/sg_24_tabletop_samplerequest_grey.png",
               "./img/sg_24_tabletop_table cards-grey.png"
               ],
-            "name": "Hang Set Maharam",
+            "name": "Hang Set Maharam and Parts",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -1015,14 +899,12 @@
               "./img/sg_24_tabletop_samplerequest_grey.png",
               "./img/sg_24_tabletop_table cards-grey.png"
               ],
-            "name": "Hang Set Knoll textiles",
+            "name": "Hang Set Knoll Textiles and Parts",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
     
@@ -1033,12 +915,10 @@
               ],
             "name": "Binder Knoll Textiles",
             "price": 0,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
+            "description": "",
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
     
@@ -1050,11 +930,9 @@
             "name": "Memo Bin Knoll Textiles",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
     
@@ -1066,11 +944,9 @@
             "name": "Memo Bin Edelman",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
     
@@ -1082,11 +958,9 @@
             "name": "Sampling Box Edelman",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
                 "quantity": 1,
-                "DON_reference_number": "",
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
 
@@ -1098,11 +972,9 @@
             "name": "Business Cards",
             "price": 1,
             "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
           },
           {
@@ -1113,11 +985,9 @@
             "name": "Letterhead with Showroom Address(North America)",
             "price": 1,
             "description": "Letterhead with showroom address (North America).",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number":[
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": ""
           },
           {
@@ -1128,11 +998,9 @@
             "name": "Envelope with Showroom Address(North America)",
             "price": 0,
             "description": "Envelope with showroom address (North America).",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": ""
           },
           {
@@ -1143,11 +1011,9 @@
             "name": "Letterhead with Showroom Address(ROW)",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": ""
           },
     
@@ -1159,11 +1025,9 @@
             "name": "Envelope with Showroom Address(ROW)",
             "price": 0,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": ""
           },
           {
@@ -1174,12 +1038,10 @@
             "name": "Mailing Label with Showroom Address",
             "price": 0,
             "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
-                "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
+                "Note": "<br>Sampling order through DON <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1190,12 +1052,10 @@
             "name": "Large Kraft Envelope with Gusset",
             "price": 0,
             "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "J/000003"}
-                ],
                 "quantity": 100,
-                "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "J/000003"}],
+                "Note": "<br>Sampling order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1206,11 +1066,9 @@
             "name": "Mailing Label Sheet",
             "price": 0,
             "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
@@ -1222,11 +1080,9 @@
             "name": "Kraft Envelope",
             "price": 0,
             "description": "7 1/2 in x 3 3/4 in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Brown", "value": "Contact Facilities"}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Facilities"}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
@@ -1238,11 +1094,9 @@
             "name": "Rubber Bands",
             "price": 0,
             "description": "Maharam's rubber band should be used with two or more  gusseted kraft envelopes for delivery to a client. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Multicolor", "value": "J/RBRBND"}
-                ],
                 "quantity": 25,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/RBRBND"}],
                 "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
@@ -1253,11 +1107,9 @@
             "name": "Notecard Set",
             "price": 0,
             "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or inlcuded loosely with a sample delivery or gift.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/SRNOTE"}
-                ],
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/SRNOTE"}],
                 "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
@@ -1268,12 +1120,10 @@
               ],
             "name": "Notecard Knoll Textiles",
             "price": 0,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": ""}
-                ],
+            "description": "",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
     
@@ -1284,12 +1134,10 @@
               ],
             "name": "Envelope Knoll Textiles",
             "price": 1,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": ""}
-                ],
+            "description": "",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -1300,12 +1148,10 @@
             "name": "Sample Request Form Pad",
             "price": 1,
             "description": "Sample request form pad for showroom sample requests.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/100005"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/100005"}],
+                "Note": "Sampling order through DON"
           }, 
           
           
@@ -1317,12 +1163,10 @@
             "name": "Pocket Folder",
             "price": 1,
             "description": "Corporate folders are designed for delivering flat printed matter that either cannot be provided digitally or calls for special attention. Examples include new hire documents and Maharam Digital Projects specification sheets.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Black", "value": "J/100006"}
-                ],
                 "quantity": 5,
-                "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "DON_reference_number":[
+                  {"variation": "Select an option", "value": "J/100006"}],
+                "Note": "<br>Sampling order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1333,11 +1177,9 @@
             "name": "Notepad",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": ""}
-                ],
                 "quantity": 1,
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -1347,12 +1189,10 @@
             "name": "Caran d'Ache Pen Maharam",
             "price": 1,
             "description": "White ballpoint pens with the Maharam logo from Swiss pen company Caran d'Ache.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": " 800990/001"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "800990/001"}],
+                "Note": "Product order through DON"
           },
           {
             "image": [
@@ -1361,11 +1201,9 @@
             "name": "Caran d'Ache Pen Knoll Textiles",
             "price": 1,
             "description": "White ballpoint pens with the Knoll Textiles logo from Swiss pen company Caran d'Ache.",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": ""}
-                ],
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon."
           },
           {
@@ -1374,12 +1212,10 @@
               ],
             "name": "Caran d'Ache Pen Replacement Cartridge",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Black", "value": "Contact Media"}
-                ],
+            "description": "Replacement cartridge for Caran d'Ache pens. ",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
           },
     
@@ -1389,13 +1225,11 @@
               ],
             "name": "Staedtler Pencils Maharam",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/105000"}
-                ],
+            "description": "Pencils with Maharam logo. ",
                 "quantity": 50,
-                "Note": "Order through DON"
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/105000"}],
+                "Note": "Product order through DON"
           },
     
           {
@@ -1404,13 +1238,11 @@
               ],
             "name": "Staedtler Pencils Knoll Textiles",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": ""}
-                ],
+            "description": "Pencils with Knoll Textiles logo. ",
                 "quantity": 50,
-                "Note": "This item will be available soon."
+                "DON_reference_number": [
+                  {"variation": "Select an option", "value": "Contact Thoroughbred"}],
+                "Note": ""
           },
           {
             "image": [
@@ -1418,13 +1250,11 @@
               ],
             "name": "Eraser",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "J/100068"}
-                ],
+            "description": "Maharam branded eraser quantity of 1 contains 14. ",
                 "quantity": 14,
-                "Note": "Order through DON"
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/100068"}],
+                "Note": "Product order through DON"
           },
     
           {
@@ -1434,26 +1264,22 @@
             "name": "Mousepad",
             "price": 1,
             "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or inlcuded loosely with a sample delivery or gift. ",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "Black", "value": "J/200006"}
-                ],
                 "quantity": 1,
-                "Note": "Order through DON"
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "J/200006"}],
+                "Note": "Product order through DON"
           },
     
           {
             "image": [
               "./img/new/mhrm_nametag_a.jpg"
               ],
-            "name": "Nametag",
+            "name": "Name Tag",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
+            "description": "Nametag",
                 "quantity": 2,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": "Contact Media"}],
                 "Note": ""
           },
     
@@ -1464,11 +1290,10 @@
             "name": "E-vites",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""}
-                ],
-                "quantity": 2,
-                "Note": ""
+                "quantity": 0,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
+                "Note": "Send completed form to invites@maharam.com<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
           },
     
           {
@@ -1478,26 +1303,10 @@
             "name": "Printed Invites",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
-                "quantity": 2,
-                "Note": ""
-          },
-          {
-            "image": [
-              "./img/new/mhrm_nametag_a.jpg"
-              ],
-            "name": "Printed Invites",
-            "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
-                "quantity": 2,
-                "Note": ""
+                "quantity": 0,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
+                "Note": "Send completed form to invites@maharam.com<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
           },
     
           {
@@ -1507,12 +1316,10 @@
             "name": "New Sales Team Announcements",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
-                "quantity": 2,
-                "Note": ""
+                "quantity": 0,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
+                "Note": "Send completed form to hross@maharam.com<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
           },
           {
             "image": [
@@ -1521,12 +1328,10 @@
             "name": "Logo Requests",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "White", "value": "Contact Media"}
-                ],
-                "quantity": 2,
-                "Note": ""
+                "quantity": 0,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
+                "Note": "Send completed form to logos@maharam.com<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to form</a>"
           },
           {
             "image": [
@@ -1535,12 +1340,10 @@
               ],
             "name": "Blocks Tray Small by Scholten & Baijings",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Zest", "value": ""}
-                ],
+            "description": "001 Zest",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon"
           },
           {
@@ -1550,12 +1353,10 @@
               ],
             "name": "Blocks Tray Medium by Scholten & Baijings",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "002 Poppy", "value": ""}
-                ],
+            "description": "002 Poppy",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon"
           },
           {
@@ -1565,12 +1366,10 @@
               ],
             "name": "Blocks Tray Large by Scholten & Baijings",
             "price": 1,
-            "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "003 Glacier", "value": ""}
-                ],
+            "description": "003 Glacier",
                 "quantity": 1,
+                "DON_reference_number":  [
+                  {"variation": "Select an option", "value": ""}],
                 "Note": "This item will be available soon"
           },
           {
@@ -1581,14 +1380,14 @@
             "name": "Grid Bowl by Scholten & Baijings",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Matcha", "value": ""},
-              {"variation": "002 Petal", "value": ""},
-              {"variation": "003 Zinc", "value": ""}
-                ],
-                "quantity": 1,
-                "Note": "This item will be available soon"
+            "quantity": 1,
+            "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "001 Matcha", "value": ""},
+                  {"variation": "002 Petal", "value": ""},
+                  {"variation": "003 Zinc", "value": ""}
+                    ],
+            "Note": "This item will be available soon"
           },
           {
             "image": [
@@ -1598,12 +1397,12 @@
             "name": "Grid Mug by Scholten & Baijings",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Matcha", "value": ""},
-              {"variation": "003 Zinc", "value": ""}
-                ],
-                "quantity": 1,
+            "quantity": 1,
+            "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "001 Matcha", "value": ""},
+                  {"variation": "003 Zinc", "value": ""}
+                    ],
                 "Note": "This item will be available soon"
           },
           {
@@ -1614,13 +1413,13 @@
             "name": "Grid Cup by Scholten & Baijings",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Matcha", "value": ""},
-              {"variation": "002 Petal", "value": ""},
-              {"variation": "003 Zinc", "value": ""}
-                ],
-                "quantity": 1,
+            "quantity": 1,
+            "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "001 Matcha", "value": ""},
+                  {"variation": "002 Petal", "value": ""},
+                  {"variation": "003 Zinc", "value": ""}
+                    ],
                 "Note": "This item will be available soon"
           },
           {
@@ -1631,14 +1430,14 @@
             "name": "Grid Plate by Scholten & Baijings",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Matcha", "value": ""},
-              {"variation": "002 Petal", "value": ""},
-              {"variation": "003 Zinc", "value": ""}
-                ],
-                "quantity": 1,
-                "Note": "This item will be available soon"
+            "quantity": 1,
+            "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "001 Matcha", "value": ""},
+                  {"variation": "002 Petal", "value": ""},
+                  {"variation": "003 Zinc", "value": ""}
+                    ],
+            "Note": "This item will be available soon"
           },
           {
             "image": [
@@ -1648,14 +1447,14 @@
             "name": "Grid Plate Small by Scholten & Baijings",
             "price": 1,
             "description": "",
-            "options": [
-              {"variation": "Select an option", "value": ""},
-              {"variation": "001 Matcha", "value": ""},
-              {"variation": "002 Petal", "value": ""},
-              {"variation": "003 Zinc", "value": ""}
-                ],
-                "quantity": 1,
-                "Note": "This item will be available soon"
+            "quantity": 1,
+            "DON_reference_number": [
+                  {"variation": "Select an option", "value": ""},
+                  {"variation": "001 Matcha", "value": ""},
+                  {"variation": "002 Petal", "value": ""},
+                  {"variation": "003 Zinc", "value": ""}
+                    ],
+             "Note": "This item will be available soon"
           }
     ]
         

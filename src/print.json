@@ -7,7 +7,8 @@
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
         "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón. (Green)",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": ""
            },
@@ -18,7 +19,8 @@
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
         "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón.",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": ""
            
@@ -32,7 +34,8 @@
         "name": "Mailing Pouch for Look Book, Notebooks, Calendar, etc.",
         "price": 0,
         "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number":[
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
            
@@ -44,7 +47,8 @@
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
           "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.",
-          "DON_reference_number": "Contact Media",
+          "DON_reference_number": [
+            {"variation": "Select an option", "value": "Contact Media"}],
           "quantity": 1,
           "Note": ""
       },
@@ -56,7 +60,8 @@
           "name": "Bertjan Pot",
           "price": 0,
           "description": "",
-          "DON_reference_number": "",
+          "DON_reference_number":[
+            {"variation": "Select an option", "value": ""}],
           "quantity": 1,
           "Note": "This item will be available soon."
       },
@@ -68,7 +73,8 @@
         "name": "Repeat by Hella Jongerius",
         "price": 0,
         "description": "",
-        "DON_reference_number": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""}],
         "quantity": 1,
         "Note": "This item will be available soon."
            
@@ -80,7 +86,8 @@
         "name": "60 60",
         "price": 1,
         "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number":[
+          {"variation": "Select an option", "value": "Contact Media"}],
         "quantity": 1,
         "Note": ""
            
@@ -93,7 +100,8 @@
         "name": "60 60 Shipping Box",
         "price": 0,
         "description": "Shipping box for <em>60 60</em> book.",
-        "DON_reference_number": "J/000001",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "J/000001"}],
         "quantity": 1,
         "Note": "Sample order through DON"
            
@@ -106,7 +114,8 @@
         "name": "The Archetypes",
         "price": 0,
         "description": "A set of twelve 15\" x 22.75\" newsprint posters, each features a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporates Maharam textiles.",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
         "quantity": 1,
         "Note": ""
            
@@ -119,7 +128,8 @@
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
         "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
         "quantity": 1,
         "Note": ""
            
@@ -171,7 +181,8 @@
         "name": "Memory Two",
         "price": 1,
         "description": "TTwo sets of thirty-six cards interpreting Maharam Digital Projects. Four randomized cover variations.",
-        "DON_reference_number": "801080-001",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801080/001"}],
         "quantity": 1,
         "Note": "Order through DON"
            
@@ -184,7 +195,8 @@
         "name": "Memory Three",
         "price": 1,
         "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
-        "DON_reference_number": "801081-001",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801081/001"}],
         "quantity": 1,
         "Note": "Product order through DON"
            
@@ -198,7 +210,8 @@
         "name": "Calendar 2024",
         "price": 1,
         "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.",
-        "DON_reference_number": "Contact Media",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
         "quantity": 1,
         "Note": ""
            
@@ -213,7 +226,8 @@
         "name": "Maharam Digital Projects Notecard Set",
         "price": 1,
         "description": "6 cards with different Maharam Digital Projects visuals and 18 envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
-        "DON_reference_number": "",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""}],
         "quantity": 1,
         "Note": "This item will be available soon."
            

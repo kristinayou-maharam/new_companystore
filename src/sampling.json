@@ -9,7 +9,9 @@
         "price": 0,
         "description": "Maharam Generic Binder",
             "quantity": 1,
-            "DON_reference_number": "B/002027",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/002027"}
+                ],
             "Note": "Order through DON"
       },
       {
@@ -118,7 +120,9 @@
         "price": 0,
         "description": "Binder label holder for Maharam binders, one order includes 4 holders.",
             "quantity": 4,
-            "DON_reference_number": "J/LBLHLD",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLHLD"}
+                ],
             "Note": "Order through DON"
       },
       {
@@ -130,7 +134,9 @@
         "price": 0,
         "description": "Solid/Texture Binder label for Maharam binders",
             "quantity": 1,
-            "DON_reference_number": "J/LBLSTX",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLSTX"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -142,7 +148,9 @@
         "price": 0,
         "description": "Performance Woven Binder label for Maharam binders",
             "quantity": 1,
-            "DON_reference_number": "J/LBLPWV",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLPWV"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -154,7 +162,9 @@
         "price": 0,
         "description": "Nonwoven Binder label for Maharam binders",
             "quantity": 1,
-            "DON_reference_number": "J/LBLNWV",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLNWV"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -166,7 +176,9 @@
         "price": 0,
         "description": "Natural Binder label for Maharam binders",
             "quantity": 1,
-            "DON_reference_number": "J/LBLNAT",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "J/LBLNAT"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -178,7 +190,9 @@
         "price": 0,
         "description": "Maharam memo bin, one order includes 4 bins.",
             "quantity": 1,
-            "DON_reference_number": "B/MEMBIN",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/MEMBIN"}
+                ],
             "Note": "Sample order through DON"
       },
 
@@ -191,7 +205,9 @@
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit includes all categories.",
             "quantity": 1,
-            "DON_reference_number": "B/LABELS",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABELS"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -203,7 +219,9 @@
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit including rugs.",
             "quantity": 1,
-            "DON_reference_number": "B/LABELS2",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABELS2"}
+                ],
             "Note": "Sample order through DON"
       },
       {
@@ -215,7 +233,9 @@
         "price": 0,
         "description": "Label sheet for Maharam Leather bin, one order includes 15 labels. ",
             "quantity": 1,
-            "DON_reference_number": "B/LABELL",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "B/LABELL"}
+                ],
             "Note": "Sample order through DON"
       },
       
@@ -228,7 +248,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
       {
@@ -240,7 +262,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
       {
@@ -252,7 +276,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
       {
@@ -264,7 +290,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
 
@@ -277,7 +305,9 @@
         "price": 0,
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
 
@@ -290,7 +320,9 @@
         "price": 1,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
 
@@ -303,7 +335,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       },
 
@@ -316,7 +350,9 @@
         "price": 0,
         "description": "",
             "quantity": 1,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
             "Note": "This item will be available soon."
       }
     ]
