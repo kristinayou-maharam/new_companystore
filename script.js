@@ -402,9 +402,64 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         }
       };
+    })    
+    
+
+    .then(() => fetch("./src/more.json"))
+    .then(response => response.json())
+    .then(data => {
+      window.displayMore = function (index) {
+        const more = data.more[index];
+        const slideHTML = more.image.map(imageUrl => `<div><img class="product-image" src="${imageUrl}" alt="${more.name}"></div>`).join('');
+    
+        let moreInfoHTML = `
+        <div class="slick-carousel">
+        ${slideHTML}
+        </div>
+        <div id="detaildescription">
+        <h2>${more.name}</h2>
+        <p>${more.description}</p>
+        <p>Price: $${more.price.toFixed(2)}</p>
+        <p>Quantity per Order: ${more.quantity}</p>
+        `;
+    
+        if (Object.keys(more.DON_reference_number).length > 1) {
+          moreInfoHTML += `
+          <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
+          <select id="variationDropdown">`;
+    
+          Object.entries(more.DON_reference_number).forEach(([variation, value]) => {
+            moreInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
+          });
+    
+          moreInfoHTML += `</select><br><br>`;
+        }
+    
+        moreInfoHTML += `
+        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(more.DON_reference_number)[0].value}</strong></p>
+        <p id="note">Note: ${more.Note}</p>
+        </div>
+        `;
+    
+        document.getElementById("product-info").innerHTML = moreInfoHTML;
+    
+        $('.slick-carousel').slick({
+          infinite: true,
+          arrows: true,
+          dots: true
+        });
+    
+        const variationDropdown = document.getElementById('variationDropdown');
+        const selectedValueElement = document.getElementById('selectedValue');
+    
+        if (variationDropdown) {
+          variationDropdown.addEventListener('change', function () {
+            const selectedOptionValue = variationDropdown.value.trim();
+            selectedValueElement.textContent = selectedOptionValue;
+            selectedValueElement.style.fontWeight = "strong"; // Add this line
+          });
+        }
+      };
     })
-    .catch(error => console.error('Error fetching or parsing JSON:', error));
-    
-    
     });
 
