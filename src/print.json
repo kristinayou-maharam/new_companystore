@@ -4,13 +4,11 @@
         "image": [
           "./img/new/mhrm_look book_ translated_a.jpg"
           ],
-        "name": "2021 Look Book: English, German, French",
+        "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Green", "value": "Contact Media"}
-            ],
+        "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón. (Green)",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": ""
            },
@@ -18,13 +16,11 @@
         "image": [
           "./img/new/mhrm_look book_ translated_a.jpg"
           ],
-        "name": "2021 Look Book: English, Japanese, Simplified Chinese",
+        "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
         "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Purple", "value": "Contact Media"}
-            ],
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": ""
            
@@ -38,10 +34,8 @@
         "name": "Mailing Pouch for Look Book, Notebooks, Calendar, etc.",
         "price": 0,
         "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Brown", "value": "Contact Media"}
-            ],
+        "DON_reference_number":[
+          {"variation": "Select an option", "value": "Contact Media"}],
             "quantity": 1,
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
            
@@ -53,12 +47,8 @@
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
           "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.",
-          "options": [
-            {"variation": "Select an option", "value": ""},
-            {"variation": "Teal", "value": "Contact Media"},
-            {"variation": "Blue", "value": "Contact Media"},
-            {"variation": "Pink", "value": "Contact Media"}
-          ],
+          "DON_reference_number": [
+            {"variation": "Select an option", "value": "Contact Media"}],
           "quantity": 1,
           "Note": ""
       },
@@ -70,9 +60,8 @@
           "name": "Bertjan Pot",
           "price": 0,
           "description": "",
-          "options": [
-            {"variation": "Select an option", "value": ""}
-          ],
+          "DON_reference_number":[
+            {"variation": "Select an option", "value": ""}],
           "quantity": 1,
           "Note": "This item will be available soon."
       },
@@ -84,11 +73,10 @@
         "name": "Repeat by Hella Jongerius",
         "price": 0,
         "description": "",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
-            "quantity": 1,
-            "Note": "This item will be available soon."
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""}],
+        "quantity": 1,
+        "Note": "This item will be available soon."
            
       },
       {
@@ -98,12 +86,10 @@
         "name": "60 60",
         "price": 1,
         "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
-            ],
-            "quantity": 1,
-            "Note": ""
+        "DON_reference_number":[
+          {"variation": "Select an option", "value": "Contact Media"}],
+        "quantity": 1,
+        "Note": ""
            
       },
 
@@ -113,13 +99,11 @@
           ],
         "name": "60 60 Shipping Box",
         "price": 0,
-        "description": "Shipping box for 60/60 book.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Cardboard", "value": "J/000001"}
-            ],
-            "quantity": 1,
-            "Note": "Order through DON"
+        "description": "Shipping box for <em>60 60</em> book.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "J/000001"}],
+        "quantity": 1,
+        "Note": "Sample order through DON"
            
       },
 
@@ -129,13 +113,11 @@
           ],
         "name": "The Archetypes",
         "price": 0,
-        "description": "Set of twelve 15 x 22.75 in posters. Each feature a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporate Maharam textiles. Printed on newsprint.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "White", "value": "Contact Media"}
-            ],
-            "quantity": 1,
-            "Note": ""
+        "description": "A set of twelve 15\" x 22.75\" newsprint posters, each features a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporates Maharam textiles.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
+        "quantity": 1,
+        "Note": ""
            
       },
 
@@ -146,12 +128,10 @@
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
         "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Blue", "value": "Contact Media"}
-            ],
-            "quantity": 1,
-            "Note": ""
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
+        "quantity": 1,
+        "Note": ""
            
       },
 
@@ -162,20 +142,17 @@
           ],
         "name": "Notebook",
         "price": 2,
-        "description": "Cloth-bound perforated micro-grid paper. Forty-eight sheets. Available individually and in sets of three.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Rust", "value": "801013/002"},
-          {"variation": "Black", "value": "801013/008"},
-          {"variation": "Smoke", "value": "801013/009"},
-          {"variation": "Cornflower", "value": "801013/010"},
-          {"variation": "Terracotta", "value": "801013/011"},
-          {"variation": "Ivory", "value": "801013/013"},
-          {"variation": "Chalk", "value": "801013/014"}
-            ],
-            "quantity": 1,
-            "Note": "Order through DON"
-           
+        "description": "Single, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets.",
+        "DON_reference_number":[ {"variation": "Select an option", "value": ""},
+        {"variation": "002 Rust", "value": "801013/002"},
+        {"variation": "008 Black", "value": "801013/008"},
+        {"variation": "009 Smoke", "value": "801013/009"},
+        {"variation": "010 Cornflower", "value": "801013/010"},
+        {"variation": "011 Terracotta", "value": "801013/011"},
+        {"variation": "013 Ivory", "value": "801013/013"},
+        {"variation": "014 Chalk", "value": "801013/014"}],
+        "quantity": 1,
+        "Note": "Product order through DON"
       },
 
       {
@@ -185,14 +162,14 @@
           ],
         "name": "Notebook Set",
         "price": 0,
-        "description": "Cloth-bound perforated micro-grid paper. Forty-eight sheets. Available individually and in sets of three.",
-        "options": [
+        "description": "Set of three, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets each.",
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "Terracotta/Ivory/Apricot", "value": "800991/003"},
-          {"variation": "Terracotta/Ivory/Apricot", "value": "800991/004"}
+          {"variation": "003 Terracotta, Ivory, Aprilcot" , "value": "800991/003"},
+          {"variation": "004 Currant, Chalk, Sky", "value": "800991/004"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Product order through DON"
            
       },
 
@@ -203,13 +180,11 @@
           ],
         "name": "Memory Two",
         "price": 1,
-        "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Brown", "value": "801080/001"}
-            ],
-            "quantity": 1,
-            "Note": "Order through DON"
+        "description": "TTwo sets of thirty-six cards interpreting Maharam Digital Projects. Four randomized cover variations.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801080/001"}],
+        "quantity": 1,
+        "Note": "Order through DON"
            
       },
       {
@@ -220,12 +195,10 @@
         "name": "Memory Three",
         "price": 1,
         "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Brown", "value": "801081/001"}
-            ],
-            "quantity": 1,
-            "Note": "Order through DON"
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "801081/001"}],
+        "quantity": 1,
+        "Note": "Product order through DON"
            
       }, 
       
@@ -236,13 +209,11 @@
           ],
         "name": "Calendar 2024",
         "price": 1,
-        "description": "Maharam calendar which offers weekly, monhtly and yearly agendas along with birthdays of distinguished architects and designers and moon phases. ",
-        "options": [
-          {"variation": "Select an option", "value": ""},
-          {"variation": "Brown", "value": "Contact Media"}
-            ],
-            "quantity": 1,
-            "Note": ""
+        "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": "Contact Media"}],
+        "quantity": 1,
+        "Note": ""
            
       }, 
       
@@ -254,12 +225,11 @@
           ],
         "name": "Maharam Digital Projects Notecard Set",
         "price": 1,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "options": [
-          {"variation": "Select an option", "value": ""}
-            ],
-            "quantity": 1,
-            "Note": "This item will be available soon."
+        "description": "6 cards with different Maharam Digital Projects visuals and 18 envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
+        "DON_reference_number": [
+          {"variation": "Select an option", "value": ""}],
+        "quantity": 1,
+        "Note": "This item will be available soon."
            
       }
     ]

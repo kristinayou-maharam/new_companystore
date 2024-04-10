@@ -8,7 +8,7 @@
         "name": "Blocks Tray Small by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Zest", "value": ""}
             ],
@@ -23,7 +23,7 @@
         "name": "Blocks Tray Medium by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "002 Poppy", "value": ""}
             ],
@@ -38,7 +38,7 @@
         "name": "Blocks Tray Large by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "003 Glacier", "value": ""}
             ],
@@ -53,7 +53,7 @@
         "name": "Grid Bowl by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": ""},
           {"variation": "002 Petal", "value": ""},
@@ -70,7 +70,7 @@
         "name": "Grid Mug by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": ""},
           {"variation": "003 Zinc", "value": ""}
@@ -86,7 +86,7 @@
         "name": "Grid Cup by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": ""},
           {"variation": "002 Petal", "value": ""},
@@ -103,7 +103,7 @@
         "name": "Grid Plate by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": ""},
           {"variation": "002 Petal", "value": ""},
@@ -120,7 +120,7 @@
         "name": "Grid Plate Small by Scholten & Baijings",
         "price": 1,
         "description": "",
-        "options": [
+        "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": ""},
           {"variation": "002 Petal", "value": ""},

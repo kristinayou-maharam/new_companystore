@@ -8,13 +8,10 @@
       "name": "Maharam Shopping Bag",
       "price": 0,
       "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
-      "options": [
-        {"variation": "Select an option", "value": ""},
-      {"variation": "Brown", "value": "J/MAHBAG"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/MAHBAG"}],
+      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -23,12 +20,10 @@
       "name": "Maharam Shopping Bag Label",
       "price": 0,
       "description": "Label to affix to Kraft bags.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "White", "value": "J/BAGLBL"}
-            ],
-            "quantity": 25,
-            "DON_reference_number": "",
-            "Note": "Order through DON"
+      "quantity": 25,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/BAGLBL"}],
+      "Note": "Sample order through DON"
     },
     {
       "image": [
@@ -38,12 +33,10 @@
       "name": "Display Board Large",
       "price": 0,
       "description": "The large 14in x 20in display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Grey", "value": "J/DISPLG"}
-    ],
-    "quantity": 10,
-    "DON_reference_number": "",
-    "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "quantity": 10,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/DISPLG"}],
+      "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -54,11 +47,9 @@
       "name": "Display Board Small",
       "price": 0,
       "description": "The small 8.5in x 8.5in display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Grey", "value": "J/DISPSM"}
-            ],
             "quantity": 10,
-            "DON_reference_number": "",
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": "DISPSM"}],
             "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
     {
@@ -68,13 +59,11 @@
         ],
       "name": "Display Board Reclosable Poly Bag",
       "price": 0,
-      "description": "Bags are used for storing rug samples with loose fibers within the sample bag.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Clear", "value": "J/DISPBG"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "description": "Bags are used for storing and stransporting display boards.",
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "DISPBG"}],
+      "Note": "<br>Sample Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -82,15 +71,13 @@
         "img/angle/stool.jpg",
         "img/angle/stool-2.jpg"
         ],
-      "name": "T-Pins",
+      "name": "Display Board T-Pins",
       "price": 0,
       "description": "Display board t-pins",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Silver", "value": "J/DISPTP"}
-            ],
-            "quantity": 100,
-            "DON_reference_number": "",
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "quantity": 100,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/DISPTP"}],
+      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -98,15 +85,13 @@
         "img/angle/stool.jpg",
         "img/angle/stool-2.jpg"
         ],
-      "name": "Leather Cord Spool",
+      "name": "Leather Cord for Custom Corded Sets",
       "price": 0,
-      "description": "Leather cords to assemble customized sets of leather samples for clients.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Brown", "value": "J/LTHCOR"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "description": "The leather cords are used for assembling customized leather sample sets for clients.",
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/LTHCOR"}],
+      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -116,13 +101,11 @@
         ],
       "name": "Rug Storage Bag",
       "price": 1,
-      "description": "",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Clear", "value": "J/301007"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "Bags are used for storing rug samples with loose fibers within the sample bag.",
-            "Note": "Order through DON"
+      "description": "Bags are used for storing rug samples with loose fibers within the sample bag.",
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/301007"}],
+      "Note": "Sample order through DON"
     },
 
     {
@@ -130,15 +113,13 @@
         "img/angle/stool.jpg",
         "img/angle/stool-2.jpg"
         ],
-      "name": "Giftwrap Set",
+      "name": "Gift Wrap Set",
       "price": 0,
-      "description": "Giftwrap set.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Multicolor", "value": "J/170072"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "Order through DON"
+      "description": "Maharam Gift Wrap is printed with a large-scale grid pattern. The irregularity of the pattern ensures that, when wrapped, no two gifts look the same. Each package contains 4 sheets of two-sided paper, with a total of four color options.",
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/170072"}],
+      "Note": "Sample order through DON"
     },
     {
       "image": [
@@ -148,12 +129,10 @@
       "name": "Sales Integration Announcement Card",
       "price": 0,
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Multicolor", "value": "Contact Media"}
-            ],
-            "quantity": 50,
-            "DON_reference_number": "",
-            "Note": ""
+      "quantity": 50,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "Contact Media"}],
+      "Note": ""
     }, 
     
     
@@ -165,12 +144,10 @@
       "name": "Sales Integration Tent Card",
       "price": 0,
       "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Multicolor", "value": "Contact Media"}
-            ],
-            "quantity": 50,
-            "DON_reference_number": "",
-            "Note": ""
+      "quantity": 50,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "Contact Media"}],
+      "Note": ""
     },
 
     {
@@ -180,13 +157,11 @@
         ],
       "name": "Wallcovering Brush",
       "price": 0,
-      "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way. ",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Brown", "value": "J/100076"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "Order through DON"
+      "description": "Wallcovering brushes are packed in a plastic bag and include cleaning instructions suitable for any type of High Performance Wallcovering. In certain cases, the brush is also suitable for cleaning upholstery.",
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/100076"}],
+      "Note": "Sample order through DON"
     },
     {
       "image": [
@@ -196,12 +171,10 @@
       "name": "Frame Bag Sales Edition",
       "price": 1,
       "description": "Ripstop nylon with webbing lattice. Durable vinyl base with mesh detail. Self-lined. One interior pocket.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Navy", "value": "Contact Media"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "This item requires manager approval."
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "Contact Media"}],
+      "Note": "This item requires manager approval."
     },
     {
       "image": [
@@ -211,27 +184,23 @@
       "name": "Briggs & Riley Carry-on",
       "price": 0,
       "description": "Carry-on suitcase for sales representatives. ",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Black", "value": "J/301003"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "This item requires manager approval."
+      "quantity": 1,
+      "DON_reference_number": [
+        {"variation": "Select an option", "value": "J/301003"}],
+      "Note": "This item requires manager approval."
     },
     {
       "image": [
         "img/angle/stool.jpg",
         "img/angle/stool-2.jpg"
         ],
-      "name": "Tote Bag with Knoll Textiles Logo",
+      "name": "Knoll Textiles Tote",
       "price": 0,
       "description": "Tote bag with Knoll Textiles logo.",
-      "options": [{"variation": "Select an option", "value": ""},
-      {"variation": "Canvas", "value": "Contact Throroughbred"}
-            ],
-            "quantity": 1,
-            "DON_reference_number": "",
-            "Note": "This item requires manager approval."
+      "quantity": 1,
+      "DON_reference_number":[
+        {"variation": "Select an option", "value": ""}],
+      "Note": "This item will be available soon. This item requires manager approval."
     }
   ]
 }

@@ -232,8 +232,8 @@ a {
   width: 25vw;
 }
 
-#productimage{
-  width: 25vw;
+#product-image{
+  height: 25vw !important;
   margin-bottom: 10px;
 }
 
@@ -246,11 +246,11 @@ a {
 }
 
 .slick-slide{
-  width: 25vw;
+  height: 25vw;
 }
 
 .slide-img{
-  width: 25vw;
+  height: 25vw;
 }
 
 .slick-list{
@@ -266,8 +266,6 @@ a {
 .slick-next::before, .slick-prev::before {
   color: rgb(156, 156, 156) !important;
 }
-
-
 
 
 #sliderarrowleft {
@@ -506,7 +504,7 @@ text-decoration: underline;
 .wrapper {
   width: 10vw;
   max-width: 10vw;
-  margin-right: 20px;
+  margin-right: 0px;
   display: inline-block;
 }
 
@@ -598,13 +596,13 @@ ul:hover{
 #accountnav{
   display: flex;
   flex-direction: row;
-  width: 500px;
+  width: 10vw;
   align-content: space-between;
   flex-wrap: wrap;
   display: block;
   position: absolute;
   top: 10px;
-  right:25px;
+  right:150px;
 
 }
 
@@ -695,6 +693,7 @@ ul:hover{
 
 #selectedValue{
   display: inline;
+  font-family: 'maharam-medium';
 }
 
 #don{
@@ -703,6 +702,13 @@ ul:hover{
 
 #mobmenu{
   display: none;
+}
+
+@media (min-width: 1200px){
+  .product-image{
+    width: 25vw;
+  }
+  
 }
 
 
@@ -772,7 +778,7 @@ width: 20vw;
   margin-top: 3vh;
 }
 
-#productimage{
+#product-image{
   width: 40vw;
   height: 40vw;
 }
@@ -789,12 +795,9 @@ h2{
   font-size: 16px;
 }
 
-#accountnavright{
-  right: 20px !important;
-}
-
 #accountnav{
-  width: 48vw;
+  width: 12vw;
+  top: 6vh;
 }
 
 #searchResults{
@@ -825,7 +828,7 @@ ul{
  
   }
 
-#productimage{
+#product-image{
   width: 60vw;
   height: 60vw;
 }
@@ -888,11 +891,7 @@ h2{
 }
 
 #accountnav{
-  width: 85vw;
-}
-
-#accountnavright{
-  right: 20px !important;
+  width: 5vw;
 }
 
 #gallery{
@@ -919,6 +918,11 @@ ul{
 #exit{
   font-size: 20px;
   margin-top: 3vh;
+}
+
+#stock{
+  left: 20px;
+  top: 0px;
 }
 }
 
