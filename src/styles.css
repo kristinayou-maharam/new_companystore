@@ -899,7 +899,7 @@ h2{
 }
 
 #gallery{
-  margin-top: 26vh !important;
+  margin-top: 28vh !important;
 }
 
 #searchQueryInput{
@@ -932,7 +932,7 @@ ul{
 
 @media only screen and (max-width: 380px){
   #gallery{
-    margin-top: 32vh !important;
+    margin-top: 34vh !important;
   }
 
   #variationDropdown{
