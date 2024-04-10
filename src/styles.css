@@ -695,6 +695,7 @@ ul:hover{
 
 #selectedValue{
   display: inline;
+  font-family: 'maharam-medium';
 }
 
 #don{
