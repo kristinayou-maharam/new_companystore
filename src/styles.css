@@ -778,7 +778,7 @@ width: 20vw;
   margin-top: 3vh;
 }
 
-#product-image{
+.product-image{
   width: 40vw;
   height: 40vw;
 }
@@ -828,7 +828,7 @@ ul{
  
   }
 
-#product-image{
+.product-image{
   width: 60vw;
   height: 60vw;
 }
