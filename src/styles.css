@@ -872,6 +872,10 @@ ul{
 }
 
 
+#variationDropdown{
+  margin-left: 0px;
+}
+
 h2{
   font-size: 16px;
 }
@@ -929,5 +933,9 @@ ul{
 @media only screen and (max-width: 380px){
   #gallery{
     margin-top: 32vh !important;
+  }
+
+  #variationDropdown{
+    margin-left: 0px;
   }
 }
