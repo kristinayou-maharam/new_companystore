@@ -11,7 +11,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/MAHBAG"}],
-      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -23,7 +23,7 @@
       "quantity": 25,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/BAGLBL"}],
-      "Note": "Sample order through DON"
+      "Note": "<br>Sample Order Entry in DON<br>1 Order includes 25 bags"
     },
     {
       "image": [
@@ -32,11 +32,11 @@
         ],
       "name": "Display Board Large",
       "price": 0,
-      "description": "The large 14in x 20in display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
+      "description": "The large 14\" x 20\" display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
       "quantity": 10,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPLG"}],
-      "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -46,11 +46,11 @@
         ],
       "name": "Display Board Small",
       "price": 0,
-      "description": "The small 8.5in x 8.5in display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
+      "description": "The small 8.5\" x 8.5\" display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
             "quantity": 10,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "DISPSM"}],
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order in Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -59,11 +59,11 @@
         ],
       "name": "Display Board Reclosable Poly Bag",
       "price": 0,
-      "description": "Bags are used for storing and stransporting display boards.",
+      "description": "Bags are used for storing and transporting display boards.",
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "DISPBG"}],
-      "Note": "<br>Sample Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -77,7 +77,7 @@
       "quantity": 100,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPTP"}],
-      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -91,7 +91,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/LTHCOR"}],
-      "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
     },
 
     {
@@ -105,7 +105,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/301007"}],
-      "Note": "Sample order through DON"
+      "Note": "Sample Order in Entry in DON"
     },
 
     {
@@ -119,7 +119,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/170072"}],
-      "Note": "Sample order through DON"
+      "Note": "Sample Order in Entry in DON"
     },
     {
       "image": [
@@ -131,8 +131,8 @@
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
       "quantity": 50,
       "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media"}],
-      "Note": ""
+        {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+      "Note": "1 Order includes 50 cards"
     }, 
     
     
@@ -146,8 +146,8 @@
       "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
       "quantity": 50,
       "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media"}],
-      "Note": ""
+        {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+      "Note": "1 Order includes 50 cards"
     },
 
     {
@@ -161,7 +161,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/100076"}],
-      "Note": "Sample order through DON"
+      "Note": "Sample Order in Entry in DON"
     },
     {
       "image": [
@@ -172,9 +172,9 @@
       "price": 1,
       "description": "Ripstop nylon with webbing lattice. Durable vinyl base with mesh detail. Self-lined. One interior pocket.",
       "quantity": 1,
-      "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media"}],
-      "Note": "This item requires manager approval."
+      "DON_reference_number":[
+                    {"variation": "Select an option", "value": "851020-003"}],
+      "Note": "<br>This item requires manager approval.<br>Sales Order Entry in DON"
     },
     {
       "image": [
@@ -200,7 +200,7 @@
       "quantity": 1,
       "DON_reference_number":[
         {"variation": "Select an option", "value": ""}],
-      "Note": "This item will be available soon. This item requires manager approval."
+      "Note": "Sample Order in Entry in DON"
     }
   ]
 }

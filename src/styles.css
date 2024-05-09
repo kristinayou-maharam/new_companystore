@@ -692,12 +692,14 @@ ul:hover{
 }
 
 #selectedValue{
-  display: inline;
+  display: inline-block;
+  margin-left: 10px;
+  width: 200px;
   font-family: 'maharam-medium';
 }
 
 #don{
-  display: inline;
+  display: inline-block;
 }
 
 #mobmenu{

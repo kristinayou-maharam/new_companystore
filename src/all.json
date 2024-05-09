@@ -221,7 +221,7 @@
                   "quantity": 1,
                   "DON_reference_number": [
                     {"variation": "Select an option", "value": "J/MAHBAG"}],
-                  "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                  "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
           {
             "image": [
@@ -233,7 +233,7 @@
             "quantity": 25,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/BAGLBL"}],
-            "Note": "Sample order through DON"
+            "Note": "<br>Sample Order Entry in DON<br>1 Order includes 25 bags"
           },
           {
             "image": [
@@ -242,11 +242,11 @@
               ],
             "name": "Display Board Large",
             "price": 0,
-            "description": "The large 14in x 20in display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
+            "description": "The large 14\" x 20\" display board is meant for cross-category product groupings. Display boards can be mounted onto a pin board or laid on a flat surface. ",
           "quantity": 10,
           "DON_reference_number": [
             {"variation": "Select an option", "value": "J/DISPLG"}],
-          "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+          "Note": "<br>Sample Order Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -256,11 +256,11 @@
               ],
             "name": "Display Board Small",
             "price": 0,
-            "description": "The small 8.5in x 8.5in display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
+            "description": "The small 8.5\" x 8.5\" display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
             "quantity": 10,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/DISPSM"}],
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order in Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
           {
             "image": [
@@ -269,11 +269,11 @@
               ],
             "name": "Display Board Reclosable Poly Bag",
             "price": 0,
-            "description": "Bags are used for storing and stransporting display boards.",
+            "description": "Bags are used for storing and transporting display boards.",
             "quantity": 1,
             "DON_reference_number":[
               {"variation": "Select an option", "value": "J/DISPBG"}],
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -287,7 +287,7 @@
             "quantity": 100,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/DISPTP"}],
-            "Note": "<br>Sample order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
           },
       
           {
@@ -301,7 +301,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LTHCOR"}],
-            "Note": "<br>Sampling order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
           },
       
           {
@@ -315,7 +315,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/301007"}],
-            "Note": "Sampling order through DON"
+            "Note": "Sample Order in Entry in DON"
           },
       
           {
@@ -341,8 +341,8 @@
             "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
             "quantity": 50,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "Contact Media"}],
-            "Note": ""
+              {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+            "Note": "1 Order includes 50 cards"
           }, 
           
           
@@ -356,8 +356,8 @@
             "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
             "quantity": 50,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "Contact Media"}],
-            "Note": ""
+              {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+            "Note": "1 Order includes 50 cards"
           },
       
           {
@@ -371,7 +371,7 @@
                   "quantity": 1,
                   "DON_reference_number": [
                     {"variation": "Select an option", "value": "J/100076"}],
-                  "Note": "Sampling order through DON"
+                  "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -383,8 +383,8 @@
             "description": "Ripstop nylon with webbing lattice. Durable vinyl base with mesh detail. Self-lined. One interior pocket.",
                   "quantity": 1,
                   "DON_reference_number":[
-                    {"variation": "Select an option", "value": "Contact Media"}],
-                  "Note": "This item requires manager approval."
+                    {"variation": "Select an option", "value": "851020-003"}],
+                  "Note": "This item requires manager approval.<br>Sales Order Entry in DON"
           },
           {
             "image": [
@@ -410,7 +410,7 @@
                   "quantity": 1,
                   "DON_reference_number": [
                     {"variation": "Select an option", "value": "Contact Thoroughbred"}],
-                  "Note": "This item requires manager approval."
+                  "Note": "Sample Order Entry in DON"
           },
           {
             "image": [
@@ -421,7 +421,7 @@
             "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
                },
           {
@@ -433,7 +433,7 @@
             "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
                
           },
@@ -448,7 +448,7 @@
             "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
                
           },
@@ -458,10 +458,10 @@
               ],
               "name": "20 Years of Paul Smith and Maharam",
               "price": 0,
-              "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.",
+              "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.<br><br>Available in Cobalt, Fuchsia, and Teal but will be sent in a random color.",
               "quantity": 1,
               "DON_reference_number": [
-                {"variation": "Select an option", "value": "Contact Media"}],
+                {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
               "Note": ""
           },
     
@@ -500,7 +500,7 @@
             "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
                
           },
@@ -515,7 +515,7 @@
                 "quantity": 1,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "J/000001"}],
-                "Note": "Order through DON"
+                "Note": "Sample Order Entry in DON"
                
           },
     
@@ -528,7 +528,7 @@
             "description": "Set of twelve 15 x 22.75 in posters. Each feature a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporate Maharam textiles. Printed on newsprint.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
                
           },
@@ -539,10 +539,10 @@
               ],
             "name": "Sonnhild Kestler Poster Set",
             "price": 1,
-            "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.",
+            "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.<br><br>Available in two colorways, but will be sent in a random color.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
                
           },
@@ -565,7 +565,7 @@
                   {"variation": "011 Terracotta", "value": "801013/011"},
                   {"variation": "013 Ivory", "value": "801013/013"},
                   {"variation": "014 Chalk", "value": "801013/014"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sales Order Entry in DON"
                
           },
     
@@ -583,7 +583,7 @@
                   {"variation": "003 Terracotta,Ivory,Apricot", "value": "800991/003"},
                   {"variation": "004 Currant,Chalk,Sky", "value": "800991/004"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sales Order Entry in DON"
                
           },
     
@@ -599,7 +599,7 @@
                 "DON_reference_number": [
               {"variation": "Select an option", "value": "801080/001"}
                 ],
-                "Note": "Sampling order through DON"
+                "Note": "Two Sales Order Entry in DON"
                
           },
           {
@@ -613,7 +613,7 @@
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "801081/001"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sales Order Entry in DON"
                
           }, 
           
@@ -624,10 +624,10 @@
               ],
             "name": "Calendar 2024",
             "price": 1,
-            "description": "Maharam calendar which offers weekly, monhtly and yearly agendas along with birthdays of distinguished architects and designers and moon phases. ",
+            "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.<br><br>Available in three colorways, but will be sent in a random color.",
                 "quantity": 1,
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": "Contact Media"}
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}
                     ],
                 "Note": ""
                
@@ -662,7 +662,7 @@
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "B/002027"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -677,7 +677,7 @@
                   {"variation": "Select an option", "value": ""},
                 {"variation": "Panel 1", "value": "B/002013"},
                 {"variation": "Panel 2", "value": "B/002014"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -693,7 +693,7 @@
                 {"variation": "Privacy Curtain 1", "value": "B/002017"},
                 {"variation": "Privacy Curtain 2", "value": "B/002018"},
                 {"variation": "Privacy Curtain 2", "value": "B/002019"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -720,7 +720,7 @@
                   {"variation": "Upholstery 12", "value": "B/002029"},
                   {"variation": "Upholstery 13", "value": "B/002031"}
                     ]],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -742,7 +742,7 @@
                   {"variation": "Wallcovering 6", "value": "B/002026"},
                   {"variation": "Wallcovering 7", "value": "B/002028"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -758,7 +758,7 @@
                   {"variation": "Window Covering 1", "value": "B/002015"},
                   {"variation": "Window Covering 2", "value": "B/002016"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -771,7 +771,7 @@
                 "quantity": 4,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "J/LBLHLD"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -784,7 +784,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLSTX"}],
-            "Note": "Sampling order through DON"
+            "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -797,7 +797,7 @@
                 "quantity": 1,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "J/LBLPWV"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -810,7 +810,7 @@
                 "quantity": 1,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "J/LBLNWV"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -823,7 +823,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNAT"}],
-            "Note": "Sampling order through DON"
+            "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -836,7 +836,7 @@
                 "quantity": 1,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "B/MEMBIN"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
     
           {
@@ -854,7 +854,7 @@
                   {"variation": "Rugs", "value": "B/LABEL2"},
                   {"variation": "Leather", "value": "B/LABELL"}
                     ],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           },
           {
             "image": [
@@ -973,9 +973,9 @@
             "name": "Business Cards",
             "price": 1,
             "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
-                "quantity": 1,
+                "quantity": "100 or 1000",
                 "DON_reference_number": [
-                  {"variation": "Select an option", "value": ""}],
+                  {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
                 "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
           },
           {
@@ -983,7 +983,7 @@
               "./img/sg_24_tabletop_bizcards_grey.png",
               "./img/sg_24_tabletop_name tag_grey.png"
               ],
-            "name": "Letterhead with Showroom Address(North America)",
+            "name": "Letterhead with Showroom Address (North America)",
             "price": 1,
             "description": "Letterhead with showroom address (North America).",
                 "quantity": 1,
@@ -996,7 +996,7 @@
               "./img/sg_24_tabletop_bizcards_grey.png",
               "./img/sg_24_tabletop_name tag_grey.png"
               ],
-            "name": "Envelope with Showroom Address(North America)",
+            "name": "Envelope with Showroom Address (North America)",
             "price": 0,
             "description": "Envelope with showroom address (North America).",
                 "quantity": 1,
@@ -1023,7 +1023,7 @@
               "./img/sg_24_tabletop_bizcards_grey.png",
               "./img/sg_24_tabletop_name tag_grey.png"
               ],
-            "name": "Envelope with Showroom Address(ROW)",
+            "name": "Envelope with Showroom Address (ROW)",
             "price": 0,
             "description": "",
                 "quantity": 1,
@@ -1042,7 +1042,7 @@
                 "quantity": 1,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "Contact Facilities"}],
-                "Note": "<br>Sampling order through DON <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1056,7 +1056,7 @@
                 "quantity": 100,
                 "DON_reference_number": [
                   {"variation": "Select an option", "value": "J/000003"}],
-                "Note": "<br>Sampling order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "Note": "<br>Sample Order in Entry in DON<br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1152,7 +1152,7 @@
                 "quantity": 1,
                 "DON_reference_number":  [
                   {"variation": "Select an option", "value": "J/100005"}],
-                "Note": "Sampling order through DON"
+                "Note": "Sample Order in Entry in DON"
           }, 
           
           
@@ -1167,7 +1167,7 @@
                 "quantity": 5,
                 "DON_reference_number":[
                   {"variation": "Select an option", "value": "J/100006"}],
-                "Note": "<br>Sampling order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+                "Note": "<br>Sample Order in Entry in DON<br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
           },
     
           {
@@ -1216,7 +1216,7 @@
             "description": "Replacement cartridge for Caran d'Ache pens. ",
                 "quantity": 1,
                 "DON_reference_number":  [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
           },
     
@@ -1280,7 +1280,7 @@
             "description": "Nametag",
                 "quantity": 2,
                 "DON_reference_number":  [
-                  {"variation": "Select an option", "value": "Contact Media"}],
+                  {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
                 "Note": ""
           },
     
