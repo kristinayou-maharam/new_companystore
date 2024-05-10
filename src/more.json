@@ -13,7 +13,7 @@
           {"variation": "001 Zest", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -28,7 +28,7 @@
           {"variation": "002 Poppy", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -43,7 +43,7 @@
           {"variation": "003 Glacier", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -60,7 +60,7 @@
           {"variation": "003 Zinc", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -72,11 +72,10 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""},
-          {"variation": "003 Zinc", "value": ""}
+          {"variation": "001 Matcha", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -93,7 +92,7 @@
           {"variation": "003 Zinc", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -110,7 +109,7 @@
           {"variation": "003 Zinc", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -127,7 +126,7 @@
           {"variation": "003 Zinc", "value": ""}
             ],
             "quantity": 1,
-            "Note": "This item will be available soon"
+            "Note": "Sales Order Entry in DON"
       }
       
 

@@ -22,7 +22,7 @@
         "description": "Letterhead with showroom address (North America).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
             "Note": ""
       },
       {
@@ -30,12 +30,12 @@
           "./img/sg_24_tabletop_bizcards_grey.png",
           "./img/sg_24_tabletop_name tag_grey.png"
           ],
-        "name": "Envelope with Showroom Address(North America)",
+        "name": "Envelope with Showroom Address (North America)",
         "price": 0,
         "description": "Envelope with showroom address (North America).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
             "Note": ""
       },
       {
@@ -43,7 +43,7 @@
           "./img/sg_24_tabletop_bizcards_grey.png",
           "./img/sg_24_tabletop_name tag_grey.png"
           ],
-        "name": "Letterhead with Showroom Address(ROW)",
+        "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
         "description": "",
             "quantity": 1,
@@ -57,7 +57,7 @@
           "./img/sg_24_tabletop_bizcards_grey.png",
           "./img/sg_24_tabletop_name tag_grey.png"
           ],
-        "name": "Envelope with Showroom Address(ROW)",
+        "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
         "description": "",
             "quantity": 1,
@@ -75,7 +75,7 @@
         "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -90,7 +90,7 @@
             "quantity": 100,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
-            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
       {
@@ -101,9 +101,9 @@
         "name": "Mailing Label Sheet",
         "price": 0,
         "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
-            "quantity": 1,
+            "quantity": "Include the number of sheets required in request to facilities",
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -114,10 +114,10 @@
           ],
         "name": "Kraft Envelope",
         "price": 0,
-        "description": "7 1/2 in x 3 3/4 in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
+        "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -132,7 +132,7 @@
             "quantity": 25,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 rubber bands<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
       {
@@ -141,7 +141,7 @@
           ],
         "name": "Notecard Set",
         "price": 0,
-        "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or inlcuded loosely with a sample delivery or gift.",
+        "description": "Notecards featuring distinct graphic directions united by pastel and fluorescent color. The back of the cards may be used for handwritten notes that are mailed inside an accompanying envelope, or included loosely with a sample delivery or gift.",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/SRNOTE"}],
@@ -155,7 +155,7 @@
           ],
         "name": "Notecard Knoll Textiles",
         "price": 0,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "description": "",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
@@ -169,7 +169,7 @@
           ],
         "name": "Envelope Knoll Textiles",
         "price": 1,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
@@ -186,7 +186,7 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/100005"}],
-            "Note": "Order through DON"
+            "Note": "Sample order entry in DON"
       }, 
       
       
@@ -201,7 +201,7 @@
             "quantity": 5,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100006"}],
-            "Note": "<br>Order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON <br>1 order includes 5 folders<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
       {
@@ -227,7 +227,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "800990/001"}],
-            "Note": "Product order through DON"
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -250,7 +250,7 @@
         "description": "Replacement cartridge for Caran d'Ache pens.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "Contact Media"}],
+              {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
             "Note": ""
       },
 
@@ -264,7 +264,7 @@
             "quantity": 50,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105000"}],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON<br>1 order includes 50 pencils"
       },
 
       {
@@ -277,7 +277,7 @@
             "quantity": 50,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+            "Note": "This item will be available soon.<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
       },
       {
         "image": [
@@ -285,11 +285,11 @@
           ],
         "name": "Eraser",
         "price": 1,
-        "description": "Maharam branded eraser quantity of 1 contains 14.",
+        "description": "Maharam branded eraser.",
             "quantity": 14,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100068"}],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON<br>1 order includes 14 erasers"
       },
 
       {
@@ -302,7 +302,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/200006"}],
-            "Note": "Sample order through DON"
+            "Note": "Sample order entry in DON"
       },
 
       {
@@ -337,7 +337,7 @@
           ],
         "name": "Printed Invites",
         "price": 0,
-        "description": "0",
+        "description": "",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
@@ -350,7 +350,7 @@
           ],
         "name": "New Sales Team Announcements",
         "price": 0,
-        "description": "0",
+        "description": "",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
@@ -362,7 +362,7 @@
           ],
         "name": "Logo Requests",
         "price": 0,
-        "description": "0",
+        "description": "",
             "quantity": 2,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
