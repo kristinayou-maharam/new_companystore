@@ -116,8 +116,8 @@
     },
     {
       "image": [
-        "../img/new/mhrm_new notebook_a.jpg",
-        "../img/new/mhrm_new notebook_b.jpg"
+        "./img/new/mhrm_new notebook_a.jpg",
+        "./img/new/mhrm_new notebook_b.jpg"
         ],
       "name": "Sample Request Form Pad",
       "price": 1,
