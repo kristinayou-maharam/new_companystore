@@ -8,7 +8,7 @@
         "price": 0,
         "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón. (Green)",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
             "quantity": 1,
             "Note": ""
            },
@@ -18,9 +18,9 @@
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón.",
+        "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón. (Purple)",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
             "quantity": 1,
             "Note": ""
            
@@ -35,7 +35,7 @@
         "price": 0,
         "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
         "DON_reference_number":[
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
             "quantity": 1,
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
            
@@ -48,7 +48,7 @@
           "price": 0,
           "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.<br><br>Available in Cobalt, Fuchsia, and Teal but will be sent in a random color.",
           "DON_reference_number": [
-            {"variation": "Select an option", "value": "Contact Media"}],
+            {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
           "quantity": 1,
           "Note": ""
       },
@@ -87,7 +87,7 @@
         "price": 1,
         "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
         "DON_reference_number":[
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
         "Note": ""
            
@@ -115,7 +115,7 @@
         "price": 0,
         "description": "A set of twelve 15\" x 22.75\" newsprint posters, each features a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporates Maharam textiles.",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
         "Note": ""
            
@@ -127,9 +127,9 @@
           ],
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
-        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.<br><br>Available in two colorways, but will be sent in a random color.",
+        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.<br><br>Available in various colorways, but will be sent in a random color.",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
         "Note": ""
            
@@ -184,7 +184,7 @@
         "DON_reference_number": [
           {"variation": "Select an option", "value": "801080/001"}],
         "quantity": 1,
-        "Note": "Two Sales Order Entry in DON"
+        "Note": "Sales Order Entry in DON"
            
       },
       {
@@ -211,7 +211,7 @@
         "price": 1,
         "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.<br><br>Available in three colorways, but will be sent in a random color.",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media"}],
+          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
         "Note": ""
            

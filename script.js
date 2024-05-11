@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${stationery.name}</h2>
         <p>${stationery.description}</p>
-        <p>Quantity per Order: ${stationery.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
         `;
     
         if (Object.keys(stationery.DON_reference_number).length > 1) {
@@ -28,7 +28,12 @@ document.addEventListener("DOMContentLoaded", function () {
     
           stationeryInfoHTML += `</select><br><br>`;
         }
+
+        if (!stationery.quantity) {
+          stationeryInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
+
         stationeryInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>
         <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
@@ -126,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${books.name}</h2>
         <p>${books.description}</p>
-        <p>Quantity per Order: ${books.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${books.quantity}</p>
         `;
     
         if (Object.keys(books.DON_reference_number).length > 1) {
@@ -139,6 +144,11 @@ document.addEventListener("DOMContentLoaded", function () {
           });
     
           booksInfoHTML += `</select><br><br>`;
+        }
+
+
+        if (!books.quantity) {
+          booksInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
     
         booksInfoHTML += `
@@ -299,7 +309,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${sampling.name}</h2>
         <p>${sampling.description}</p>
-        <p>Quantity per Order: ${sampling.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${sampling.quantity}</p>
         `;
     
         if (Object.keys(sampling.DON_reference_number).length > 1) {
@@ -312,6 +322,10 @@ document.addEventListener("DOMContentLoaded", function () {
           });
     
           samplingInfoHTML += `</select><br><br>`;
+        }
+
+        if (!sampling.quantity) {
+          samplingInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
     
         samplingInfoHTML += `
@@ -355,7 +369,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${all.name}</h2>
         <p>${all.description}</p>
-        <p>Quantity per Order: ${all.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
         `;
     
         if (Object.keys(all.DON_reference_number).length > 1) {
@@ -368,6 +382,10 @@ document.addEventListener("DOMContentLoaded", function () {
           });
     
           allInfoHTML += `</select><br><br>`;
+        }
+
+        if (!all.quantity) {
+          allInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
     
         allInfoHTML += `

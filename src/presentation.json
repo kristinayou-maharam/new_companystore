@@ -50,7 +50,7 @@
             "quantity": 10,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "DISPSM"}],
-            "Note": "<br>Sample Order in Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -63,7 +63,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "DISPBG"}],
-      "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -77,7 +77,7 @@
       "quantity": 100,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPTP"}],
-      "Note": "<br>Sample Order in Entry in DON<br>1 order includes 100 t-pins<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order Entry in DON<br>1 order includes 100 t-pins<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
 
     {
@@ -91,7 +91,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/LTHCOR"}],
-      "Note": "<br>Sample Order in Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
+      "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
     },
 
     {
@@ -105,7 +105,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/301007"}],
-      "Note": "Sample Order in Entry in DON"
+      "Note": "Sample Order Entry in DON"
     },
 
     {
@@ -119,7 +119,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/170072"}],
-      "Note": "Sample Order in Entry in DON"
+      "Note": "Sample Order Entry in DON"
     },
     {
       "image": [
@@ -131,7 +131,7 @@
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
       "quantity": 50,
       "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+        {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
       "Note": "1 Order includes 50 cards"
     }, 
     
@@ -146,7 +146,7 @@
       "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
       "quantity": 50,
       "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+        {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
       "Note": "1 Order includes 50 cards"
     },
 
@@ -161,7 +161,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/100076"}],
-      "Note": "Sample Order in Entry in DON"
+      "Note": "Sample Order Entry in DON"
     },
     {
       "image": [
@@ -174,7 +174,7 @@
       "quantity": 1,
       "DON_reference_number":[
                     {"variation": "Select an option", "value": "851020-003"}],
-      "Note": "<br>This item requires manager approval.<br>Sales Order Entry in DON"
+      "Note": "<br>Sales Order Entry in DON<br>This item requires manager approval."
     },
     {
       "image": [
@@ -200,7 +200,7 @@
       "quantity": 1,
       "DON_reference_number":[
         {"variation": "Select an option", "value": ""}],
-      "Note": "Sample Order in Entry in DON"
+      "Note": "Sample Order Entry in DON"
     }
   ]
 }

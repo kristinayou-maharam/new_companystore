@@ -9,7 +9,7 @@
       "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
           "quantity": "100 or 1000",
           "DON_reference_number": [
-            {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+            {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
           "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
@@ -22,7 +22,7 @@
         "description": "Letterhead with showroom address (North America).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
             "Note": ""
       },
       {
@@ -35,7 +35,7 @@
         "description": "Envelope with showroom address (North America).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
             "Note": ""
       },
       {
@@ -62,7 +62,7 @@
         "description": "",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
             "Note": "This item will be available soon."
       },
       {
@@ -75,7 +75,7 @@
         "description": "Pre-printed self adhesive mailing label to be applied to generic white envelopes and courier packages. ",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -101,9 +101,9 @@
         "name": "Mailing Label Sheet",
         "price": 0,
         "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
-            "quantity": "Include the number of sheets required in request to facilities",
+            "quantity": "<br>Include the number of sheets required in request to facilities",
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -115,9 +115,9 @@
         "name": "Kraft Envelope",
         "price": 0,
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
-            "quantity": 1,
+            "quantity": "<br>Include the number of envelopes required in request to facilities",
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities at aguarino@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
 
@@ -156,7 +156,7 @@
         "name": "Notecard Knoll Textiles",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": ""}],
             "Note": "This item will be available soon."
@@ -170,7 +170,7 @@
         "name": "Envelope Knoll Textiles",
         "price": 1,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
             "Note": "This item will be available soon."
@@ -212,7 +212,7 @@
         "name": "Notepad",
         "price": 1,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
             "Note": "This item will be available soon."
@@ -236,7 +236,7 @@
         "name": "Caran d'Ache Pen Knoll Textiles",
         "price": 1,
         "description": "White ballpoint pens with the Knoll Textiles logo from Swiss pen company Caran d'Ache.",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
             "Note": "This item will be available soon."
@@ -250,7 +250,7 @@
         "description": "Replacement cartridge for Caran d'Ache pens.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "Contact Media at media@maharam.com"}],
+              {"variation": "Select an option", "value": "Contact Media<br> media@maharam.com"}],
             "Note": ""
       },
 
@@ -277,7 +277,7 @@
             "quantity": 50,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon.<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils<br>This item will be available soon"
       },
       {
         "image": [
@@ -302,7 +302,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/200006"}],
-            "Note": "Sample order entry in DON"
+            "Note": "Sample Order Entry in DON"
       },
 
       {
@@ -311,18 +311,18 @@
           ],
         "name": "Name Tag",
         "price": 0,
-        "description": "",
+        "description": "Name tag for events",
             "quantity": 2,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "Contact Media"}],
-            "Note": "Nametag"
+              {"variation": "Select an option", "value": "Contact Media<br> media@maharam.com"}],
+            "Note": ""
       },
 
       {
         "image": [
           "./img/new/mhrm_nametag_a.jpg"
           ],
-        "name": "E-vites",
+        "name": "Evites",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -363,7 +363,7 @@
         "name": "Logo Requests",
         "price": 0,
         "description": "",
-            "quantity": 2,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
             "Note": "Send completed form to logos@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"

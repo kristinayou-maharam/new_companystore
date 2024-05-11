@@ -123,7 +123,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
                 ],
-            "Note": "Sample Order Entry in DON<br>1 order includes 4 holders"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 4 holders"
       },
       {
         "image": [
@@ -193,7 +193,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/MEMBIN"}
                 ],
-            "Note": "Sample Order Entry in DON<br>1 order includes 4 bins"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 4 bins"
       },
 
       {
@@ -236,7 +236,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELL"}
                 ],
-            "Note": "Sample Order Entry in DON<br>1 order includes 15 labels"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 15 labels"
       },
       {
         "image": [
@@ -246,7 +246,7 @@
         "name": "Drenthe Heath Sampling Card",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -261,7 +261,7 @@
         "name": "Sampling Cart Maharam and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -275,7 +275,7 @@
         "name": "Sampling Cart Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -289,7 +289,7 @@
         "name": "Hang Set Maharam Maharam and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -303,7 +303,7 @@
         "name": "Hang Set Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -317,8 +317,8 @@
           ],
         "name": "Binder Knoll Textiles",
         "price": 0,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "quantity": 1,
+        "description": "",
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -333,7 +333,7 @@
         "name": "Memo Bin Knoll Textiles",
         "price": 1,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -348,7 +348,7 @@
         "name": "Memo Bin Edelman",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -363,7 +363,7 @@
         "name": "Sampling Box Edelman",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
