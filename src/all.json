@@ -1422,7 +1422,7 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Zest", "value": "801401"}
+          {"variation": "001 Zest", "value": "801401-001"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
