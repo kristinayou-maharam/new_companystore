@@ -1422,7 +1422,7 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Zest", "value": ""}
+          {"variation": "001 Zest", "value": "801401"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1437,7 +1437,7 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "002 Poppy", "value": ""}
+          {"variation": "002 Poppy", "value": "801402-002"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1452,7 +1452,7 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "003 Glacier", "value": ""}
+          {"variation": "003 Glacier", "value": "801403-003"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1467,9 +1467,9 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""},
-          {"variation": "002 Petal", "value": ""},
-          {"variation": "003 Zinc", "value": ""}
+          {"variation": "001 Matcha", "value": "801398-001"},
+          {"variation": "002 Petal", "value": "801398-002"},
+          {"variation": "003 Zinc", "value": "801398-003"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1484,7 +1484,7 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""}
+          {"variation": "001 Matcha", "value": "801397-001"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1499,9 +1499,9 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""},
-          {"variation": "002 Petal", "value": ""},
-          {"variation": "003 Zinc", "value": ""}
+          {"variation": "001 Matcha", "value": "801396-001"},
+          {"variation": "002 Petal", "value": "801396-002"},
+          {"variation": "003 Zinc", "value": "801396-003"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1516,9 +1516,9 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""},
-          {"variation": "002 Petal", "value": ""},
-          {"variation": "003 Zinc", "value": ""}
+          {"variation": "001 Matcha", "value": "801400-001"},
+          {"variation": "002 Petal", "value": "801400-002"},
+          {"variation": "003 Zinc", "value": "801400-003"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
@@ -1533,9 +1533,9 @@
         "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "001 Matcha", "value": ""},
-          {"variation": "002 Petal", "value": ""},
-          {"variation": "003 Zinc", "value": ""}
+          {"variation": "001 Matcha", "value": "801399-001"},
+          {"variation": "002 Petal", "value": "801399-002"},
+          {"variation": "003 Zinc", "value": "801399-003"}
             ],
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
