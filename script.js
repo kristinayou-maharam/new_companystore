@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${neww.name}</h2>
         <p>${neww.description}</p>
-        <p>Quantity per Order: ${neww.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
         `;
     
         if (Object.keys(neww.DON_reference_number).length > 1) {
@@ -87,6 +87,10 @@ document.addEventListener("DOMContentLoaded", function () {
           });
     
           newInfoHTML += `</select><br><br>`;
+        }
+
+        if (!neww.quantity) {
+          newInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
     
         newInfoHTML += `
