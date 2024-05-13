@@ -14,8 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${stationery.name}</h2>
         <p>${stationery.description}</p>
-        <p>Price: $${stationery.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${stationery.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
         `;
     
         if (Object.keys(stationery.DON_reference_number).length > 1) {
@@ -29,10 +28,15 @@ document.addEventListener("DOMContentLoaded", function () {
     
           stationeryInfoHTML += `</select><br><br>`;
         }
+
+        if (!stationery.quantity) {
+          stationeryInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
+
         stationeryInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${stationery.Note}</p>
+        <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
         </div>
         `;
     
@@ -70,8 +74,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${neww.name}</h2>
         <p>${neww.description}</p>
-        <p>Price: $${neww.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${neww.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
         `;
     
         if (Object.keys(neww.DON_reference_number).length > 1) {
@@ -85,10 +88,14 @@ document.addEventListener("DOMContentLoaded", function () {
     
           newInfoHTML += `</select><br><br>`;
         }
+
+        if (!neww.quantity) {
+          newInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
         newInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(neww.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${neww.Note}</p>
+        <p id="note" style="display: ${neww.Note ? 'block' : 'none'}">Note: ${neww.Note}</p>
         </div>
         `;
     
@@ -128,8 +135,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${books.name}</h2>
         <p>${books.description}</p>
-        <p>Price: $${books.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${books.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${books.quantity}</p>
         `;
     
         if (Object.keys(books.DON_reference_number).length > 1) {
@@ -143,10 +149,15 @@ document.addEventListener("DOMContentLoaded", function () {
     
           booksInfoHTML += `</select><br><br>`;
         }
+
+
+        if (!books.quantity) {
+          booksInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
         booksInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(books.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${books.Note}</p>
+        <p id="note" style="display: ${books.Note ? 'block' : 'none'}">Note: ${books.Note}</p>
         </div>
         `;
     
@@ -186,7 +197,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${print.name}</h2>
         <p>${print.description}</p>
-        <p>Price: $${print.price.toFixed(2)}</p>
         <p>Quantity per Order: ${print.quantity}</p>
         `;
     
@@ -204,7 +214,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         printInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(print.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${print.Note}</p>
+        <p id="note" style="display: ${print.Note ? 'block' : 'none'}">Note: ${print.Note}</p>
         </div>
         `;
     
@@ -246,7 +256,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${presentation.name}</h2>
         <p>${presentation.description}</p>
-        <p>Price: $${presentation.price.toFixed(2)}</p>
         <p>Quantity per Order: ${presentation.quantity}</p>
         `;
     
@@ -264,7 +273,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         presentationInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(presentation.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${presentation.Note}</p>
+        <p id="note" style="display: ${presentation.Note ? 'block' : 'none'}">Note: ${presentation.Note}</p>
         </div>
         `;
     
@@ -304,8 +313,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${sampling.name}</h2>
         <p>${sampling.description}</p>
-        <p>Price: $${sampling.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${sampling.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${sampling.quantity}</p>
         `;
     
         if (Object.keys(sampling.DON_reference_number).length > 1) {
@@ -319,10 +327,14 @@ document.addEventListener("DOMContentLoaded", function () {
     
           samplingInfoHTML += `</select><br><br>`;
         }
+
+        if (!sampling.quantity) {
+          samplingInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
         samplingInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(sampling.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${sampling.Note}</p>
+        <p id="note" style="display: ${sampling.Note ? 'block' : 'none'}">Note: ${sampling.Note}</p>
         </div>
         `;
     
@@ -361,8 +373,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${all.name}</h2>
         <p>${all.description}</p>
-        <p>Price: $${all.price.toFixed(2)}</p>
-        <p>Quantity per Order: ${all.quantity}</p>
+        <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
         `;
     
         if (Object.keys(all.DON_reference_number).length > 1) {
@@ -376,10 +387,14 @@ document.addEventListener("DOMContentLoaded", function () {
     
           allInfoHTML += `</select><br><br>`;
         }
+
+        if (!all.quantity) {
+          allInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
     
         allInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(all.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${all.Note}</p>
+        <p id="note" style="display: ${all.Note ? 'block' : 'none'}">Note: ${all.Note}</p>
         </div>
         `;
     
@@ -419,7 +434,6 @@ document.addEventListener("DOMContentLoaded", function () {
         <div id="detaildescription">
         <h2>${more.name}</h2>
         <p>${more.description}</p>
-        <p>Price: $${more.price.toFixed(2)}</p>
         <p>Quantity per Order: ${more.quantity}</p>
         `;
     
@@ -437,7 +451,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
         moreInfoHTML += `
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(more.DON_reference_number)[0].value}</strong></p>
-        <p id="note">Note: ${more.Note}</p>
+        <p id="note" style="display: ${more.Note ? 'block' : 'none'}">Note: ${more.Note}</p>
         </div>
         `;
     

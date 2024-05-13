@@ -12,7 +12,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/002027"}
                 ],
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -28,7 +28,7 @@
               {"variation": "Panel 1", "value": "B/002013"},
               {"variation": "Panel 2", "value": "B/002014"}
                 ],
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -42,10 +42,10 @@
           {"variation": "Select an option", "value": ""},
           {"variation": "Privacy Curtain 1", "value": "B/002017"},
           {"variation": "Privacy Curtain 2", "value": "B/002018"},
-          {"variation": "Privacy Curtain 2", "value": "B/002019"}
+          {"variation": "Privacy Curtain 3", "value": "B/002019"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -72,7 +72,7 @@
           {"variation": "Upholstery 13", "value": "B/002031"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -93,7 +93,7 @@
           {"variation": "Wallcovering 7", "value": "B/002028"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -109,7 +109,7 @@
           {"variation": "Window Covering 2", "value": "B/002016"}
             ],
             "quantity": 1,
-            "Note": "Order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -118,12 +118,12 @@
           ],
         "name": "Binder Maharam Label Holder",
         "price": 0,
-        "description": "Binder label holder for Maharam binders, one order includes 4 holders.",
+        "description": "Binder label holder for Maharam binders.",
             "quantity": 4,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
                 ],
-            "Note": "Order through DON"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 4 holders"
       },
       {
         "image": [
@@ -137,7 +137,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLSTX"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -151,7 +151,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLPWV"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -165,7 +165,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNWV"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -179,7 +179,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNAT"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -188,12 +188,12 @@
           ],
         "name": "Memo Bin Maharam",
         "price": 0,
-        "description": "Maharam memo bin, one order includes 4 bins.",
+        "description": "Maharam memo bin.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/MEMBIN"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 4 bins"
       },
 
       {
@@ -208,7 +208,7 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELS"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -220,9 +220,9 @@
         "description": "Label sheet for Maharam memo bin kit including rugs.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": "B/LABELS2"}
+              {"variation": "Select an option", "value": "B/LABEL2"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -231,12 +231,26 @@
           ],
         "name": "Memo Bin Maharam Label \"Leather\"",
         "price": 0,
-        "description": "Label sheet for Maharam Leather bin, one order includes 15 labels. ",
+        "description": "Label sheet for Maharam Leather bin.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/LABELL"}
                 ],
-            "Note": "Sample order through DON"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 15 labels"
+      },
+      {
+        "image": [
+          "./img/sg_24_tabletop_samplerequest_grey.png",
+          "./img/sg_24_tabletop_table cards-grey.png"
+          ],
+        "name": "Drenthe Heath Sampling Card",
+        "price": 0,
+        "description": "",
+            "quantity": 0,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
+                ],
+            "Note": "This item will be available soon."
       },
       
       {
@@ -247,7 +261,7 @@
         "name": "Sampling Cart Maharam and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -261,7 +275,7 @@
         "name": "Sampling Cart Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -275,7 +289,7 @@
         "name": "Hang Set Maharam Maharam and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -289,7 +303,7 @@
         "name": "Hang Set Knoll Textiles and Parts",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -303,8 +317,8 @@
           ],
         "name": "Binder Knoll Textiles",
         "price": 0,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "quantity": 1,
+        "description": "",
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -319,7 +333,7 @@
         "name": "Memo Bin Knoll Textiles",
         "price": 1,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -334,7 +348,7 @@
         "name": "Memo Bin Edelman",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
@@ -349,7 +363,7 @@
         "name": "Sampling Box Edelman",
         "price": 0,
         "description": "",
-            "quantity": 1,
+            "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
