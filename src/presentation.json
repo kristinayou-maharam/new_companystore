@@ -128,7 +128,7 @@
         ],
       "name": "Sales Integration Announcement Card",
       "price": 0,
-      "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
+      "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.<br><br>Available in three colorways, but will be sent in a random color.",
       "quantity": 50,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
@@ -143,7 +143,7 @@
         ],
       "name": "Sales Integration Tent Card",
       "price": 0,
-      "description": "Tent cards designed to be displayed as part of presentations and leave behinds. ",
+      "description": "Tent cards designed to be displayed as part of presentations and leave behinds.<br><br>Available in three colorways, but will be sent in a random color.",
       "quantity": 50,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
