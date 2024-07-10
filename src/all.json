@@ -725,8 +725,8 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/Binder Knoll Textiles.png"
+
           ],
         "name": "Binder Knoll Textiles",
         "price": 0,
@@ -988,8 +988,8 @@
 
       {
         "image": [
-          "./img/new/mhrm_new notebook_a.jpg",
-          "./img/new/mhrm_new notebook_b.jpg"
+          "./img/new/notepad_small_open.jpg",
+          "./img/new/notepad_small_closed.jpg"
           ],
         "name": "Notepad",
         "price": 1,
@@ -1076,7 +1076,7 @@
 
       {
         "image": [
-          "./img/new/mhrm_announce card_a.jpg"
+          "./img/new/mouse pad.jpg"
           ],
         "name": "Mouse Pad",
         "price": 1,
@@ -1341,8 +1341,7 @@
       }, 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/textilepedia.jpg"
           ],
         "name": "Textilepedia",
         "price": 1,
@@ -1354,8 +1353,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/The Autobiography of a Snake- Drawings by Andy Warhol.jpg"
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
@@ -1367,8 +1365,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/A Coloring Book- Drawings by Andy Warhol.jpg"
           ],
         "name": "A Coloring Book: Drawings by Andy Warhol",
         "price": 1,

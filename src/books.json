@@ -191,8 +191,7 @@
       }, 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/textilepedia.jpg"
           ],
         "name": "Textilepedia",
         "price": 1,
@@ -204,8 +203,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/The Autobiography of a Snake- Drawings by Andy Warhol.jpg"
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
@@ -217,8 +215,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/A Coloring Book- Drawings by Andy Warhol.jpg"
           ],
         "name": "A Coloring Book: Drawings by Andy Warhol",
         "price": 1,
