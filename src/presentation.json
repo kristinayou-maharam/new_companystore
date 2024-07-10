@@ -52,19 +52,6 @@
               {"variation": "Select an option", "value": "DISPSM"}],
             "Note": "<br>Sample Order Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
-    {
-      "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
-        ],
-      "name": "Display Board Reclosable Poly Bag",
-      "price": 0,
-      "description": "Bags are used for storing and transporting display boards.",
-      "quantity": 1,
-      "DON_reference_number": [
-        {"variation": "Select an option", "value": "DISPBG"}],
-      "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
-    },
 
     {
       "image": [
@@ -92,20 +79,6 @@
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/LTHCOR"}],
       "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents%2Fcustom_leather_cord.pdf&parent=%2Fsites%2FMHRM-ProductManagement%2FGeneral%20Documents target=blank>Link to guidelines</a>"
-    },
-
-    {
-      "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
-        ],
-      "name": "Rug Storage Bag",
-      "price": 1,
-      "description": "Bags are used for storing rug samples with loose fibers within the sample bag.",
-      "quantity": 1,
-      "DON_reference_number": [
-        {"variation": "Select an option", "value": "J/301007"}],
-      "Note": "Sample Order Entry in DON"
     },
 
     {
