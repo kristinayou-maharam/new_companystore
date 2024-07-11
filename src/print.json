@@ -2,7 +2,7 @@
     "print": [
       {
         "image": [
-          "./img/new/Print/lookbook_stack_1.jpg",
+          "./img/new/Print/mhrm_look book_german.png",
           "./img/new/Print/lookbook_spread01.jpg"
           ],
         "name": "Look Book, 2021 (English, German, French)",
@@ -15,7 +15,7 @@
            },
       {
         "image": [
-          "./img/new/mhrm_look book_ translated_a.jpg",
+          "./img/new/Print/mhrm_look book_english.png",
           "./img/new/Print/lookbook_spread09.jpg"
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
@@ -113,7 +113,7 @@
 
       {
         "image": [
-          "./img/new/Print/Archetypes cover folded.png"
+          "./img/new/Print/the archytypes.png"
           ],
         "name": "The Archetypes",
         "price": 0,
