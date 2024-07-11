@@ -2,8 +2,7 @@
     "books": [
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/agenda-bw.jpeg"
           ],
         "name": "Maharam Agenda",
         "price": 1,
