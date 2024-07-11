@@ -2,7 +2,8 @@
     "print": [
       {
         "image": [
-          "./img/new/mhrm_look book_ translated_a.jpg"
+          "./img/new/Print/lookbook_stack_2.jpg",
+          "./img/new/Print/lookbook_spread01.jpg"
           ],
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
@@ -14,7 +15,8 @@
            },
       {
         "image": [
-          "./img/new/mhrm_look book_ translated_a.jpg"
+          "./img/new/mhrm_look book_ translated_a.jpg",
+          "./img/new/Print/lookbook_spread09.jpg"
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
@@ -40,7 +42,11 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/print/PSmith20_books_001.jpg",
+          "./img/new/print/PSmith20_books_002.jpg",
+          "./img/new/print/PSmith20_books_003.jpg",
+          "./img/new/print/3 PSmith20_books.jpg",
+          "img/angle/psmithbook-2.jpg"
           ],
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
@@ -66,7 +72,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Repeat by Hella Jongerius",
         "price": 0,
@@ -79,7 +85,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/Print/60_60_book.png"
           ],
         "name": "60 60",
         "price": 1,
@@ -93,7 +99,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/Print/60_60_mailer.png"
           ],
         "name": "60 60 Shipping Box",
         "price": 0,
@@ -182,7 +188,7 @@
 
       {
         "image": [
-          "./img/new/Print/Memory 2_front.png",
+         "./img/new/Print/Memory 2_front.png",
           "./img/new/Print/memorytwo-2-expanded.png"
           ],
         "name": "Memory Two",
@@ -211,10 +217,9 @@
       
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/coming-soon.png"
           ],
-        "name": "Calendar 2024",
+        "name": "Calendar 2025",
         "price": 1,
         "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.<br><br>Available in three colorways, but will be sent in a random color.",
         "DON_reference_number": [
@@ -227,8 +232,7 @@
       
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Maharam Digital Projects Notecard Set",
         "price": 1,

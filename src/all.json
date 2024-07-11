@@ -40,7 +40,11 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/print/PSmith20_books_001.jpg",
+          "./img/new/print/PSmith20_books_002.jpg",
+          "./img/new/print/PSmith20_books_003.jpg",
+          "./img/new/print/3 PSmith20_books.jpg",
+          "img/angle/psmithbook-2.jpg"
           ],
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
@@ -66,7 +70,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Repeat by Hella Jongerius",
         "price": 0,
@@ -79,7 +83,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/Print/60_60_book.png"
           ],
         "name": "60 60",
         "price": 1,
@@ -93,7 +97,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg"
+          "./img/new/Print/60_60_mailer.png"
           ],
         "name": "60 60 Shipping Box",
         "price": 0,
@@ -210,8 +214,7 @@
       
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Calendar 2025",
         "price": 1,
@@ -226,8 +229,7 @@
       
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/sg_24_tabletop_psmithbook_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Maharam Digital Projects Notecard Set",
         "price": 1,
@@ -1164,8 +1166,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/Maharam_Stories_book_001.png"
           ],
         "name": "Maharam Stories",
         "price": 1,
@@ -1177,8 +1178,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/angle/irvingharper.jpg"
           ],
         "name": "Irving Harper Works in Paper",
         "price": 1,
@@ -1190,8 +1190,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/Hella Jongerius I Don't Have a Favourite Color.png"
           ],
         "name": "Hella Jongerius: I Don't Have a Favourite Colour",
         "price": 1,
@@ -1204,7 +1203,6 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
           "./img/angle/sb.jpg"
           ],
         "name": "Reproducing Scholten & Baijings",
@@ -1217,8 +1215,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Alexander Girard",
         "price": 1,
@@ -1231,8 +1228,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Claudy Jongstra",
         "price": 1,
@@ -1245,8 +1241,8 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/The Colors of Sies Marjan.png"
+
           ],
         "name": "The Colors of Sies Marjan",
         "price": 1,
@@ -1259,8 +1255,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Karel Martens: Full Colour",
         "price": 1,
@@ -1273,8 +1268,7 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/books/Studio Job & The Graninger Museum.png"
           ],
         "name": "Studio Job & The Graninger Museum",
         "price": 1,
@@ -1300,8 +1294,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Jacob Hashimoto: Selected Kite Works & Installations",
         "price": 1,
@@ -1314,8 +1307,8 @@
 
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/IlseCrawford_AFrameforLife.jpg"
+
           ],
         "name": "Ilse Crawford: A Frame for Life",
         "price": 1,
@@ -1327,8 +1320,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/Knoll Textiles 1945-2010.png"
           ],
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
