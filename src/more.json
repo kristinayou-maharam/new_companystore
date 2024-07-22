@@ -2,8 +2,7 @@
     "more": [
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/blocks-tray-small.png"
           ],
         "name": "Blocks Tray Small by Scholten & Baijings",
         "price": 1,
@@ -17,8 +16,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/blocks-tray-medium.png"
           ],
         "name": "Blocks Tray Medium by Scholten & Baijings",
         "price": 1,
@@ -32,8 +30,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/blocks-tray-large.png"
           ],
         "name": "Blocks Tray Large by Scholten & Baijings",
         "price": 1,
@@ -47,8 +44,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/grid-bowl.png"
           ],
         "name": "Grid Bowl by Scholten & Baijings",
         "price": 1,
@@ -64,8 +60,8 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/grid-mug.png"
+
           ],
         "name": "Grid Mug by Scholten & Baijings",
         "price": 1,
@@ -79,8 +75,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/grid-cup.png"
           ],
         "name": "Grid Cup by Scholten & Baijings",
         "price": 1,
@@ -96,8 +91,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/grid-plate.png"
           ],
         "name": "Grid Plate by Scholten & Baijings",
         "price": 1,
@@ -113,8 +107,7 @@
       },
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/More/grid-plate-small.png"
           ],
         "name": "Grid Plate Small by Scholten & Baijings",
         "price": 1,
