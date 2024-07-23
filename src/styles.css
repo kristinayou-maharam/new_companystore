@@ -20,7 +20,7 @@ body {
 }
 
 #logo {
-  width: 150px;
+  width: 120px;
   margin-bottom: 5vh;
   margin-left: 0vw;
 }
@@ -125,7 +125,8 @@ a {
 }
 
 #footer {
-  background-color: #f7f5f5;
+  background-color: #ffffff;
+  border-top: .5px solid gray;
   height: 40vh;
   margin-top: 20vh;
   margin-bottom: 0;
@@ -151,7 +152,7 @@ a {
   float: right;
   margin-right: 2.5vw;
   vertical-align: top;
-  margin-top: 10vh;
+  margin-top: 9vh;
 }
 
 #productsmall {
