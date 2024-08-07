@@ -10,7 +10,7 @@
           "quantity": "100 or 1000",
           "DON_reference_number": [
             {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-          "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+          "Note": "<br>Business card form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
@@ -45,11 +45,11 @@
           ],
         "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
-        "description": "",
+        "description": "Letterhead with showroom address (ROW).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
+            "Note": ""
       },
 
       {
@@ -59,11 +59,11 @@
           ],
         "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
-        "description": "",
+        "description": "Envelope with showroom address (ROW).",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
-            "Note": "This item will be available soon."
+            "Note": ""
       },
       {
         "image": [
@@ -76,7 +76,7 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -90,7 +90,7 @@
             "quantity": 100,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
-            "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -104,7 +104,7 @@
             "quantity": "<br>Include the number of sheets required in request to facilities",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -118,7 +118,7 @@
             "quantity": "<br>Include the number of envelopes required in request to facilities",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -132,7 +132,7 @@
             "quantity": 25,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
-            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 rubber bands<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 rubber bands<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -145,7 +145,7 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/SRNOTE"}],
-            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=14/>Link to guidelines</a>"
       },
 
       {
@@ -211,11 +211,11 @@
           ],
         "name": "Notepad",
         "price": 1,
-        "description": "",
-            "quantity": 0,
+        "description": "Maharam branded notepad with perforated micro-grid paper. For internal use only.",
+            "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "J/122203"}],
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -276,8 +276,8 @@
         "description": "Pencils with Knoll Textiles logo.",
             "quantity": 50,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils<br>This item will be available soon"
+              {"variation": "Select an option", "value": "J/105001"}],
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
       },
       {
         "image": [

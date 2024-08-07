@@ -38,7 +38,7 @@
         "DON_reference_number":[
           {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
             "quantity": 1,
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=16/ target=blank>Link to guidelines</a>"
            
       },
       {
@@ -179,7 +179,7 @@
         "description": "Set of three, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets each.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "003 Terracotta, Ivory, Aprilcot" , "value": "800991/003"},
+          {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
           {"variation": "004 Currant, Chalk, Sky", "value": "800991/004"}
             ],
             "quantity": 1,

@@ -39,7 +39,7 @@
         "DON_reference_number":[
           {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
             "quantity": 1,
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=16/>Link to guidelines</a>"
            
       },
       {
@@ -179,7 +179,7 @@
         "description": "Set of three, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets each.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
-          {"variation": "003 Terracotta, Ivory, Aprilcot" , "value": "800991/003"},
+          {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
           {"variation": "004 Currant, Chalk, Sky", "value": "800991/004"}
             ],
             "quantity": 1,
@@ -255,7 +255,7 @@
         "quantity": 1,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/MAHBAG"}],
-        "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+        "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -267,7 +267,7 @@
         "quantity": 25,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/BAGLBL"}],
-        "Note": "<br>Sample Order Entry in DON<br>1 Order includes 25 bags"
+        "Note": "Order through DON<br>Bag label template must be downloaded from Intranet to correctly print on label.<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -293,7 +293,7 @@
         "description": "The small 8.5\" x 8.5\" display card is a companion piece that serves as a branded tool for rotations of memos on a flat surface. ",
               "quantity": 10,
               "DON_reference_number": [
-                {"variation": "Select an option", "value": "DISPSM"}],
+                {"variation": "Select an option", "value": "J/DISPSM"}],
               "Note": "<br>Sample Order Entry in DON<br>1 Order includes 10 boards<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
       },
   
@@ -303,7 +303,7 @@
           ],
         "name": "Display Board T-Pins",
         "price": 0,
-        "description": "Display board t-pins",
+        "description": "Display board T-pins",
         "quantity": 100,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/DISPTP"}],
@@ -403,7 +403,7 @@
         "quantity": 1,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/301003"}],
-        "Note": "This item requires manager approval."
+        "Note": "<br>Sample Order Entry in DON<br>This item requires manager approval."
       },
       {
         "image": [
@@ -415,7 +415,7 @@
         "description": "Tote bag with Knoll Textiles logo.",
         "quantity": 1,
         "DON_reference_number":[
-          {"variation": "Select an option", "value": ""}],
+          {"variation": "Select an option", "value": "J/KNTBAG"}],
         "Note": "Sample Order Entry in DON"
       },
       {
@@ -832,11 +832,11 @@
           ],
         "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
-        "description": "",
+        "description": "Letterhead with showroom address (ROW).",
             "quantity": 1,
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
+            "Note": ""
       },
 
       {
@@ -846,11 +846,11 @@
           ],
         "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
-        "description": "",
+        "description": "Envelope with showroom address (ROW).",
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
-            "Note": "This item will be available soon."
+            "Note": ""
       },
       {
         "image": [
@@ -863,7 +863,7 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary%2FMaharam_Stationery-Sample-Delivery-Guidelines.pdf&parent=%2Fsites%2FMHRM-Home%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -877,7 +877,7 @@
             "quantity": 100,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/000003"}],
-            "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -891,7 +891,7 @@
             "quantity": "<br>Include the number of sheets required in request to facilities",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -905,7 +905,7 @@
             "quantity": "<br>Include the number of envelopes required in request to facilities",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
-            "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -919,7 +919,7 @@
             "quantity": 25,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/RBRBND"}],
-            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 rubber bands<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 rubber bands<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
 
       {
@@ -932,7 +932,7 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "J/SRNOTE"}],
-            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample order through DON <br> <a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=14/>Link to guidelines</a>"
       },
 
       {
@@ -998,11 +998,11 @@
           ],
         "name": "Notepad",
         "price": 1,
-        "description": "",
-            "quantity": 0,
+        "description": "Maharam branded notepad with perforated micro-grid paper. For internal use only.",
+            "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "J/122203"}],
+            "Note": "Sample Order Entry in DON"
       },
       {
         "image": [
@@ -1063,8 +1063,8 @@
         "description": "Pencils with Knoll Textiles logo.",
             "quantity": 50,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils<br>This item will be available soon"
+              {"variation": "Select an option", "value": "J/105001"}],
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
       },
       {
         "image": [
@@ -1315,11 +1315,11 @@
           ],
         "name": "Ilse Crawford: A Frame for Life",
         "price": 1,
-        "description": "",
+        "description": "Ilse Crawford showcases her body of influential, holistic work,articulating her philosophies for design and living. Featuring StudioIlse’s work from private residences to hotels,restaurants, and retail this book illustrates the effectiveness of design grounded in human needs and desires. Hardcover. 272 pages.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801699/01"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -1327,11 +1327,11 @@
           ],
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
-        "description": "",
+        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design.Hardcover. 400 pages.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801701/001"}], 
+            "Note": "Sales Order Entry in DON"
       }, 
       {
         "image": [
@@ -1339,11 +1339,11 @@
           ],
         "name": "Textilepedia",
         "price": 1,
-        "description": "",
+        "description": "An extensive textile dictionary that covers all essential fabric knowledge from different types of textile materials to finishing options. Hardcover. 248 pages.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801643/001"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -1351,11 +1351,11 @@
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
-        "description": "",
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written byArthur and Teddy Edelman. Hardcover. 48 pages.",
             "quantity": 0,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801697/001"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -1363,11 +1363,11 @@
           ],
         "name": "A Coloring Book: Drawings by Andy Warhol",
         "price": 1,
-        "description": "",
+        "description": "An enchanting colorbook designed by Andy Warhol. Foreward written by Arthur and Teddy Edelman. Paperback. 32 pages.",
             "quantity": 0,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801698/001"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
