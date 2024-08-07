@@ -987,7 +987,7 @@
             "quantity": 5,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100006"}],
-            "Note": "<br>Sample Order Entry in DON <br>1 order includes 5 folders<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note": "<br>Sample Order Entry in DON <br>1 order includes 5 folders<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=11/>Link to guidelines</a>"
       },
 
       {
