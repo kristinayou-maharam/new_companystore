@@ -39,6 +39,10 @@ document.addEventListener("DOMContentLoaded", function () {
         <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
         </div>
         `;
+
+        // if (!document.getElementById('selectedValue').textContent) {
+        //   document.getElementById('don').style.display = 'none';
+        // }
     
         document.getElementById("product-info").innerHTML = stationeryInfoHTML;
     
