@@ -1,8 +1,7 @@
 {
     "stationery": [
       {"image": [
-        "./img/sg_24_tabletop_bizcards_grey.png",
-        "./img/sg_24_tabletop_name tag_grey.png"
+        "./img/sg_24_tabletop_bizcards_grey.png"
         ],
       "name": "Business Cards",
       "price": 1,
@@ -10,12 +9,11 @@
           "quantity": "100 or 1000",
           "DON_reference_number": [
             {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-          "Note": "<br>Business card form must be downloaded from Intranet before proceeding to fill out information.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+          "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Letterhead with Showroom Address (North America)",
         "price": 1,
@@ -27,8 +25,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope with Showroom Address (North America)",
         "price": 0,
@@ -40,8 +37,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
@@ -54,8 +50,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
@@ -67,8 +62,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Mailing Label with Showroom Address",
         "price": 0,
@@ -76,13 +70,12 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7BDA5AFCCA-6C94-4F01-B476-AD9B3EA3CC49%7D&file=preprinted_maharam_label.docx&action=default&mobileredirect=true>Link to template</a><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=8/>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Brown Envelopes",
         "price": 0,
@@ -95,8 +88,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Mailing Label Sheet",
         "price": 0,
@@ -109,8 +101,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Kraft Envelope",
         "price": 0,
@@ -123,8 +114,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/sg_24_tabletop_rubberband_2_grey.png"
           ],
         "name": "Rubber Bands",
         "price": 0,
@@ -150,8 +140,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Notecard Knoll Textiles",
         "price": 0,
@@ -164,8 +153,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope Knoll Textiles",
         "price": 1,
@@ -177,8 +165,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sample Request Form Pad",
         "price": 1,
@@ -192,8 +179,7 @@
       
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Pocket Folder",
         "price": 1,
@@ -320,52 +306,48 @@
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Evites",
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "Note": "<br>Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+         "./img/new/coming-soon.png"
           ],
         "name": "Printed Invites",
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "Note": "<br>Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "New Sales Team Announcements",
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "Note": "<br>Send completed form to hross@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Logo Requests",
         "price": 0,
         "description": "",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}],
+            "DON_reference_number": "",
             "Note": "<br>Send completed form to logos@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       }
     ]

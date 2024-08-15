@@ -258,7 +258,7 @@
       },
       {
         "image": [
-          "img/angle/stool.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Maharam Shopping Bag Label",
         "price": 0,
@@ -266,7 +266,7 @@
         "quantity": 25,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/BAGLBL"}],
-        "Note": "Order through DON<br>Bag label template must be downloaded from Intranet to correctly print on label.<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
+        "Note": "<br>Order through DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -284,8 +284,7 @@
   
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Display Board Small",
         "price": 0,
@@ -311,8 +310,7 @@
   
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Leather Cord for Custom Corded Sets",
         "price": 0,
@@ -325,8 +323,7 @@
   
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Gift Wrap Set",
         "price": 0,
@@ -338,8 +335,7 @@
       },
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sales Integration Announcement Card",
         "price": 0,
@@ -353,8 +349,7 @@
       
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sales Integration Tent Card",
         "price": 0,
@@ -380,8 +375,7 @@
       },
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Frame Bag Sales Edition",
         "price": 1,
@@ -393,8 +387,7 @@
       },
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Briggs & Riley Carry-on",
         "price": 0,
@@ -406,8 +399,7 @@
       },
       {
         "image": [
-          "img/angle/stool.jpg",
-          "img/angle/stool-2.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Knoll Textiles Tote",
         "price": 0,
@@ -419,8 +411,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Generic",
         "price": 0,
@@ -433,8 +424,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Panel",
         "price": 0,
@@ -449,8 +439,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Privacy Curtain",
         "price": 0,
@@ -466,8 +455,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Upholstery",
         "price": 0,
@@ -493,8 +481,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Wallcovering",
         "price": 0,
@@ -514,8 +501,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Window Covering",
         "price": 0,
@@ -530,8 +516,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label Holder",
         "price": 0,
@@ -544,8 +529,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Solid/Texture\"",
         "price": 0,
@@ -558,8 +542,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Performance Woven\"",
         "price": 0,
@@ -572,8 +555,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Nonwoven\"",
         "price": 0,
@@ -586,8 +568,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Natural\"",
         "price": 0,
@@ -600,8 +581,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam",
         "price": 0,
@@ -615,8 +595,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label All Categories",
         "price": 0,
@@ -629,8 +608,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label \"Rugs\"",
         "price": 0,
@@ -643,8 +621,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label \"Leather\"",
         "price": 0,
@@ -657,8 +634,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Drenthe Heath Sampling Card",
         "price": 0,
@@ -672,8 +648,7 @@
       
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Cart Maharam and Parts",
         "price": 0,
@@ -686,8 +661,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Cart Knoll Textiles and Parts",
         "price": 0,
@@ -700,8 +674,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Hang Set Maharam Maharam and Parts",
         "price": 0,
@@ -714,8 +687,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Hang Set Knoll Textiles and Parts",
         "price": 0,
@@ -744,8 +716,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Knoll Textiles",
         "price": 1,
@@ -759,8 +730,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Edelman",
         "price": 0,
@@ -774,8 +744,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Box Edelman",
         "price": 0,
@@ -787,8 +756,7 @@
             "Note": "This item will be available soon."
       },
       {"image": [
-        "./img/sg_24_tabletop_bizcards_grey.png",
-        "./img/sg_24_tabletop_name tag_grey.png"
+        "./img/sg_24_tabletop_bizcards_grey.png"
         ],
       "name": "Business Cards",
       "price": 1,
@@ -800,8 +768,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Letterhead with Showroom Address (North America)",
         "price": 1,
@@ -813,8 +780,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope with Showroom Address (North America)",
         "price": 0,
@@ -826,8 +792,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
@@ -840,8 +805,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
@@ -853,8 +817,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Mailing Label with Showroom Address",
         "price": 0,
@@ -862,13 +825,12 @@
             "quantity": 1,
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7BDA5AFCCA-6C94-4F01-B476-AD9B3EA3CC49%7D&file=preprinted_maharam_label.docx&action=default&mobileredirect=true>Link to template</a><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=8/>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Brown Envelopes",
         "price": 0,
@@ -881,8 +843,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Mailing Label Sheet",
         "price": 0,
@@ -895,8 +856,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Kraft Envelope",
         "price": 0,
@@ -909,8 +869,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/sg_24_tabletop_rubberband_2_grey.png"
           ],
         "name": "Rubber Bands",
         "price": 0,
@@ -936,8 +895,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Notecard Knoll Textiles",
         "price": 0,
@@ -950,8 +908,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Envelope Knoll Textiles",
         "price": 1,
@@ -963,8 +920,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sample Request Form Pad",
         "price": 1,
@@ -978,8 +934,7 @@
       
       {
         "image": [
-          "./img/sg_24_tabletop_bizcards_grey.png",
-          "./img/sg_24_tabletop_name tag_grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Pocket Folder",
         "price": 1,
@@ -1025,7 +980,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "This item will be available soon."
+            "Note": "This item is no longer available and will not be reordered"
       },
       {
         "image": [
@@ -1106,7 +1061,7 @@
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Evites",
         "price": 0,
@@ -1114,12 +1069,12 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Printed Invites",
         "price": 0,
@@ -1127,12 +1082,12 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to invites@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "New Sales Team Announcements",
         "price": 0,
@@ -1140,11 +1095,11 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to hross@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Send completed form to hross@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [
-          "./img/new/mhrm_nametag_a.jpg"
+          "./img/new/coming-soon.png"
           ],
         "name": "Logo Requests",
         "price": 0,
@@ -1152,7 +1107,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to logos@maharam.com <br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Send completed form to logos@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [

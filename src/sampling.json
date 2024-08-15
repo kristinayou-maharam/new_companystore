@@ -2,8 +2,7 @@
     "sampling": [
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Generic",
         "price": 0,
@@ -16,8 +15,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Panel",
         "price": 0,
@@ -32,8 +30,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Privacy Curtain",
         "price": 0,
@@ -49,8 +46,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Upholstery",
         "price": 0,
@@ -76,8 +72,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Wallcovering",
         "price": 0,
@@ -97,8 +92,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam: Window Covering",
         "price": 0,
@@ -113,8 +107,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label Holder",
         "price": 0,
@@ -127,8 +120,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Solid/Texture\"",
         "price": 0,
@@ -141,8 +133,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Performance Woven\"",
         "price": 0,
@@ -155,8 +146,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Nonwoven\"",
         "price": 0,
@@ -169,8 +159,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Binder Maharam Label \"Natural\"",
         "price": 0,
@@ -183,8 +172,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam",
         "price": 0,
@@ -198,8 +186,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+         "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label All Categories",
         "price": 0,
@@ -212,8 +199,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label \"Rugs\"",
         "price": 0,
@@ -226,8 +212,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Maharam Label \"Leather\"",
         "price": 0,
@@ -240,8 +225,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Drenthe Heath Sampling Card",
         "price": 0,
@@ -255,8 +239,7 @@
       
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Cart Maharam and Parts",
         "price": 0,
@@ -269,8 +252,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Cart Knoll Textiles and Parts",
         "price": 0,
@@ -283,8 +265,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Hang Set Maharam Maharam and Parts",
         "price": 0,
@@ -297,8 +278,7 @@
       },
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Hang Set Knoll Textiles and Parts",
         "price": 0,
@@ -326,8 +306,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Knoll Textiles",
         "price": 1,
@@ -341,8 +320,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Memo Bin Edelman",
         "price": 0,
@@ -356,8 +334,7 @@
 
       {
         "image": [
-          "./img/sg_24_tabletop_samplerequest_grey.png",
-          "./img/sg_24_tabletop_table cards-grey.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "Sampling Box Edelman",
         "price": 0,

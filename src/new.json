@@ -2,16 +2,15 @@
     "new": [
       {
         "image": [
-          "./img/angle/irvingharper.jpg",
-          "./img/angle/sb.jpg"
+          "./img/new/Books/Knoll Textiles 1945-2010.png"
           ],
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
-        "description": "",
-            "quantity": 0,
+        "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design.Hardcover. 400 pages.",
+            "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item will be available soon."
+              {"variation": "Select an option", "value": "801701/001"}], 
+            "Note": "Sales Order Entry in DON"
       }, 
       {
         "image": [
@@ -82,8 +81,7 @@
     },
     {
       "image": [
-        "img/angle/notebooks.jpg",
-        "img/angle/notebooks-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Sales Integration Announcement Card",
       "price": 0,
@@ -94,8 +92,7 @@
       "Note": "1 Order includes 50 cards"
     }, 
     {"image": [
-      "./img/sg_24_tabletop_bizcards_grey.png",
-      "./img/sg_24_tabletop_name tag_grey.png"
+      "./img/sg_24_tabletop_bizcards_grey.png"
       ],
     "name": "Business Cards",
     "price": 1,
@@ -119,8 +116,7 @@
     },
     {
       "image": [
-        "./img/new/mhrm_new notebook_a.jpg",
-        "./img/new/mhrm_new notebook_b.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Sample Request Form Pad",
       "price": 1,

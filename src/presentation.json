@@ -14,7 +14,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Maharam Shopping Bag Label",
       "price": 0,
@@ -22,7 +22,7 @@
       "quantity": 25,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/BAGLBL"}],
-      "Note": "<br>Order through DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
+      "Note": "<br>Order through DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -40,8 +40,7 @@
 
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Display Board Small",
       "price": 0,
@@ -67,8 +66,7 @@
 
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Leather Cord for Custom Corded Sets",
       "price": 0,
@@ -81,8 +79,7 @@
 
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Gift Wrap Set",
       "price": 0,
@@ -94,8 +91,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Sales Integration Announcement Card",
       "price": 0,
@@ -109,8 +105,7 @@
     
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Sales Integration Tent Card",
       "price": 0,
@@ -136,8 +131,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Frame Bag Sales Edition",
       "price": 1,
@@ -149,8 +143,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Briggs & Riley Carry-on",
       "price": 0,
@@ -162,8 +155,7 @@
     },
     {
       "image": [
-        "img/angle/stool.jpg",
-        "img/angle/stool-2.jpg"
+        "./img/new/coming-soon.png"
         ],
       "name": "Knoll Textiles Tote",
       "price": 0,
