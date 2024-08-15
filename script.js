@@ -16,6 +16,12 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${stationery.description}</p>
         <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
         `;
+
+        if (!stationery.DON_reference_number){
+          stationeryInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          stationeryInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>`;
+        };
     
         if (Object.keys(stationery.DON_reference_number).length > 1) {
           stationeryInfoHTML += `
@@ -32,17 +38,16 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!stationery.quantity) {
           stationeryInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
+
     
 
         stationeryInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>
         <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
         </div>
         `;
+        
 
-        // if (!document.getElementById('selectedValue').textContent) {
-        //   document.getElementById('don').style.display = 'none';
-        // }
+       
     
         document.getElementById("product-info").innerHTML = stationeryInfoHTML;
     
