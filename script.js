@@ -69,6 +69,74 @@ document.addEventListener("DOMContentLoaded", function () {
       };
     })
 
+
+    .then(() => fetch("./src/print.json"))
+    .then(response => response.json())
+    .then(data => {
+      window.displayPrint = function (index) {
+        const print = data.print[index];
+        const slideHTML = print.image.map(imageUrl => `<div><img class="product-image" src="${imageUrl}" alt="${print.name}"></div>`).join('');
+    
+        let printInfoHTML = `
+        <div class="slick-carousel">
+        ${slideHTML}
+        </div>
+        <div id="detaildescription">
+        <h2>${print.name}</h2>
+        <p>${print.description}</p>
+        <p id="quantity-label">Quantity per Order: ${print.quantity}</p>
+        `;
+
+        if (!print.DON_reference_number){
+          printInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          printInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(print.DON_reference_number)[0].value}</strong></p>`;
+        };
+    
+        if (Object.keys(print.DON_reference_number).length > 1) {
+          printInfoHTML += `
+          <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
+          <select id="variationDropdown">`;
+    
+          Object.entries(print.DON_reference_number).forEach(([variation, value]) => {
+            printInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
+          });
+    
+          printInfoHTML += `</select><br><br>`;
+        }
+
+        if (!print.quantity) {
+          printInfoHTML += `<style>#quantity-label { display: none; }</style>`;
+        }
+
+  
+        printInfoHTML += `
+        <p id="note" style="display: ${print.Note ? 'block' : 'none'}">Note: ${print.Note}</p>
+        </div>
+        `;
+        
+        document.getElementById("product-info").innerHTML = printInfoHTML;
+    
+        $('.slick-carousel').slick({
+          infinite: true,
+          arrows: true,
+          dots: true
+        });
+    
+        const variationDropdown = document.getElementById('variationDropdown');
+        const selectedValueElement = document.getElementById('selectedValue');
+    
+        if (variationDropdown) {
+          variationDropdown.addEventListener('change', function () {
+            const selectedOptionValue = variationDropdown.value.trim();
+            selectedValueElement.textContent = selectedOptionValue;
+          });
+        }
+      };
+    })
+
+
+
     .then(() => fetch("./src/new.json"))
     .then(response => response.json())
     .then(data => {
@@ -190,62 +258,6 @@ document.addEventListener("DOMContentLoaded", function () {
       };
     })
 
-
-     
-    .then(() => fetch("./src/print.json"))
-    .then(response => response.json())
-    .then(data => {
-      window.displayPrint = function (index) {
-        const print = data.print[index];
-        const slideHTML = print.image.map(imageUrl => `<div><img class="product-image" src="${imageUrl}" alt="${print.name}"></div>`).join('');
-    
-        let printInfoHTML = `
-        <div class="slick-carousel">
-        ${slideHTML}
-        </div>
-        <div id="detaildescription">
-        <h2>${print.name}</h2>
-        <p>${print.description}</p>
-        <p>Quantity per Order: ${print.quantity}</p>
-        `;
-    
-        if (Object.keys(print.DON_reference_number).length > 1) {
-          printInfoHTML += `
-          <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
-          <select id="variationDropdown">`;
-    
-          Object.entries(print.DON_reference_number).forEach(([variation, value]) => {
-            printInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
-          });
-    
-          printInfoHTML += `</select><br><br>`;
-        }
-    
-        printInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(print.DON_reference_number)[0].value}</strong></p>
-        <p id="note" style="display: ${print.Note ? 'block' : 'none'}">Note: ${print.Note}</p>
-        </div>
-        `;
-    
-        document.getElementById("product-info").innerHTML = printInfoHTML;
-    
-        $('.slick-carousel').slick({
-          infinite: true,
-          arrows: true,
-          dots: true
-        });
-    
-        const variationDropdown = document.getElementById('variationDropdown');
-        const selectedValueElement = document.getElementById('selectedValue');
-    
-        if (variationDropdown) {
-          variationDropdown.addEventListener('change', function () {
-            const selectedOptionValue = variationDropdown.value.trim();
-            selectedValueElement.textContent = selectedOptionValue;
-          });
-        }
-      };
-    })
 
 
 
@@ -384,6 +396,12 @@ document.addEventListener("DOMContentLoaded", function () {
         <p>${all.description}</p>
         <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
         `;
+
+        if (!all.DON_reference_number){
+          allInfoHTML += `<style>#don { display: none; }</style>`;
+        } else{
+          allInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(all.DON_reference_number)[0].value}</strong></p>`;
+        };
     
         if (Object.keys(all.DON_reference_number).length > 1) {
           allInfoHTML += `
@@ -400,13 +418,13 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!all.quantity) {
           allInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
-    
+
+  
         allInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(all.DON_reference_number)[0].value}</strong></p>
         <p id="note" style="display: ${all.Note ? 'block' : 'none'}">Note: ${all.Note}</p>
         </div>
         `;
-    
+        
         document.getElementById("product-info").innerHTML = allInfoHTML;
     
         $('.slick-carousel').slick({
@@ -422,11 +440,10 @@ document.addEventListener("DOMContentLoaded", function () {
           variationDropdown.addEventListener('change', function () {
             const selectedOptionValue = variationDropdown.value.trim();
             selectedValueElement.textContent = selectedOptionValue;
-            selectedValueElement.style.fontWeight = "strong"; // Add this line
           });
         }
       };
-    })    
+    })   
     
 
     .then(() => fetch("./src/more.json"))
