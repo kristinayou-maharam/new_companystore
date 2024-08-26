@@ -1013,7 +1013,7 @@
         "name": "Staedtler Pencils Knoll Textiles",
         "price": 1,
         "description": "Pencils with Knoll Textiles logo.",
-            "quantity": 50,
+            "quantity": 25,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105001"}],
             "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
