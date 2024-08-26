@@ -8,11 +8,10 @@
           ],
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón. (Green)",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón. (Green)",
+        "DON_reference_number": "",
             "quantity": 1,
-            "Note": ""
+            "Note": "This item is no longer available and will not be reordered."
            },
       {
         "image": [
@@ -21,11 +20,10 @@
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón. (Purple)",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón. (Purple)",
+        "DON_reference_number": "",
             "quantity": 1,
-            "Note": ""
+            "Note": "This item is no longer available and will not be reordered."
            
       },
       {
@@ -134,7 +132,7 @@
           ],
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
-        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.<br><br>Available in various colorways, but will be sent in a random color.",
+        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballón.<br><br>Available in various colorways, but will be sent in a random color.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
@@ -176,7 +174,7 @@
           ],
         "name": "Notebook Set",
         "price": 0,
-        "description": "Set of three, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets each.",
+        "description": "Set of three, cloth-bound notebooks with perforated micro-grid paper. Forty-eight sheets each.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
@@ -266,7 +264,7 @@
         "quantity": 25,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/BAGLBL"}],
-        "Note": "<br>Order through DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
+        "Note": "<br>Sample Order Entry in DON<br><br>Bag label template must be downloaded from Intranet to correctly print on label.<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/:w:/r/sites/MHRM-Home/_layouts/15/Doc.aspx?sourcedoc=%7B95C2C675-DFF6-4FE4-B52D-C1A648E86757%7D&file=maharam_label-kraft-bag.docx&action=default&mobileredirect=true target=blank>Link to template</a><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -753,8 +751,9 @@
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}
                 ],
-            "Note": "This item will be available soon."
+           "Note": "<br>Sample Order Entry in DON<br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-ProductManagement/General%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents%2FEdelman%20Box%20Contents%2Epdf&parent=%2Fsites%2FMHRM%2DProductManagement%2FGeneral%20Documents target=blank>Link to Box Set Contents</a>"
       },
+
       {"image": [
         "./img/sg_24_tabletop_bizcards_grey.png"
         ],
@@ -764,7 +763,7 @@
           "quantity": "100 or 1000",
           "DON_reference_number": [
             {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-          "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
+          "Note": "<br>Business card form must be downloaded from intranet before proceeding to fill out information. <br><br> <a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
       },
       {
         "image": [
@@ -840,7 +839,6 @@
               {"variation": "Select an option", "value": "J/000003"}],
             "Note": "<br>Sample Order Entry in DON <br>1 order includes 100 envelopes<br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=12/>Link to guidelines</a>"
       },
-
       {
         "image": [
           "./img/new/coming-soon.png"
@@ -848,10 +846,10 @@
         "name": "Mailing Label Sheet",
         "price": 0,
         "description": "Small mailing labels should be applied only to the kraft envelope. One sheet includes sixteen self-adhesive labels.",
-            "quantity": "<br>Include the number of sheets required in request to facilities",
+            "quantity": "<br>1 = 1 pack of 250 sheets of labels",
             "DON_reference_number":  [
-              {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
-            "Note": "<br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
+              {"variation": "Select an option", "value": ""}],
+            "Note": "<br>Sample Order Entry in DON<br><br>Mailing label template must be downloaded from Intranet to correctly print label.<br><br><a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
       },
 
       {
@@ -861,7 +859,7 @@
         "name": "Kraft Envelope",
         "price": 0,
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
-            "quantity": "<br>Include the number of envelopes required in request to facilities",
+            "quantity": "<br>1 = 1 box of 500 envelopes",
             "DON_reference_number":  [
               {"variation": "Select an option", "value": "Contact Facilities<br> aguarino@maharam.com"}],
             "Note": "<a style=text-decoration:underline target=blank href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=9/>Link to guidelines</a>"
@@ -1069,7 +1067,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Invitation form must be downloaded from intranet before proceeding to fill out information.<br><br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
@@ -1082,7 +1080,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Invitation form must be downloaded from intranet before proceeding to fill out information.<br><br>Send completed form to invites@maharam.com <br><br>Send completed form to invites@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_invitation-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
 
       {
@@ -1095,7 +1093,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to hross@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>New Sales Team Announcement form must be downloaded from intranet before proceeding to fill out information.<br><br>Send completed form to invites@maharam.com <br><br>Send completed form to hross@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_announcement-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -1107,7 +1105,7 @@
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""}],
-            "Note": "<br>Send completed form to logos@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
+            "Note": "<br>Logo Request form must be downloaded from intranet before proceeding to fill out information.<br><br>Send completed form to invites@maharam.com <br><br>Send completed form to logos@maharam.com <br><br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM-Home%2FForms%2FMaharam_logo-request.pdf&parent=%2Fsites%2FMHRM-Home%2FForms target=blank>Link to guidelines</a>"
       },
       {
         "image": [
@@ -1242,11 +1240,11 @@
           ],
         "name": "Irma Boom: Colour Based on Nature",
         "price": 1,
-        "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
+        "description": "Colour Based on Nature takes the concept of Irma Boom's previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item is no longer available and will not be reordered."
+              {"variation": "Select an option", "value": "801055-001"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -1258,7 +1256,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801645/001"}], 
-            "Note": "This item will be available soon."
+            "Note": ""
       },
 
       {
@@ -1304,7 +1302,7 @@
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
-        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written byArthur and Teddy Edelman. Hardcover. 48 pages.",
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman. Hardcover. 48 pages.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 

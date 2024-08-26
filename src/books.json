@@ -133,11 +133,11 @@
           ],
         "name": "Irma Boom: Colour Based on Nature",
         "price": 1,
-        "description": "Colour Based on Nature takes the concept of Irma Booms previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
+        "description": "Colour Based on Nature takes the concept of Irma Boom's previous work further afield, highlighting UNESCO World Heritage sites across the globe and on every continent.",
             "quantity": 1,
             "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}], 
-            "Note": "This item is no longer available and will not be reordered."
+              {"variation": "Select an option", "value": "801055-001"}], 
+            "Note": "Sales Order Entry in DON"
       },
       {
         "image": [
@@ -149,7 +149,7 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801645/001"}], 
-            "Note": "This item will be available soon."
+            "Note": ""
       },
 
       {
@@ -194,7 +194,7 @@
           ],
         "name": "The Autobiography of a Snake: Drawings by Andy Warhol",
         "price": 1,
-        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written byArthur and Teddy Edelman. Hardcover. 48 pages.",
+        "description": "The story of a snake trying to make it in the world of sixties high-society. Illustrations by Andy Warhol, afterword written by Arthur and Teddy Edelman. Hardcover. 48 pages.",
             "quantity": 0,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801697/001"}], 

@@ -7,11 +7,10 @@
           ],
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography by Nick Ballón. (Green)",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón. (Green)",
+        "DON_reference_number": "",
             "quantity": 1,
-            "Note": ""
+            "Note": "This item is no longer available and will not be reordered."
            },
       {
         "image": [
@@ -20,11 +19,10 @@
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
-        "description": "A look book of our company, activies, and approach featuring original photography  by Nick Ballón. (Purple)",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón. (Purple)",
+        "DON_reference_number": "",
             "quantity": 1,
-            "Note": ""
+            "Note": "This item is no longer available and will not be reordered."
            
       },
       {
@@ -133,7 +131,7 @@
           ],
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
-        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballon.<br><br>Available in various colorways, but will be sent in a random color.",
+        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballón.<br><br>Available in various colorways, but will be sent in a random color.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
@@ -176,7 +174,7 @@
           ],
         "name": "Notebook Set",
         "price": 0,
-        "description": "Set of three, cloth-bound notebook with perforated micro-grid paper. Forty-eight sheets each.",
+        "description": "Set of three, cloth-bound notebooks with perforated micro-grid paper. Forty-eight sheets each.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
