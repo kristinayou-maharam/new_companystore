@@ -4,6 +4,7 @@
         "image": [
           "./img/new/Books/Knoll Textiles 1945-2010.png"
           ],
+        "category": "Books",
         "name": "Knoll Textiles: 1945-2010",
         "price": 1,
         "description": "A comprehensive study of Knoll’s innovative textile design and the company’s role within the history of interior design.Hardcover. 400 pages.",
@@ -20,6 +21,7 @@
           "./img/new/print/3 PSmith20_books.jpg",
           "img/angle/psmithbook-2.jpg"
           ],
+          "category": "Print",
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
           "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.<br><br>Available in Cobalt, Fuchsia, and Teal but will be sent in a random color.",
@@ -32,6 +34,7 @@
         "image": [
           "img/sg_24_tabletop_bags_flat_grey.png"
           ],
+        "category": "Presentation",
         "name": "Maharam Shopping Bag",
         "price": 0,
         "description": "Kraft bags are designed for showroom walk-in clients, or for delivering samples, printed matter and gifts in person. ",
@@ -44,6 +47,7 @@
         "image": [
           "./img/new/mhrm_eraser.jpg"
           ],
+        "category": "Stationery",
         "name": "Eraser",
         "price": 1,
         "description": "Maharam branded eraser.",
@@ -58,6 +62,7 @@
         "img/new/mhrm_brush_a.jpg",
         "img/new/mhrm_brush_b.jpg"
         ],
+      "category": "Presentation",
       "name": "Wallcovering Brush",
       "price": 0,
       "description": "Wallcovering brushes are packed in a plastic bag and include cleaning instructions suitable for any type of High Performance Wallcovering. In certain cases, the brush is also suitable for cleaning upholstery.",
@@ -71,6 +76,7 @@
       "image": [
         "img/sg_24_tabletop_tpins_grey.png"
         ],
+      "category": "Presentation",
       "name": "Display Board T-Pins",
       "price": 0,
       "description": "Display board t-pins",
@@ -83,6 +89,7 @@
       "image": [
         "./img/new/coming-soon.png"
         ],
+      "category": "Presentation",
       "name": "Sales Integration Announcement Card",
       "price": 0,
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
@@ -94,6 +101,7 @@
     {"image": [
       "./img/sg_24_tabletop_bizcards_grey.png"
       ],
+    "category": "Stationery",
     "name": "Business Cards",
     "price": 1,
     "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
@@ -106,6 +114,7 @@
       "image": [
         "./img/new/mhrm_nametag_a.jpg"
         ],
+      "category": "Stationery",
       "name": "Name Tag",
       "price": 0,
       "description": "Name tag for events",
@@ -118,6 +127,7 @@
       "image": [
         "./img/new/coming-soon.png"
         ],
+      "category": "Stationery",
       "name": "Sample Request Form Pad",
       "price": 1,
       "description": "Sample request form pad for showroom sample requests.",

@@ -178,6 +178,20 @@ a {
   width: 1000px;
 }
 
+#eyebrowcategory{
+  font-size: 14px;
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+a #eyebrowcategory{
+  text-decoration: underline;
+}
+
+a #eyebrowcategory:hover{
+  color: red;
+}
+
 #gallery {
   display: block;
   margin-bottom: 30px;
