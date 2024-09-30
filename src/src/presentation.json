@@ -14,7 +14,7 @@
             ],
             "quantity": 1,
             "DON_reference_number": "",
-            "Note": "<br>Order through DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
+            "Note":  "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -28,7 +28,7 @@
             ],
             "quantity": 25,
             "DON_reference_number": "",
-            "Note": "Order through DON"
+            "Note": "Order through DON<br>Bag label template must be downloaded from Intranet to correctly print on label.<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=13/ target=blank>Link to guidelines</a>"
     },
     {
       "image": [

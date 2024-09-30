@@ -63,7 +63,7 @@
           ],
           "name": "Bertjan Pot",
           "price": 0,
-          "description": "",
+          "description": "Sales tool celebrating the work of Bertjan Pot.",
           "DON_reference_number":[
             {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
           "quantity": 1,
@@ -76,7 +76,7 @@
           ],
         "name": "Repeat by Hella Jongerius",
         "price": 0,
-        "description": "",
+        "description": "A book documenting the process around Repeat by Hella Jongerius and Maharam's first textile collaboration with Hella Jongerius.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
         "quantity": 1,
@@ -1016,7 +1016,7 @@
             "quantity": 25,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/105001"}],
-            "Note": "<br>Sample Order Entry in DON<br>1 order includes 50 pencils"
+            "Note": "<br>Sample Order Entry in DON<br>1 order includes 25 pencils"
       },
       {
         "image": [
