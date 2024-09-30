@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./stationery.html"><p id="eyebrowcategory">Stationery</p></a>
         <h2>${stationery.name}</h2>
         <p>${stationery.description}</p>
         <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
@@ -82,6 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./print.html"><p id="eyebrowcategory">Print</p></a>
         <h2>${print.name}</h2>
         <p>${print.description}</p>
         <p id="quantity-label">Quantity per Order: ${print.quantity}</p>
@@ -149,6 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./${neww.category}.html"><p id=eyebrowcategory>${neww.category}</p></a>
         <h2>${neww.name}</h2>
         <p>${neww.description}</p>
         <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
@@ -210,6 +213,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./books.html"><p id="eyebrowcategory">Books</p></a>
         <h2>${books.name}</h2>
         <p>${books.description}</p>
         <p id="quantity-label">Quantity per Order: ${books.quantity}</p>
@@ -275,6 +279,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./presentation.html"><p id="eyebrowcategory">Presentation</p></a>
         <h2>${presentation.name}</h2>
         <p>${presentation.description}</p>
         <p>Quantity per Order: ${presentation.quantity}</p>
@@ -332,6 +337,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./sampling.html"><p id="eyebrowcategory">Sampling</p></a>
         <h2>${sampling.name}</h2>
         <p>${sampling.description}</p>
         <p id="quantity-label">Quantity per Order: ${sampling.quantity}</p>
@@ -392,6 +398,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./${all.category}.html"><p id=eyebrowcategory>${all.category}</p></a>
         <h2>${all.name}</h2>
         <p>${all.description}</p>
         <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
@@ -458,6 +465,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
+        <a href="./more.html"><p id="eyebrowcategory">More</p></a>
         <h2>${more.name}</h2>
         <p>${more.description}</p>
         <p>Quantity per Order: ${more.quantity}</p>
