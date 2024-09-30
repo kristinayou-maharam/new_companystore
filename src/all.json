@@ -1034,7 +1034,7 @@
 
       {
         "image": [
-          "./img/new/mouse pad.jpg"
+          "./img/new/Mouse Pad.jpg"
           ],
         "name": "Mouse Pad",
         "price": 1,
@@ -1092,7 +1092,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/new-sales-team-announcements.png"
           ],
         "name": "New Sales Team Announcements",
         "price": 0,
@@ -1104,7 +1104,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/logo-requests2.svg"
           ],
         "name": "Logo Requests",
         "price": 0,
@@ -1116,7 +1116,7 @@
       },
       {
         "image": [
-          "./img/new/Books/agenda-bw.jpeg"
+          "./img/new/Books/agenda-angled-bw.jpeg"
           ],
         "name": "Maharam Agenda",
         "price": 1,
