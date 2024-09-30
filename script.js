@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
-        <a href="./${neww.category}.html"><p id=eyebrowcategory>${neww.category}</p></a>
+        <a href="./${neww.category.toLowerCase()}.html"><p id=eyebrowcategory>${neww.category}</p></a>
         <h2>${neww.name}</h2>
         <p>${neww.description}</p>
         <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
@@ -398,7 +398,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ${slideHTML}
         </div>
         <div id="detaildescription">
-        <a href="./${all.category}.html"><p id=eyebrowcategory>${all.category}</p></a>
+        <a href="./${all.category.toLowerCase()}.html"><p id=eyebrowcategory>${all.category}</p></a>
         <h2>${all.name}</h2>
         <p>${all.description}</p>
         <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
