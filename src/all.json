@@ -1060,7 +1060,13 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/evite-1.png",
+          "./img/new/Stationery/evite-2.png",
+          "./img/new/Stationery/evite-3.png",
+          "./img/new/Stationery/evite-4.png",
+          "./img/new/Stationery/evite-5.png",
+          "./img/new/Stationery/evite-6.png"
+
           ],
         "name": "Evites",
         "price": 0,
