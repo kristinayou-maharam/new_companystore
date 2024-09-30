@@ -85,7 +85,8 @@
       },
       {
         "image": [
-          "./img/new/Print/60_60_book.png"
+          "./img/new/Print/60_60_book.png",
+          "./img/new/Print/60_60_mailer.png"
           ],
         "name": "60 60",
         "price": 1,
@@ -99,7 +100,7 @@
 
       {
         "image": [
-          "./img/new/Print/60_60_mailer.png"
+          "./img/new/coming-soon.png"
           ],
         "name": "60 60 Shipping Box",
         "price": 0,
