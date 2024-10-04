@@ -4,9 +4,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Generic",
+        "name": "Maharam Generic Binder",
         "price": 0,
-        "description": "Maharam Generic Binder",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/002027"}
@@ -18,9 +18,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Panel",
+        "name": "Maharam Panel Binder",
         "price": 0,
-        "description": "Maharam Panel Binder",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""},
@@ -34,9 +34,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Privacy Curtain",
+        "name": "Maharam Privacy Curtain Binder",
         "price": 0,
-        "description": "Maharam Privacy Curtain Binder",
+        "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Privacy Curtain 1", "value": "B/002017"},
@@ -51,9 +51,9 @@
         "image": [
          "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Upholstery",
+        "name": "Maharam Upholstery Binder",
         "price": 0,
-        "description": "Maharam Upholstery Binder",
+        "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Upholstery 1", "value": "B/002001"},
@@ -78,9 +78,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Wallcovering",
+        "name": "Maharam Wallcovering Binder",
         "price": 0,
-        "description": "Maharam Wallcovering Binder",
+        "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Wallcovering 1", "value": "B/002021"},
@@ -99,9 +99,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam: Window Covering",
+        "name": "Maharam Window Covering Binder",
         "price": 0,
-        "description": "Maharam Window Covering Binder",
+        "description": "",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""},
           {"variation": "Window Covering 1", "value": "B/002015"},
@@ -115,9 +115,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam Label Holder",
+        "name": "Maharam Binder Label Holder",
         "price": 0,
-        "description": "Binder label holder for Maharam binders.",
+        "description": "",
             "quantity": 4,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLHLD"}
@@ -129,9 +129,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam Label \"Solid/Texture\"",
+        "name": "Maharam Binder Label \"Solid/Texture\"",
         "price": 0,
-        "description": "Solid/Texture Binder label for Maharam binders",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLSTX"}
@@ -143,9 +143,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam Label \"Performance Woven\"",
+        "name": "Maharam Binder Label \"Performance Woven\"",
         "price": 0,
-        "description": "Performance Woven Binder label for Maharam binders",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLPWV"}
@@ -157,9 +157,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam Label \"Nonwoven\"",
+        "name": "Maharam Binder Label \"Nonwoven\"",
         "price": 0,
-        "description": "Nonwoven Binder label for Maharam binders",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNWV"}
@@ -171,9 +171,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Binder Maharam Label \"Natural\"",
+        "name": "Maharam Binder Label \"Natural\"",
         "price": 0,
-        "description": "Natural Binder label for Maharam binders",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/LBLNAT"}
@@ -185,9 +185,9 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Maharam",
+        "name": "Mahram Memo Bin",
         "price": 0,
-        "description": "Maharam memo bin.",
+        "description": "",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "B/MEMBIN"}
@@ -200,7 +200,7 @@
         "image": [
          "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Maharam Label All Categories",
+        "name": "Maharam Memo Bin Label All Categories",
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit includes all categories.",
             "quantity": 1,
@@ -214,7 +214,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Maharam Label \"Rugs\"",
+        "name": "Maharam Memo Bin Label \"Rugs\"",
         "price": 0,
         "description": "Label sheet for Maharam memo bin kit including rugs.",
             "quantity": 1,
@@ -228,7 +228,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Maharam Label \"Leather\"",
+        "name": "Maharam Memo Bin Label \"Leather\"",
         "price": 0,
         "description": "Label sheet for Maharam Leather bin.",
             "quantity": 1,
@@ -257,7 +257,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Sampling Cart Maharam and Parts",
+        "name": "Maharam Sampling Cart and Parts",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -271,7 +271,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Sampling Cart Knoll Textiles and Parts",
+        "name": "Knoll Textiles Sampling Cart and Parts",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -285,7 +285,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Hang Set Maharam Maharam and Parts",
+        "name": "Maharam Hang Set and Parts",
         "price": 0,
         "description": "",
             "quantity": 0,

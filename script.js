@@ -444,10 +444,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         allInfoHTML += `
         <p id="contact" style="display: ${all.contact ? 'block' : 'none'}">${all.contact}</p>
-        </div>
-        `;
-  
-        allInfoHTML += `
         <p id="note" style="display: ${all.Note ? 'block' : 'none'}">Note: ${all.Note}</p>
         </div>
         `;
