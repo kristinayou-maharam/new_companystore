@@ -11,6 +11,7 @@
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Zest", "value": "801401-001"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -25,6 +26,7 @@
           {"variation": "Select an option", "value": ""},
           {"variation": "002 Poppy", "value": "801402-002"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -39,6 +41,7 @@
           {"variation": "Select an option", "value": ""},
           {"variation": "003 Glacier", "value": "801403-003"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -55,6 +58,7 @@
           {"variation": "002 Petal", "value": "801398-002"},
           {"variation": "003 Zinc", "value": "801398-003"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -70,6 +74,7 @@
           {"variation": "Select an option", "value": ""},
           {"variation": "001 Matcha", "value": "801397-001"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -86,6 +91,7 @@
           {"variation": "002 Petal", "value": "801396-002"},
           {"variation": "003 Zinc", "value": "801396-003"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -102,6 +108,7 @@
           {"variation": "002 Petal", "value": "801400-002"},
           {"variation": "003 Zinc", "value": "801400-003"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       },
@@ -118,6 +125,7 @@
           {"variation": "002 Petal", "value": "801399-002"},
           {"variation": "003 Zinc", "value": "801399-003"}
             ],
+          "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
       }

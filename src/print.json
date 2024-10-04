@@ -7,8 +7,9 @@
           ],
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
-        "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón. (Green)",
+        "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón.",
         "DON_reference_number": "",
+        "contact": "",
             "quantity": 1,
             "Note": "This item is no longer available and will not be reordered."
            },
@@ -19,8 +20,9 @@
           ],
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
-        "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón. (Purple)",
+        "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón.",
         "DON_reference_number": "",
+        "contact": "",
             "quantity": 1,
             "Note": "This item is no longer available and will not be reordered."
            
@@ -33,8 +35,8 @@
         "name": "Mailing Pouch for Look Book, Notebooks, Calendar, etc.",
         "price": 0,
         "description": "Clear self-adhesive mailing label pouches that should be adhered on corresponding shipping box for calendars, notebook sets and books. ",
-        "DON_reference_number":[
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "DON_reference_number":"",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
             "quantity": 1,
             "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/SitePages/Stationary/Maharam_Stationery-Sample-Delivery-Guidelines.pdf#page=16/ target=blank>Link to guidelines</a>"
            
@@ -49,9 +51,9 @@
           ],
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
-          "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.<br><br>Available in Cobalt, Fuchsia, and Teal but will be sent in a random color.",
-          "DON_reference_number": [
-            {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+          "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale. Three randomized cover variations.",
+          "DON_reference_number": "",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
           "quantity": 1,
           "Note": ""
       },
@@ -63,8 +65,8 @@
           "name": "Bertjan Pot",
           "price": 0,
           "description": "Sales tool celebrating the work of Bertjan Pot.",
-          "DON_reference_number":[
-            {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+          "DON_reference_number": "",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
           "quantity": 1,
           "Note": ""
       },
@@ -76,8 +78,8 @@
         "name": "Repeat by Hella Jongerius",
         "price": 0,
         "description": "A book documenting the process around Repeat by Hella Jongerius and Maharam's first textile collaboration with Hella Jongerius. ",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "quantity": 1,
         "Note": ""
            
@@ -90,8 +92,8 @@
         "name": "60 60",
         "price": 1,
         "description": "A book celebrating Artek and Maharam's ongoing exploration of textile application on the Stool 60 by Alvar Aalto.",
-        "DON_reference_number":[
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "DON_reference_number":"",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "quantity": 1,
         "Note": ""
            
@@ -106,6 +108,7 @@
         "description": "Shipping box for <em>60 60</em> book.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/000001"}],
+        "contact": "",
         "quantity": 1,
         "Note": "Sample Order Entry in DON"
            
@@ -118,8 +121,8 @@
         "name": "The Archetypes",
         "price": 0,
         "description": "A set of twelve 15\" x 22.75\" newsprint posters, each features a single character named for Swiss psychoanalyst Carl Jung's twelve archetypes of personality and incorporates Maharam textiles.",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "quantity": 1,
         "Note": ""
            
@@ -132,9 +135,9 @@
           ],
         "name": "Sonnhild Kestler Poster Set",
         "price": 1,
-        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballón.<br><br>Available in various colorways, but will be sent in a random color.",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+        "description": "A series of poster sets including four original designs and an in-depth process booklet featuring photography by Nick Ballón. Three randomized cover variations.",
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "quantity": 1,
         "Note": ""
            
@@ -162,6 +165,7 @@
         {"variation": "011 Terracotta", "value": "801013/011"},
         {"variation": "013 Ivory", "value": "801013/013"},
         {"variation": "014 Chalk", "value": "801013/014"}],
+        "contact": "",
         "quantity": 1,
         "Note": "Sales Order Entry in DON"
       },
@@ -181,6 +185,7 @@
           {"variation": "003 Terracotta, Ivory, Apricot" , "value": "800991/003"},
           {"variation": "004 Currant, Chalk, Sky", "value": "800991/004"}
             ],
+            "contact": "",
             "quantity": 1,
             "Note": "Sales Order Entry in DON"
            
@@ -196,6 +201,7 @@
         "description": "Two sets of thirty-six cards interpreting Maharam Digital Projects. Four randomized cover variations.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "801080/001"}],
+        "contact": "",
         "quantity": 1,
         "Note": "Sales Order Entry in DON"
            
@@ -210,6 +216,7 @@
         "description": "Two sets of thirty-six cards interpreting Maharam textiles. Four randomized cover variations.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "801081/001"}],
+        "contact": "",
         "quantity": 1,
         "Note": "Sales Order Entry in DON"
            
@@ -221,9 +228,9 @@
           ],
         "name": "Calendar 2025",
         "price": 1,
-        "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets.<br><br>Available in three colorways, but will be sent in a random color.",
+        "description": "Cloth-bound weekly, monthly, and yearly agendas with lined note pages. Includes birthdates of architects and designers, moon phases, and major holidays. 132 sheets. Three randomized cover variations.",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+          {"variation": "Select an option", "value": "Contact Media<br><a href=\"mailto:media@maharam.com\">media@maharam.com</a>"}],
         "quantity": 1,
         "Note": ""
            
@@ -239,6 +246,7 @@
         "description": "6 cards with different Maharam Digital Projects visuals and 18 envelopes. Paper-banded and packaged in a cardboard box. Includes jiffy envelope for hand delivery/shipping.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": ""}],
+        "contact": "",
         "quantity": 1,
         "Note": "This item will be available soon."
            

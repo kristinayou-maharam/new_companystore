@@ -11,11 +11,12 @@
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "801701/001"}], 
+            "contact": "",
             "Note": "Sales Order Entry in DON"
       }, 
       {
         "image": [
-         "./img/new/Print/PSmith20_books_001.jpg",
+          "./img/new/Print/PSmith20_books_001.jpg",
           "./img/new/Print/PSmith20_books_002.jpg",
           "./img/new/Print/PSmith20_books_003.jpg",
           "./img/new/Print/3 PSmith20_books.jpg",
@@ -24,9 +25,9 @@
           "category": "Print",
           "name": "20 Years of Paul Smith and Maharam",
           "price": 0,
-          "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale.<br><br>Available in Cobalt, Fuchsia, and Teal but will be sent in a random color.",
-          "DON_reference_number": [
-            {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
+          "description": "This book highlights our studios’ shared commitment to design and long-term exploration of traditional motifs reimagined through color, pattern, and scale. Three randomized cover variations.",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+          "DON_reference_number": "",
           "quantity": 1,
           "Note": ""
       },
@@ -41,6 +42,7 @@
         "quantity": 1,
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/MAHBAG"}],
+        "contact": "",
         "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary%2FMaharam%5FStationery%2DSample%2DDelivery%2DGuidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FSiteAssets%2FSitePages%2FStationary target=blank>Link to guidelines</a>"
       },
       {
@@ -54,7 +56,8 @@
             "quantity": 14,
             "DON_reference_number": [
               {"variation": "Select an option", "value": "J/100068"}],
-            "Note": "Sample Order Entry in DON<br>1 order includes 14 erasers"
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
       },
        
     {
@@ -69,6 +72,7 @@
       "quantity": 1,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/100076"}],
+      "contact": "",
       "Note": "Sample Order Entry in DON"
     },
      
@@ -83,7 +87,8 @@
       "quantity": 100,
       "DON_reference_number": [
         {"variation": "Select an option", "value": "J/DISPTP"}],
-      "Note": "<br>Sample Order Entry in DON<br>1 order includes 100 t-pins<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
+      "contact": "",
+      "Note": "<br>Sample Order Entry in DON<br><a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Procedures/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures%2Fdisplay%5Fboard%5Fguidelines%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FProcedures%2FPM%20Procedures target=blank>Link to guidelines</a>"
     },
     {
       "image": [
@@ -94,9 +99,9 @@
       "price": 0,
       "description": "Flat cards designed to be displayed as part of presentations and leave-behinds. The flat card should not be written on or altered in any way.",
       "quantity": 50,
-      "DON_reference_number": [
-        {"variation": "Select an option", "value": "Contact Media<br>media@maharam.com"}],
-      "Note": "1 Order includes 50 cards"
+      "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
+      "DON_reference_number": "",
+      "Note": ""
     }, 
     {"image": [
       "./img/sg_24_tabletop_bizcards_grey.png"
@@ -106,8 +111,8 @@
     "price": 1,
     "description": "Business cards order should be placed by filling out request form and sending to Angela Guarino.",
         "quantity": "100 or 1000",
-        "DON_reference_number": [
-          {"variation": "Select an option", "value": "Contact Facilities<br>aguarino@maharam.com"}],
+        "DON_reference_number": "",
+        "contact": "To order this item, contact Angela Guarino at <a href=\"mailto:aguarino@maharam.com\">media@maharam.com</a>",
         "Note": "<a style=text-decoration:underline href=https://hermanmiller.sharepoint.com/sites/MHRM-Home/Forms/Forms/AllItems.aspx?id=%2Fsites%2FMHRM%2DHome%2FForms%2FMaharam%5Fbusiness%2Dcard%2Drequest%2Epdf&parent=%2Fsites%2FMHRM%2DHome%2FForms target=blank>Link to form</a>"
     },
     {
@@ -119,8 +124,8 @@
       "price": 0,
       "description": "Name tag for events",
           "quantity": 2,
-          "DON_reference_number": [
-            {"variation": "Select an option", "value": "Contact Media<br> media@maharam.com"}],
+          "DON_reference_number": "",
+          "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
           "Note": ""
     },
     {
@@ -134,6 +139,7 @@
           "quantity": 1,
           "DON_reference_number":  [
             {"variation": "Select an option", "value": "J/100005"}],
+          "contact": "",
           "Note": "Sample order entry in DON"
     }
     ]

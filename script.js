@@ -15,13 +15,13 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./stationery.html"><p id="eyebrowcategory">Stationery</p></a>
         <h2>${stationery.name}</h2>
         <p>${stationery.description}</p>
-        <p id="quantity-label">Quantity per Order: ${stationery.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${stationery.quantity}</p>
         `;
 
         if (!stationery.DON_reference_number){
           stationeryInfoHTML += `<style>#don { display: none; }</style>`;
         } else{
-          stationeryInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(stationery.DON_reference_number)[0].value}</strong></p>`;
+          stationeryInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(stationery.DON_reference_number)[0].value}</p>`;
         };
     
         if (Object.keys(stationery.DON_reference_number).length > 1) {
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
             stationeryInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          stationeryInfoHTML += `</select><br><br>`;
+          stationeryInfoHTML += `</select><br>`;
         }
 
         if (!stationery.quantity) {
@@ -41,6 +41,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
     
+        stationeryInfoHTML += `
+        <p id="contact" style="display: ${stationery.contact ? 'block' : 'none'}">${stationery.contact}</p>
+        `;
 
         stationeryInfoHTML += `
         <p id="note" style="display: ${stationery.Note ? 'block' : 'none'}">Note: ${stationery.Note}</p>
@@ -86,13 +89,13 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./print.html"><p id="eyebrowcategory">Print</p></a>
         <h2>${print.name}</h2>
         <p>${print.description}</p>
-        <p id="quantity-label">Quantity per Order: ${print.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${print.quantity}</p>
         `;
 
         if (!print.DON_reference_number){
           printInfoHTML += `<style>#don { display: none; }</style>`;
         } else{
-          printInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(print.DON_reference_number)[0].value}</strong></p>`;
+          printInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(print.DON_reference_number)[0].value}</p>`;
         };
     
         if (Object.keys(print.DON_reference_number).length > 1) {
@@ -104,15 +107,18 @@ document.addEventListener("DOMContentLoaded", function () {
             printInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          printInfoHTML += `</select><br><br>`;
+          printInfoHTML += `</select><br>`;
         }
 
         if (!print.quantity) {
           printInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
 
-  
         printInfoHTML += `
+        <p id="don" style="display: ${print.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${print.DON_reference_number ? Object.values(print.DON_reference_number)[0].value : ''}</p>
+
+        <p id="contact" style="display: ${print.contact ? 'block' : 'none'}">${print.contact}</p>
+
         <p id="note" style="display: ${print.Note ? 'block' : 'none'}">Note: ${print.Note}</p>
         </div>
         `;
@@ -154,7 +160,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./${neww.category.toLowerCase()}.html"><p id=eyebrowcategory>${neww.category}</p></a>
         <h2>${neww.name}</h2>
         <p>${neww.description}</p>
-        <p id="quantity-label">Quantity per Order: ${neww.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${neww.quantity}</p>
         `;
     
         if (Object.keys(neww.DON_reference_number).length > 1) {
@@ -166,7 +172,7 @@ document.addEventListener("DOMContentLoaded", function () {
             newInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          newInfoHTML += `</select><br><br>`;
+          newInfoHTML += `</select><br>`;
         }
 
         if (!neww.quantity) {
@@ -174,8 +180,9 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     
         newInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(neww.DON_reference_number)[0].value}</strong></p>
+        <p id="don" style="display: ${neww.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${neww.DON_reference_number ? Object.values(neww.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${neww.Note ? 'block' : 'none'}">Note: ${neww.Note}</p>
+        <p id="contact" style="display: ${neww.contact ? 'block' : 'none'}">${neww.contact}</p>
         </div>
         `;
     
@@ -216,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./books.html"><p id="eyebrowcategory">Books</p></a>
         <h2>${books.name}</h2>
         <p>${books.description}</p>
-        <p id="quantity-label">Quantity per Order: ${books.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${books.quantity}</p>
         `;
     
         if (Object.keys(books.DON_reference_number).length > 1) {
@@ -228,17 +235,18 @@ document.addEventListener("DOMContentLoaded", function () {
             booksInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          booksInfoHTML += `</select><br><br>`;
+          booksInfoHTML += `</select><br>`;
         }
 
 
         if (!books.quantity) {
           booksInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
-    
+
         booksInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(books.DON_reference_number)[0].value}</strong></p>
+        <p id="don" style="display: ${books.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${books.DON_reference_number ? Object.values(books.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${books.Note ? 'block' : 'none'}">Note: ${books.Note}</p>
+        <p id="contact" style="display: ${books.contact ? 'block' : 'none'}">${books.contact}</p>
         </div>
         `;
     
@@ -282,7 +290,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./presentation.html"><p id="eyebrowcategory">Presentation</p></a>
         <h2>${presentation.name}</h2>
         <p>${presentation.description}</p>
-        <p>Quantity per Order: ${presentation.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${presentation.quantity}</p>
         `;
     
         if (Object.keys(presentation.DON_reference_number).length > 1) {
@@ -294,11 +302,14 @@ document.addEventListener("DOMContentLoaded", function () {
             presentationInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          presentationInfoHTML += `</select><br><br>`;
+          presentationInfoHTML += `</select><br>`;
         }
     
         presentationInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(presentation.DON_reference_number)[0].value}</strong></p>
+       <p id="don" style="display: ${presentation.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${presentation.DON_reference_number ? Object.values(presentation.DON_reference_number)[0].value : ''}</p>
+
+         <p id="contact" style="display: ${presentation.contact ? 'block' : 'none'}">${presentation.contact}</p>
+
         <p id="note" style="display: ${presentation.Note ? 'block' : 'none'}">Note: ${presentation.Note}</p>
         </div>
         `;
@@ -340,7 +351,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./sampling.html"><p id="eyebrowcategory">Sampling</p></a>
         <h2>${sampling.name}</h2>
         <p>${sampling.description}</p>
-        <p id="quantity-label">Quantity per Order: ${sampling.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${sampling.quantity}</p>
         `;
     
         if (Object.keys(sampling.DON_reference_number).length > 1) {
@@ -352,15 +363,19 @@ document.addEventListener("DOMContentLoaded", function () {
             samplingInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          samplingInfoHTML += `</select><br><br>`;
+          samplingInfoHTML += `</select><br>`;
         }
 
         if (!sampling.quantity) {
           samplingInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
+
     
         samplingInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(sampling.DON_reference_number)[0].value}</strong></p>
+        <p id="don" style="display: ${sampling.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${sampling.DON_reference_number ? Object.values(sampling.DON_reference_number)[0].value : ''}</p>
+
+        <p id="contact" style="display: ${sampling.contact ? 'block' : 'none'}">${sampling.contact}</p>
+
         <p id="note" style="display: ${sampling.Note ? 'block' : 'none'}">Note: ${sampling.Note}</p>
         </div>
         `;
@@ -401,13 +416,14 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./${all.category.toLowerCase()}.html"><p id=eyebrowcategory>${all.category}</p></a>
         <h2>${all.name}</h2>
         <p>${all.description}</p>
-        <p id="quantity-label">Quantity per Order: ${all.quantity}</p>
+        <p id="quantity-label">Quantity per order: ${all.quantity}</p>
         `;
+
 
         if (!all.DON_reference_number){
           allInfoHTML += `<style>#don { display: none; }</style>`;
         } else{
-          allInfoHTML += `<p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(all.DON_reference_number)[0].value}</strong></p>`;
+          allInfoHTML += `<p id="don">Item code: </p><p id="selectedValue">${Object.values(all.DON_reference_number)[0].value}</p>`;
         };
     
         if (Object.keys(all.DON_reference_number).length > 1) {
@@ -419,13 +435,17 @@ document.addEventListener("DOMContentLoaded", function () {
             allInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          allInfoHTML += `</select><br><br>`;
+          allInfoHTML += `</select><br>`;
         }
 
         if (!all.quantity) {
           allInfoHTML += `<style>#quantity-label { display: none; }</style>`;
         }
 
+        allInfoHTML += `
+        <p id="contact" style="display: ${all.contact ? 'block' : 'none'}">${all.contact}</p>
+        </div>
+        `;
   
         allInfoHTML += `
         <p id="note" style="display: ${all.Note ? 'block' : 'none'}">Note: ${all.Note}</p>
@@ -468,7 +488,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <a href="./more.html"><p id="eyebrowcategory">More</p></a>
         <h2>${more.name}</h2>
         <p>${more.description}</p>
-        <p>Quantity per Order: ${more.quantity}</p>
+        <p>Quantity per order: ${more.quantity}</p>
         `;
     
         if (Object.keys(more.DON_reference_number).length > 1) {
@@ -480,12 +500,13 @@ document.addEventListener("DOMContentLoaded", function () {
             moreInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
-          moreInfoHTML += `</select><br><br>`;
+          moreInfoHTML += `</select><br>`;
         }
-    
+
         moreInfoHTML += `
-        <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(more.DON_reference_number)[0].value}</strong></p>
+        <p id="don" style="display: ${more.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${more.DON_reference_number ? Object.values(more.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${more.Note ? 'block' : 'none'}">Note: ${more.Note}</p>
+        <p id="contact" style="display: ${more.contact ? 'block' : 'none'}">${more.contact}</p>
         </div>
         `;
     
@@ -504,7 +525,6 @@ document.addEventListener("DOMContentLoaded", function () {
           variationDropdown.addEventListener('change', function () {
             const selectedOptionValue = variationDropdown.value.trim();
             selectedValueElement.textContent = selectedOptionValue;
-            selectedValueElement.style.fontWeight = "strong"; // Add this line
           });
         }
       };

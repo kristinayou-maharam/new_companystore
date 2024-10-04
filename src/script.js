@@ -218,6 +218,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
         `;
     
+    
         document.getElementById("product-info").innerHTML = printInfoHTML;
     
         $('.slick-carousel').slick({
