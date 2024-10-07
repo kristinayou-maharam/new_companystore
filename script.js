@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     
         newInfoHTML += `
-        <p id="don" style="display: ${neww.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${neww.DON_reference_number ? Object.values(neww.DON_reference_number)[0].value : ''}</p>
+        <p id="don" style="display: ${neww.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${neww.DON_reference_number ? Object.values(neww.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${neww.Note ? 'block' : 'none'}">Note: ${neww.Note}</p>
         <p id="contact" style="display: ${neww.contact ? 'block' : 'none'}">${neww.contact}</p>
         </div>
