@@ -115,7 +115,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         printInfoHTML += `
-        <p id="don" style="display: ${print.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${print.DON_reference_number ? Object.values(print.DON_reference_number)[0].value : ''}</p>
 
         <p id="contact" style="display: ${print.contact ? 'block' : 'none'}">${print.contact}</p>
 
@@ -244,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         booksInfoHTML += `
-        <p id="don" style="display: ${books.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${books.DON_reference_number ? Object.values(books.DON_reference_number)[0].value : ''}</p>
+        <p id="don" style="display: ${books.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${books.DON_reference_number ? Object.values(books.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${books.Note ? 'block' : 'none'}">Note: ${books.Note}</p>
         <p id="contact" style="display: ${books.contact ? 'block' : 'none'}">${books.contact}</p>
         </div>
@@ -306,7 +305,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     
         presentationInfoHTML += `
-       <p id="don" style="display: ${presentation.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${presentation.DON_reference_number ? Object.values(presentation.DON_reference_number)[0].value : ''}</p>
+       <p id="don" style="display: ${presentation.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${presentation.DON_reference_number ? Object.values(presentation.DON_reference_number)[0].value : ''}</p>
 
          <p id="contact" style="display: ${presentation.contact ? 'block' : 'none'}">${presentation.contact}</p>
 
@@ -372,7 +371,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     
         samplingInfoHTML += `
-        <p id="don" style="display: ${sampling.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${sampling.DON_reference_number ? Object.values(sampling.DON_reference_number)[0].value : ''}</p>
+        <p id="don" style="display: ${sampling.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${sampling.DON_reference_number ? Object.values(sampling.DON_reference_number)[0].value : ''}</p>
 
         <p id="contact" style="display: ${sampling.contact ? 'block' : 'none'}">${sampling.contact}</p>
 
@@ -506,7 +505,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         moreInfoHTML += `
 
-        <p id="don" style="display: ${more.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${more.DON_reference_number ? Object.values(more.DON_reference_number)[0].value : ''}</p>
+        <p id="don" style="display: ${more.DON_reference_number ? 'inline-block' : 'none'}">Item code: </p><p id="selectedValue">${more.DON_reference_number ? Object.values(more.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${more.Note ? 'block' : 'none'}">Note: ${more.Note}</p>
         <p id="contact" style="display: ${more.contact ? 'block' : 'none'}">${more.contact}</p>
         </div>
