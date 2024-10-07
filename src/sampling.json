@@ -299,7 +299,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Hang Set Knoll Textiles and Parts",
+        "name": "Knoll Textiles Hang Set and Parts",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -314,7 +314,7 @@
         "image": [
           "./img/new/Binder Knoll Textiles.png"
           ],
-        "name": "Binder Knoll Textiles",
+        "name": "Knoll Textiles Binder",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -329,7 +329,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Knoll Textiles",
+        "name": "Knoll Textiles Memo Bin",
         "price": 1,
         "description": "",
             "quantity": 0,
@@ -344,7 +344,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Memo Bin Edelman",
+        "name": "Edelman Memo Bin",
         "price": 0,
         "description": "",
             "quantity": 0,
@@ -359,7 +359,7 @@
         "image": [
           "./img/new/coming-soon.png"
           ],
-        "name": "Sampling Box Edelman",
+        "name": "Edelman Sampling Box",
         "price": 0,
         "description": "",
             "quantity": 0,

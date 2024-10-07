@@ -446,11 +446,13 @@ document.addEventListener("DOMContentLoaded", function () {
           Object.entries(more.DON_reference_number).forEach(([variation, value]) => {
             moreInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
+
+        moreInfoHTML += `</select><br><br>`;
     
-          moreInfoHTML += `</select><br><br>`;
         }
     
         moreInfoHTML += `
+        <p>Variation: ${Object.values(more.DON_reference_number)[0].variation || ''}</p>
         <p id="don">Item Code: </p><p id="selectedValue"><strong>${Object.values(more.DON_reference_number)[0].value}</strong></p>
         <p id="note" style="display: ${more.Note ? 'block' : 'none'}">Note: ${more.Note}</p>
         </div>
@@ -475,6 +477,5 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         }
       };
-    })
     });
-
+  });

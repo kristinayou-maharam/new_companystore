@@ -492,14 +492,20 @@ document.addEventListener("DOMContentLoaded", function () {
           <label for="variationDropdown"><p style="display:inline-block">Variation:</p></label>
           <select id="variationDropdown">`;
     
-          Object.entries(more.DON_reference_number).forEach(([variation, value]) => {
+          Object.entries(more.DON_reference_number).forEach(([, value]) => {
             moreInfoHTML += `<option value="${value.value}">${value.variation}</option>`;
           });
     
           moreInfoHTML += `</select><br>`;
+        } else if (Object.keys(more.DON_reference_number).length === 1) {
+
+          Object.entries(more.DON_reference_number).forEach(([, value]) => {
+            moreInfoHTML += `<p>Variation: ${value.variation}</p>`;
+          });
         }
 
         moreInfoHTML += `
+
         <p id="don" style="display: ${more.DON_reference_number ? 'block' : 'none'}">Item code: </p><p id="selectedValue">${more.DON_reference_number ? Object.values(more.DON_reference_number)[0].value : ''}</p>
         <p id="note" style="display: ${more.Note ? 'block' : 'none'}">Note: ${more.Note}</p>
         <p id="contact" style="display: ${more.contact ? 'block' : 'none'}">${more.contact}</p>

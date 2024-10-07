@@ -8,7 +8,6 @@
         "price": 1,
         "description": "",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "001 Zest", "value": "801401-001"}
             ],
           "contact": "",
@@ -23,7 +22,6 @@
         "price": 1,
         "description": "",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "002 Poppy", "value": "801402-002"}
             ],
           "contact": "",
@@ -38,7 +36,6 @@
         "price": 1,
         "description": "",
         "DON_reference_number": [
-          {"variation": "Select an option", "value": ""},
           {"variation": "003 Glacier", "value": "801403-003"}
             ],
           "contact": "",
