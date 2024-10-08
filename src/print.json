@@ -64,7 +64,7 @@
           ],
           "name": "Bertjan Pot",
           "price": 0,
-          "description": "Sales tool celebrating the work of Bertjan Pot.",
+          "description": "Sales tool celebrating the work of Bertjan Pot which includes an interview between Marco Velardi and Bertjan Pot and with photography by Nick Ballón.",
           "DON_reference_number": "",
           "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
           "quantity": 1,
@@ -105,7 +105,7 @@
           ],
         "name": "Book Shipping Box",
         "price": 0,
-        "description": "Shipping box for <em>60 60</em> book.",
+        "description": "Shipping box for <em>60 60</em>, Bertjan Pot, and The Nick Cave Collection.",
         "DON_reference_number": [
           {"variation": "Select an option", "value": "J/000001"}],
         "contact": "",
@@ -259,7 +259,7 @@
         "category": "Print",
         "name": "The Nick Cave Collection",
         "price": 1,
-        "description": "",
+        "description": "This book celebrates Nick Cave’s collection with Knoll Textiles and shows insight into his creative process. Created by Bob Faust and Nick Cave. There are two versions of this book, one with a Big Floral Wrap cover and one without.",
             "quantity": 1,
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""},
@@ -267,7 +267,7 @@
               {"variation": "Nick Cave Book-Big Floral Wrap", "value": "J500002"}
             ], 
             "contact": "",
-            "Note": "Contact Thoroughbred"
+            "Note": "Sample Order Entry in DON"
       }
     ]
   }

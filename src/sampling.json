@@ -187,7 +187,7 @@
           ],
         "name": "Maharam Memo Bin",
         "price": 0,
-        "description": "",
+        "description": "For domestic shipments bins will ship assembled. For international shipments bins will ship flat packed and need to be assembled upon arrival.",
             "quantity": "1 = four bins",
             "DON_reference_number": [
               {"variation": "Select an option", "value": ""},
@@ -246,12 +246,10 @@
           ],
         "name": "Drenthe Heath Sampling Card",
         "price": 0,
-        "description": "",
+        "description": "Hand assembled in The Netherlands by Studio Claudy Jongstra. This sampling card includes each colorway available of Drenth Heath.",
             "quantity": 0,
-            "DON_reference_number": [
-              {"variation": "Select an option", "value": ""}
-                ],
-            "contact": "",
+            "DON_reference_number": "",
+            "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
             "Note": "This item will be available soon."
       },
       
