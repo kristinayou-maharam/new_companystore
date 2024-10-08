@@ -760,6 +760,11 @@ ul:hover{
   font-family: 'maharam-medium';
 }
 
+#variationlabel{
+  margin-bottom: 0;
+  font-family: "maharam";
+}
+
 #contact{
   font-family: 'maharam-medium';
 }

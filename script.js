@@ -499,7 +499,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } else if (Object.keys(more.DON_reference_number).length === 1) {
 
           Object.entries(more.DON_reference_number).forEach(([, value]) => {
-            moreInfoHTML += `<p>Variation: ${value.variation}</p>`;
+            moreInfoHTML += `<p id="variationlabel">Variation: ${value.variation}</p>`;
           });
         }
 
