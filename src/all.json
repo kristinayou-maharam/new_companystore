@@ -10,10 +10,10 @@
         "name": "Look Book, 2021 (English, German, French)",
         "price": 0,
         "description": "A look book of our company, activities, and approach featuring original photography by Nick Ballón.",
-        "contact": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "DON_reference_number": "",
             "quantity": 1,
-            "Note": "This item is no longer available and will not be reordered."
+            "Note": ""
            },
       {
         "image": [
@@ -24,10 +24,10 @@
         "name": "Look Book, 2021 (English, Japanese, Chinese)",
         "price": 0,
         "description": "A look book of our company, activities, and approach featuring original photography  by Nick Ballón.",
-        "contact": "",
+        "contact": "To order this item, contact Media at <a href=\"mailto:media@maharam.com\">media@maharam.com</a>",
         "DON_reference_number": "",
             "quantity": 1,
-            "Note": "This item is no longer available and will not be reordered."
+            "Note": ""
            
       },
       {
