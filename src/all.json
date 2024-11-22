@@ -619,7 +619,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Maharam Binder Label Nonwoven.jpg"
           ],
         "category": "Sampling",
         "name": "Maharam Binder Label \"Nonwoven\"",
@@ -649,7 +649,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Maharam Memo Bin.jpg"
           ],
         "category": "Sampling",
         "name": "Maharam Memo Bin",
@@ -666,8 +666,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
-          ],
+          "./img/new/Sampling/Maharam Memo Bin Label All Categories.jpg"
+        ],
         "category": "Sampling",
         "name": "Maharam Memo Bin Label All Categories",
         "price": 0,
@@ -696,7 +696,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Maharam Memo Bin Label _Leather_.jpg"
           ],
         "category": "Sampling",
         "name": "Maharam Memo Bin Label \"Leather\"",
@@ -711,7 +711,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Drenthe Heath Sampling Card_1.jpg",
+          "./img/new/Sampling/Drenthe Heath Sampling Card_2.jpg"
           ],
         "category": "Sampling",
         "name": "Drenthe Heath Sampling Card",
@@ -740,7 +741,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Knoll Textiles Hang Set.jpg"
           ],
         "category": "Sampling",
         "name": "Knoll Textiles Sampling Cart and Parts",
@@ -835,7 +836,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Edelman Sampling Box_1.jpg"
           ],
         "category": "Sampling",
         "name": "Edelman Sampling Box",
