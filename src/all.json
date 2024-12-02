@@ -108,7 +108,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Print/Book Shipping Box.jpg"
           ],
         "category": "Print",
         "name": "Book Shipping Box",
@@ -124,7 +124,11 @@
 
       {
         "image": [
-          "./img/new/Print/the archytypes.png"
+          "./img/new/Print/the archytypes.png",
+          "./img/new/Print/The-Archetypes_01.jpg",
+          "./img/new/Print/The-Archetypes_02.jpg",
+          "./img/new/Print/The-Archetypes_03.jpg",
+          "./img/new/Print/The-Archetypes_04.jpg"
           ],
         "category": "Print",
         "name": "The Archetypes",
@@ -237,7 +241,7 @@
       
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Print/Calendar 2025.jpg"
           ],
         "category": "Print",
         "name": "Calendar 2025",
@@ -282,7 +286,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+        "./img/new/Presentation/Maharam Shopping Bag Label_on.jpg",
+        "./img/new/Presentation/Maharam Shopping Bag Label.jpg"
           ],
         "category": "Presentation",
         "name": "Maharam Shopping Bag Label",
@@ -574,7 +579,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Maharam Binder Label Holder.jpg"
           ],
         "category": "Sampling",
         "name": "Maharam Binder Label Holder",
@@ -820,7 +825,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Sampling/Edelman Memo Bin_new.jpg"
           ],
         "category": "Sampling",
         "name": "Edelman Memo Bin",
@@ -877,7 +882,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
           ],
         "category": "Stationery",
         "name": "Envelope with Showroom Address (North America)",
@@ -890,7 +895,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
         "name": "Letterhead with Showroom Address (ROW)",
@@ -904,7 +909,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
           ],
         "category": "Stationery",
         "name": "Envelope with Showroom Address (ROW)",
@@ -917,7 +922,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Mailing Label with Showroom Address.jpg",
+          "./img/new/Stationery/Large Kraft Envelope.jpg"
           ],
         "category": "Stationery",
         "name": "Mailing Label with Showroom Address",
@@ -931,10 +937,10 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Large Kraft Envelope.jpg"
           ],
         "category": "Stationery",
-        "name": "Large Kraft Envelope",
+        "name": "Kraft Envelope",
         "price": 0,
         "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
             "quantity": "1=100 envelopes",
@@ -945,7 +951,9 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Mailing Label Sheet-01.jpg",
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg",
+          "./img/new/Stationery/Mailing Label Sheet-03.jpg"
           ],
         "category": "Stationery",
         "name": "Mailing Label Sheet",
@@ -960,10 +968,10 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
           ],
         "category": "Stationery",
-        "name": "Small Kraft Envelope",
+        "name": "Brown Envelope",
         "price": 0,
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",
@@ -1484,6 +1492,21 @@
               {"variation": "Select an option", "value": ""},
               {"variation": "Nick Cave Book", "value": "J500001"},
               {"variation": "Nick Cave Book-Big Floral Wrap", "value": "J500002"}
+            ], 
+            "contact": "",
+            "Note": "Sample Order Entry in DON"
+      },
+      {
+        "image": [
+          "img/new/Books/Hella Jongerius It All Starts.png"
+          ],
+        "category": "Print",
+        "name": "Hella Jongerius: It All Starts With a Yarn",
+        "price": 1,
+        "description": "This book celebrates Nick Cave’s collection with Knoll Textiles and shows insight into his creative process. Created by Bob Faust and Nick Cave. There are two versions of this book, one with a Big Floral Wrap cover and one without.",
+            "quantity": 1,
+            "DON_reference_number": [
+              {"variation": "Select an option", "value": ""}
             ], 
             "contact": "",
             "Note": "Sample Order Entry in DON"

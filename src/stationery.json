@@ -26,7 +26,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
           ],
         "name": "Envelope with Showroom Address (North America)",
         "price": 0,
@@ -38,7 +38,7 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Letterhead with Showroom Address_ROW.jpg"
           ],
         "name": "Letterhead with Showroom Address (ROW)",
         "price": 0,
@@ -51,7 +51,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envenvelope with Showroom Address_ROW.jpg"
           ],
         "name": "Envelope with Showroom Address (ROW)",
         "price": 0,
@@ -63,7 +63,8 @@
       },
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Mailing Label with Showroom Address.jpg",
+          "./img/new/Stationery/Large Kraft Envelope.jpg"
           ],
         "name": "Mailing Label with Showroom Address",
         "price": 0,
@@ -76,9 +77,9 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Large Kraft Envelope.jpg"
           ],
-        "name": "Large Kraft Envelope",
+        "name": "Kraft Envelope",
         "price": 0,
         "description": "Gusseted kraft envelopes for sending samples and printed matter by courier. ",
             "quantity": "1=100 envelopes",
@@ -90,7 +91,9 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Mailing Label Sheet-01.jpg",
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg",
+          "./img/new/Stationery/Mailing Label Sheet-03.jpg"
           ],
         "name": "Mailing Label Sheet",
         "price": 0,
@@ -104,9 +107,9 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Stationery/Envelope with Showroom Address_NA.jpg"
           ],
-        "name": "Small Kraft Envelope",
+        "name": "Brown Envelope",
         "price": 0,
         "description": "7.5\" x 3.75\" in kraft envelopes used for annoucements, invitations, holiday cards and notecards.",
             "quantity": "1 = 1 box of 500 envelopes",

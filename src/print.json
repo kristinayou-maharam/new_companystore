@@ -101,7 +101,7 @@
 
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Print/Book Shipping Box.jpg"
           ],
         "name": "Book Shipping Box",
         "price": 0,
@@ -116,7 +116,11 @@
 
       {
         "image": [
-          "./img/new/Print/the archytypes.png"
+          "./img/new/Print/the archytypes.png",
+          "./img/new/Print/The-Archetypes_01.jpg",
+          "./img/new/Print/The-Archetypes_02.jpg",
+          "./img/new/Print/The-Archetypes_03.jpg",
+          "./img/new/Print/The-Archetypes_04.jpg"
           ],
         "name": "The Archetypes",
         "price": 0,
@@ -224,7 +228,7 @@
       
       {
         "image": [
-          "./img/new/coming-soon.png"
+          "./img/new/Print/Calendar 2025.jpg"
           ],
         "name": "Calendar 2025",
         "price": 1,
